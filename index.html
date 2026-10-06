@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f4f1e9">
+  <meta name="description" content="filisimusic，一个可以聆听、阅读创作过程，也可以打开工程的音乐档案。AI 辅助创作的合成器乐作品集。">
+  <title>filisimusic · 每一首，都有来处</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#library">跳到曲目</a>
+<header class="site-header shell">
+  <a class="brand" href="./" aria-label="filisimusic 首页"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>filisimusic<span class="brand-dot">♪</span></a>
+  <nav aria-label="主导航"><a href="#library" class="nav-active">音乐馆</a><a href="#about">制作手记</a><a class="repository-link" href="https://github.com/ThySummer14/filisimusic" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a></nav>
+</header>
+<main>
+  <section class="hero shell" aria-labelledby="hero-title">
+    <div class="hero-copy">
+      <p class="eyebrow"><span class="tiny-dot"></span> AN INDEPENDENT MUSIC ARCHIVE</p>
+      <h1 id="hero-title">每一首，<br>都有<span class="serif-accent">来处。</span></h1>
+      <p class="hero-description">把灵感写成旋律，把过程留在这里。<br>随意听听，也看看一首曲子是如何长成的。</p>
+      <div class="hero-actions"><button class="button button-ink" id="start-listening" disabled><span class="play-symbol" aria-hidden="true"></span> 开始聆听</button><a class="text-link" href="#library">探索全部曲目 <span aria-hidden="true">↗</span></a></div>
+      <div class="hero-footnote"><span>原创器乐 · AI 辅助创作</span><span class="small-rule"></span><span>没有广告，只有音乐</span></div>
+    </div>
+    <div class="sleeve" aria-label="音乐档案的抽象唱片封面">
+      <div class="sleeve-top"><span>FILISI / SOUND STUDIES</span><span>VOL. 01</span></div>
+      <div class="sleeve-grid" aria-hidden="true"></div>
+      <div class="vinyl" aria-hidden="true"><div class="vinyl-label"><span>filisi</span><span>music</span><i></i></div></div>
+      <div class="sleeve-caption"><span>声音有形<br>灵感无界</span><span class="sleeve-catalog">A COLLECTION<br>OF LITTLE WORLDS</span></div>
+      <span class="sleeve-sticker" aria-hidden="true">PRESS<br>PLAY ↗</span>
+    </div>
+  </section>
+  <div class="collection-strip shell"><span>一段旋律，一个小世界。</span><div><span><b id="stat-count">—</b> 首作品</span><span><b id="stat-duration">—</b> 分钟音乐</span><span class="collection-format">MP3 + REAPER 工程</span></div></div>
+  <section class="library shell" id="library" aria-labelledby="library-title">
+    <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2 id="library-title">找到此刻的频率<span class="heading-dot">.</span></h2></div><button id="random-track" class="text-link" disabled><span aria-hidden="true">⤨</span> 随心听一首</button></div>
+    <div class="filters">
+      <div class="filter-tabs" role="group" aria-label="按作品系列筛选"><button data-group="all" class="filter-tab active" aria-pressed="true">全部作品 <span id="all-count"></span></button><button data-group="acoustic" class="filter-tab" aria-pressed="false">木色与琴弦</button><button data-group="electronic" class="filter-tab" aria-pressed="false">电子与节奏</button><button data-group="sketch" class="filter-tab" aria-pressed="false">灵感短篇</button></div>
+      <div class="search-controls"><label class="search-box"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><span class="sr-only">搜索曲名、风格或创作说明</span><input id="search" type="search" placeholder="搜索曲名、风格、灵感…" autocomplete="off"></label><label class="style-select"><span class="sr-only">按音乐风格筛选</span><select id="style-filter"><option value="all">所有风格</option></select></label></div>
+    </div>
+    <div class="results-line"><p id="results-count" role="status">正在整理唱片架…</p><label class="sort-label">排序 <select id="sort"><option value="original">收录顺序</option><option value="duration-desc">时长从长到短</option><option value="duration-asc">时长从短到长</option><option value="title">曲名</option></select></label></div>
+    <div id="catalog-error" class="empty-state" hidden><h3>唱片架暂时没打开</h3><p>请检查网络后重试。音乐文件不会自动下载。</p><button id="retry-catalog" class="button button-ink">重新加载</button></div>
+    <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">◌</span><h3>这一次，没有找到匹配的旋律</h3><p>试试另一种风格，或换一个关键词。</p><button id="clear-filters" class="button button-outline">清除筛选</button></div>
+    <div class="track-grid" id="track-grid" aria-label="曲目列表" aria-busy="true"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+    <div class="load-more-wrap"><button id="load-more" class="button button-outline" hidden>再翻一页 <span aria-hidden="true">↓</span></button></div>
+    <noscript><p class="empty-state">播放器需要 JavaScript。你也可以到 <a href="https://github.com/ThySummer14/filisimusic">GitHub 仓库</a>下载音乐与工程。</p></noscript>
+  </section>
+  <section class="about shell" id="about" aria-labelledby="about-title">
+    <div><p class="eyebrow">BEHIND THE SOUND</p><h2 id="about-title">不只听见结果。<br><span>也看见过程。</span></h2><p class="about-intro">每首曲目都保留了它的结构、修改记录和可再生成工程。点击「制作手记」，从第一份乐谱开始认识它。</p></div>
+    <div class="about-notes">
+      <article><span class="note-number">01</span><div><h3>关于这些声音</h3><p>这些是 AI 辅助编写的器乐作品，使用程序合成音色并经 REAPER 导出。乐器名称描述配器与音色，不代表真人演奏或实录。</p></div></article>
+      <article><span class="note-number">02</span><div><h3>工程里有什么</h3><p>每首提供可再生成源文件包。轻量包不含现成音频分轨，需按照包内说明生成素材后再打开工程；具体依赖与版本以每首说明为准。</p></div></article>
+      <article><span class="note-number">03</span><div><h3>把验证也写清楚</h3><p>曲目的导出、技术检查与修改记录来自制作档案。技术检查不能代替完整听审；尚未完成逐曲完整人工听审。</p></div></article>
+    </div>
+  </section>
+</main>
+<footer class="site-footer shell"><div><a class="footer-brand" href="./">filisimusic</a><p>每一首，都有来处。</p></div><div><a href="https://github.com/ThySummer14/filisimusic" target="_blank" rel="noopener noreferrer">浏览项目与源文件 ↗</a><a href="data/source-catalog.json" target="_blank" rel="noopener">原始制作记录 ↗</a><button class="text-link" id="keyboard-help">键盘快捷键</button><span>本页无第三方播放器或统计脚本</span></div></footer>
+<section class="player" aria-label="音乐播放器">
+  <div class="player-inner shell"><button class="player-track" id="player-details" disabled aria-label="查看当前曲目的制作手记"><span class="player-cover" id="player-cover"><span aria-hidden="true">♪</span></span><span class="player-track-copy"><strong id="player-title">选一首，开始听。</strong><span id="player-subtitle">你的下一段旋律，在这里</span></span></button>
+    <div class="player-center"><div class="transport"><button class="icon-button" id="previous" aria-label="上一首" title="上一首 (P)" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 5 8 12l11 7z"/></svg></button><button class="main-play" id="play-pause" aria-label="播放" title="播放 / 暂停 (空格)" disabled><span class="play-symbol" aria-hidden="true"></span></button><button class="icon-button" id="next" aria-label="下一首" title="下一首 (N)" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M5 5l11 7-11 7z"/></svg></button></div><div class="progress-row"><span id="elapsed">0:00</span><label class="sr-only" for="seek">播放进度</label><input id="seek" type="range" min="0" max="100" step="0.1" value="0" disabled aria-valuetext="0 分 0 秒"><span id="duration">0:00</span></div></div>
+    <div class="player-extra"><button id="mute" class="icon-button" aria-label="静音" title="静音"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9zM17 8q5 4 0 8"/></svg></button><label class="sr-only" for="volume">音量</label><input type="range" id="volume" min="0" max="1" step="0.01" value="0.75" aria-valuetext="75%"><span class="player-quality">MP3</span></div>
+  </div><div id="playback-notice" class="playback-notice" role="status" hidden><span id="playback-message"></span><button id="retry-audio" hidden>重试播放</button><button id="dismiss-notice" aria-label="关闭播放提示">×</button></div>
+</section>
+<audio id="audio" preload="metadata"></audio>
+<dialog class="track-dialog" id="track-dialog" aria-labelledby="dialog-title"><button class="dialog-close icon-button" aria-label="关闭制作手记" id="close-dialog">×</button><div id="dialog-content"></div></dialog>
+<dialog class="help-dialog" id="help-dialog" aria-labelledby="help-title"><form method="dialog"><button class="dialog-close icon-button" aria-label="关闭快捷键">×</button></form><p class="eyebrow">A LITTLE SHORTCUT</p><h2 id="help-title">让键盘接着放。</h2><dl><div><dt>空格</dt><dd>播放 / 暂停</dd></div><div><dt>← / →</dt><dd>后退 / 前进 5 秒</dd></div><div><dt>P / N</dt><dd>上一首 / 下一首</dd></div><div><dt>Esc</dt><dd>关闭弹窗</dd></div></dl><p>输入文字或操作按钮、滑块时，快捷键不会打断你。</p></dialog>
+<div class="sr-only" id="announcement" aria-live="polite"></div>
+</body>
+</html>

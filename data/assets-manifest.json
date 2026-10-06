@@ -7,8 +7,8 @@
     },
     {
       "path": "projects/jazz_waltz.zip",
-      "bytes": 46035,
-      "sha256": "5510260f695659aec4ad11a3e1c3e8d61a3c7b4231f6cf212d1e8c03d511413a"
+      "bytes": 46090,
+      "sha256": "ff57e1297d724aa2cb2b6aee0d13979e6bed1f2b37f39d4a9fceeedcda7b4acf"
     },
     {
       "path": "audio/bossa_nova.mp3",
@@ -17,8 +17,8 @@
     },
     {
       "path": "projects/bossa_nova.zip",
-      "bytes": 41810,
-      "sha256": "5cde46818ab303568d3f236a3cb2c4068bfb906b74519539fcb48703df9b3536"
+      "bytes": 41865,
+      "sha256": "81f605ea18131810aec215aa3ec7cf38e3df61f253e80d1bb311de32ac762610"
     },
     {
       "path": "audio/piano_ballad.mp3",
@@ -27,8 +27,8 @@
     },
     {
       "path": "projects/piano_ballad.zip",
-      "bytes": 19811,
-      "sha256": "4706c8af49a6035f9405fe1fda65b8036cf4204afcbad6ab7b8cef05eeabdce3"
+      "bytes": 19866,
+      "sha256": "55f9d48c4475bc8fce205f402bdb64737b68583511a39337cfaf58981385ba88"
     },
     {
       "path": "audio/chamber.mp3",
@@ -37,8 +37,8 @@
     },
     {
       "path": "projects/chamber.zip",
-      "bytes": 21612,
-      "sha256": "7ff48047538af0d1dcc6da32cfe78cdcc3bd22d187b37b336bfe2ed29fc61c59"
+      "bytes": 21667,
+      "sha256": "502a70abc6d40a6a889ae85d2bc19d7b5df79206a34d6fb705f7e523f8d5960a"
     },
     {
       "path": "audio/pentatonic.mp3",
@@ -47,8 +47,8 @@
     },
     {
       "path": "projects/pentatonic.zip",
-      "bytes": 19080,
-      "sha256": "0b7455afda6b7e8b7b1898442464171c93bcfe3863fffa51aeb22cbf21998b1d"
+      "bytes": 19135,
+      "sha256": "f1e867d428778b68434ab61cc4e1ef7dc608d86457f3a9f964eff02327d4f603"
     },
     {
       "path": "audio/neo_soul.mp3",
@@ -57,8 +57,8 @@
     },
     {
       "path": "projects/neo_soul.zip",
-      "bytes": 34514,
-      "sha256": "8960d67211edb36e3456be41960fa48b5679aa29a5a375fcb7de83dc5dbbcabc"
+      "bytes": 34569,
+      "sha256": "37e495796bee71eef4b3a9323a1f35b5fbc51949bd802bcdf8ece228155fe020"
     },
     {
       "path": "audio/synthwave.mp3",
@@ -67,8 +67,8 @@
     },
     {
       "path": "projects/synthwave.zip",
-      "bytes": 41746,
-      "sha256": "660786fedf0887439000d91b67f06f210954f0de63f377dda3580339ca940572"
+      "bytes": 41801,
+      "sha256": "52b742326f5fb235ff0776e7470dfbfc383b70e8a7c73433c72a79d502bf5539"
     },
     {
       "path": "audio/ambient.mp3",
@@ -77,8 +77,8 @@
     },
     {
       "path": "projects/ambient.zip",
-      "bytes": 12992,
-      "sha256": "74322b69b9e5bba252c6d0154ba390656234a891f133327b4edb16026dc49d38"
+      "bytes": 13047,
+      "sha256": "280ef2f207a584b77461c23ce3e4cb93921936f5ab3407674e482113c207a6b8"
     },
     {
       "path": "audio/drum_and_bass.mp3",
@@ -87,8 +87,8 @@
     },
     {
       "path": "projects/drum_and_bass.zip",
-      "bytes": 34849,
-      "sha256": "ce5655e01bd8b311c80d02895f6b8278e9579e0df5d2772e93980eb2cdab8df2"
+      "bytes": 34904,
+      "sha256": "420dc31e8bc5848552b7b4cf72781f0b2c1c53db5a7ba0fe142938d992e5ad5c"
     },
     {
       "path": "audio/post_rock.mp3",
@@ -97,8 +97,8 @@
     },
     {
       "path": "projects/post_rock.zip",
-      "bytes": 27865,
-      "sha256": "9ef8b7d3c7d58dceb58a4333ff75d401a02e0b989c4562c5e617381129188d00"
+      "bytes": 27920,
+      "sha256": "44cafb874cf36bdbf071c99223296591f8be20110e6f00c5657e018cfa8e6058"
     },
     {
       "path": "audio/electronic_31.mp3",
@@ -107,8 +107,8 @@
     },
     {
       "path": "projects/electronic_31.zip",
-      "bytes": 61573,
-      "sha256": "f4e355c7b883629a3306c8e5344b8f8f4a7aa154770f74a11f7b8f0800f9f690"
+      "bytes": 61629,
+      "sha256": "3c059e601ee105dbf41eec1e140758d9ca0760e307aa4cadfbac64409d5cf959"
     },
     {
       "path": "audio/electronic_35.mp3",
@@ -117,8 +117,8 @@
     },
     {
       "path": "projects/electronic_35.zip",
-      "bytes": 71003,
-      "sha256": "e24cc9b1a4574214473eaa1047ed1a82536166c295152fabafe0c86fb4594fd2"
+      "bytes": 71059,
+      "sha256": "cb71b5ba53b32444586c68cca5392809e2d4c19c17c3a045e5e3ba7b033e878e"
     },
     {
       "path": "audio/acoustic_11.mp3",
@@ -127,8 +127,8 @@
     },
     {
       "path": "projects/acoustic_11.zip",
-      "bytes": 25445,
-      "sha256": "971d768f662bd4b187c102a6035c5fd7b45cd15e021917b2d8c0fe610619391c"
+      "bytes": 25501,
+      "sha256": "b38511cf79f01063d7b5b32cfd80bce27a9425073ec59a2a7e92c58528088cc3"
     },
     {
       "path": "audio/electronic_39.mp3",
@@ -137,8 +137,8 @@
     },
     {
       "path": "projects/electronic_39.zip",
-      "bytes": 20077,
-      "sha256": "5662e3036f24bdc4ed33c135bb576cef0c5e66670f2e01097a5b1ec91efc4d24"
+      "bytes": 20133,
+      "sha256": "9cacd91edcfdcbf2a8f8d5dbb94569020024edbd03e51671262d642426d4b589"
     },
     {
       "path": "audio/electronic_43.mp3",
@@ -147,8 +147,8 @@
     },
     {
       "path": "projects/electronic_43.zip",
-      "bytes": 66272,
-      "sha256": "40ce6053a54db844bcde613939831283eb17df3fe406419d10373b711064153b"
+      "bytes": 66328,
+      "sha256": "34bea911d465f5751241b2492143a87fb13519d0f3cb22963015db8ef919743e"
     },
     {
       "path": "audio/acoustic_12.mp3",
@@ -157,8 +157,8 @@
     },
     {
       "path": "projects/acoustic_12.zip",
-      "bytes": 26037,
-      "sha256": "a012d5d90c33ea7b44f4337a641f927a12da9d5d9f597aa8ab5f60415b6fc2da"
+      "bytes": 26093,
+      "sha256": "b43ce61e5ed97755d9fa6f480274075e380ee00a63701e99a57afb181d60100b"
     },
     {
       "path": "audio/acoustic_13.mp3",
@@ -167,8 +167,8 @@
     },
     {
       "path": "projects/acoustic_13.zip",
-      "bytes": 24484,
-      "sha256": "e06e8511fb9cf7008d845776093659df79d2a06d514c8eb864ab4d96a1270742"
+      "bytes": 24540,
+      "sha256": "fc665d2cdf311a853a15b0130e62633fe40e18e59ab5ccf58643fb6e16cbc035"
     },
     {
       "path": "audio/electronic_50.mp3",
@@ -177,8 +177,8 @@
     },
     {
       "path": "projects/electronic_50.zip",
-      "bytes": 49872,
-      "sha256": "6a017d9f0c94acb0834a0d1e23dd2854dd9ec7e2a007b24ef33990afb9122245"
+      "bytes": 49928,
+      "sha256": "3224981bf4fdf25039c95a95b8d048301a5ed10c538d35da447f69d621696701"
     },
     {
       "path": "audio/acoustic_14.mp3",
@@ -187,8 +187,8 @@
     },
     {
       "path": "projects/acoustic_14.zip",
-      "bytes": 65762,
-      "sha256": "ba6ae5940537c4baf245798a9f0bf602b811d09e15e2f454ca1cca6efd0902b3"
+      "bytes": 65818,
+      "sha256": "eaa9af981d2a765a81163a3e841f147a75a44fc5cd705a302be9b75470ffc0b8"
     },
     {
       "path": "audio/acoustic_15.mp3",
@@ -197,8 +197,8 @@
     },
     {
       "path": "projects/acoustic_15.zip",
-      "bytes": 59156,
-      "sha256": "a46b3f70668a6aeaa08208f8ee24400a559032282d6cb7d836192e4db7eb6ab2"
+      "bytes": 59212,
+      "sha256": "06b5929c11f218a6da2e2afeef8fc0265cb831622c36f35bb9a29f61f75ccbb0"
     },
     {
       "path": "audio/acoustic_16.mp3",
@@ -207,8 +207,8 @@
     },
     {
       "path": "projects/acoustic_16.zip",
-      "bytes": 25706,
-      "sha256": "e598b63f211ae4344c3cb9abec25618abb75180305259b47b057df3732a394b3"
+      "bytes": 25762,
+      "sha256": "92dea49772b681419ca00d85ff4d726f70b67f7fbdcb792219dcc32c32afbf82"
     },
     {
       "path": "audio/acoustic_17.mp3",
@@ -217,8 +217,8 @@
     },
     {
       "path": "projects/acoustic_17.zip",
-      "bytes": 22470,
-      "sha256": "b667c2249aabd6d87399c3ca8e6c303bbbc89cac6dc4cf2d12ffb8b72287b39a"
+      "bytes": 22526,
+      "sha256": "2ea674db2c3554ac22d27d346f98a471df5cfb89fd8de9dacaefcb00e927c5bb"
     },
     {
       "path": "audio/acoustic_18.mp3",
@@ -227,8 +227,8 @@
     },
     {
       "path": "projects/acoustic_18.zip",
-      "bytes": 28454,
-      "sha256": "392356136465d769fe9d2133c529b3c57e77f72641783f00b223e0f60602aae1"
+      "bytes": 28510,
+      "sha256": "8631b31d6a834a82cdda08349a1645bc8d9484b5dc19a75379e043acc5719d46"
     },
     {
       "path": "audio/acoustic_19.mp3",
@@ -237,8 +237,8 @@
     },
     {
       "path": "projects/acoustic_19.zip",
-      "bytes": 48501,
-      "sha256": "f05c0df1bf738fabf8ba702f0b9fee4702b71a083cc2a8dcc8d6e8b043ac5b9c"
+      "bytes": 48557,
+      "sha256": "bcea3917fa2ca923ae6afaa08cb2deca8dcc3d5d32bd67388fc513edf88db3ac"
     },
     {
       "path": "audio/acoustic_20.mp3",
@@ -247,8 +247,8 @@
     },
     {
       "path": "projects/acoustic_20.zip",
-      "bytes": 50661,
-      "sha256": "a90936c1f7fd732d8b15ec5c90f0d367a0dc57d77c0f79716c6efaaaa3052f2f"
+      "bytes": 50717,
+      "sha256": "ef44cb1caafe67aec747dc19e8d2f38c24dd41d9dd4a1ac554ced8a0943bb29a"
     },
     {
       "path": "audio/electronic_32.mp3",
@@ -257,8 +257,8 @@
     },
     {
       "path": "projects/electronic_32.zip",
-      "bytes": 52698,
-      "sha256": "2d14d05b2a22c596af7402ba615ad3760f7e8c1b9a3698196c8ba9967461d93d"
+      "bytes": 52754,
+      "sha256": "a42a05542051ba69effe8439de36096b7c0b5e5a3ddf8d22319286d6fc9661fd"
     },
     {
       "path": "audio/electronic_36.mp3",
@@ -267,8 +267,8 @@
     },
     {
       "path": "projects/electronic_36.zip",
-      "bytes": 60471,
-      "sha256": "ab465ab3fb85b35270bc2e0fa05588906e8ddd64c3f4e8526a79585b7512a869"
+      "bytes": 60527,
+      "sha256": "6154d7a3e6dd9fab44aaa739aa6398c41662ebcf991c381ee87e1b23a4771680"
     },
     {
       "path": "audio/electronic_40.mp3",
@@ -277,8 +277,8 @@
     },
     {
       "path": "projects/electronic_40.zip",
-      "bytes": 19847,
-      "sha256": "cf798e6975485aed7d7b8c5a27a5268605dd35122e97f30e396f8ca89d962498"
+      "bytes": 19903,
+      "sha256": "8387d3170aa28715999200af0f9c862acd9e5f44aba4290246b1625a8acddcec"
     },
     {
       "path": "audio/electronic_44.mp3",
@@ -287,8 +287,8 @@
     },
     {
       "path": "projects/electronic_44.zip",
-      "bytes": 65908,
-      "sha256": "809ccd94c45b64c855219b889a4524a2c66ff39843303b3a77574382f8aa414d"
+      "bytes": 65964,
+      "sha256": "b47a7f9d95449b7a3ef92b2845d82d9f7971df23845c771acd41987879158e9a"
     },
     {
       "path": "audio/electronic_48.mp3",
@@ -297,8 +297,8 @@
     },
     {
       "path": "projects/electronic_48.zip",
-      "bytes": 32571,
-      "sha256": "32d0cf1d5a6c8f5d2f53cdbf3aadf2b88f4b76c4159f6ef8b2b878ded1e4f01f"
+      "bytes": 32627,
+      "sha256": "f4f580ac7513c1a78edf6d02b2eac6a553263cf6aa744f70b244078d222e3a3b"
     },
     {
       "path": "audio/acoustic_21.mp3",
@@ -307,8 +307,8 @@
     },
     {
       "path": "projects/acoustic_21.zip",
-      "bytes": 26258,
-      "sha256": "8fa641c7e7cf57e79d3bf227937146d4f48af61cea42c31f5f43485ffb9ea617"
+      "bytes": 26314,
+      "sha256": "3a0a0c7d825d459accccc4e19bfe6f15f243a74a0fb54833d0f11b1d4b4b4acd"
     },
     {
       "path": "audio/acoustic_22.mp3",
@@ -317,8 +317,8 @@
     },
     {
       "path": "projects/acoustic_22.zip",
-      "bytes": 27203,
-      "sha256": "5cdf35809431a5f8c9aa04099c411196280f51dbf6d186789e2f42c7432a6677"
+      "bytes": 27259,
+      "sha256": "d051a7491dd0549fb2ee16b25f9a30084809664c52fb9074f2496013b027547c"
     },
     {
       "path": "audio/acoustic_23.mp3",
@@ -327,8 +327,8 @@
     },
     {
       "path": "projects/acoustic_23.zip",
-      "bytes": 24333,
-      "sha256": "76149635e3094ef37d3eca394f7528d7204deabf28c4b04df76cb469d794bf54"
+      "bytes": 24389,
+      "sha256": "877be8a96dd82d4fb3f600f4782818c5690c7ff0922924fdb868c19fb9036d7d"
     },
     {
       "path": "audio/acoustic_24.mp3",
@@ -337,8 +337,8 @@
     },
     {
       "path": "projects/acoustic_24.zip",
-      "bytes": 52259,
-      "sha256": "e07d6506aa954eeaaba1a48e611fef308c2eeffce014fd4b02226d8d1d7ff9de"
+      "bytes": 52315,
+      "sha256": "e7594026854ae8a30a2cdaa2e434b09e0f9f26f610f62b82efed8819e693e025"
     },
     {
       "path": "audio/acoustic_25.mp3",
@@ -347,8 +347,8 @@
     },
     {
       "path": "projects/acoustic_25.zip",
-      "bytes": 60348,
-      "sha256": "0f7da2fb05eb774ee876d827771a0d5413f373031f691e3cf68191f60ef20438"
+      "bytes": 60404,
+      "sha256": "c692b1f54e558f02b1b4fa86856f31c85d8e2cd54ffcf5ffca8d3757c3343835"
     },
     {
       "path": "audio/electronic_33.mp3",
@@ -357,8 +357,8 @@
     },
     {
       "path": "projects/electronic_33.zip",
-      "bytes": 50885,
-      "sha256": "d1fe352ff89b41bab5a1e4258b1635dd0ea898c94473e5bc374e180810b55f44"
+      "bytes": 50941,
+      "sha256": "58294ebc648ea19fee226b2692aff347266abb6b5a64ee5b9951c0715e8fb3d1"
     },
     {
       "path": "audio/electronic_37.mp3",
@@ -367,8 +367,8 @@
     },
     {
       "path": "projects/electronic_37.zip",
-      "bytes": 56546,
-      "sha256": "c64e8e61179077e6d2099b4d779df4ebe27dc7eb800bd8ceb96353940c988914"
+      "bytes": 56602,
+      "sha256": "fac279673dfd5f48429e16453664b7e856c7d747b297a38ddcd58344bcaf018b"
     },
     {
       "path": "audio/electronic_41.mp3",
@@ -377,8 +377,8 @@
     },
     {
       "path": "projects/electronic_41.zip",
-      "bytes": 18333,
-      "sha256": "21e44e581dda66b3fd58344731d4354ebc9dd5b28f63e77e2b2564d3e884715f"
+      "bytes": 18389,
+      "sha256": "700d18ab61bc03d70e447f8011b1ad5dc99552571d08088bc5967cbb181785a5"
     },
     {
       "path": "audio/electronic_45.mp3",
@@ -387,8 +387,8 @@
     },
     {
       "path": "projects/electronic_45.zip",
-      "bytes": 74510,
-      "sha256": "414f135987182c0e6b41e96fa6632cdb470846162c370e8aef7440f4bebe49ae"
+      "bytes": 74566,
+      "sha256": "3187cde4a53427fd8f96460b504febc29903363b77cc05567f04a7e6c9c77047"
     },
     {
       "path": "audio/electronic_47.mp3",
@@ -397,8 +397,8 @@
     },
     {
       "path": "projects/electronic_47.zip",
-      "bytes": 43569,
-      "sha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c"
+      "bytes": 43625,
+      "sha256": "4bb3f0e10c8b4c2ceb7aa319a0789168ab4381b5252e4b1173d712663c718aff"
     },
     {
       "path": "audio/acoustic_26.mp3",
@@ -407,8 +407,8 @@
     },
     {
       "path": "projects/acoustic_26.zip",
-      "bytes": 30146,
-      "sha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f"
+      "bytes": 30202,
+      "sha256": "da3d63e13b9c535eeb6b81d35c80086e740e7e50abed3497cbc0524a08a7e685"
     },
     {
       "path": "audio/acoustic_26_v4.mp3",
@@ -417,8 +417,8 @@
     },
     {
       "path": "projects/acoustic_26_v4.zip",
-      "bytes": 47690,
-      "sha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac"
+      "bytes": 47746,
+      "sha256": "2e4d8b3ea698529d18b3647817e8c0a508064f9e7c2483c2d414ec890aefd7c8"
     },
     {
       "path": "audio/acoustic_27.mp3",
@@ -427,8 +427,8 @@
     },
     {
       "path": "projects/acoustic_27.zip",
-      "bytes": 29326,
-      "sha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944"
+      "bytes": 29382,
+      "sha256": "a38b75c48c2083510fb6eab81f0dc8ad44f3fd72591df10adfc6817c206e2eee"
     },
     {
       "path": "audio/acoustic_28.mp3",
@@ -437,8 +437,8 @@
     },
     {
       "path": "projects/acoustic_28.zip",
-      "bytes": 33646,
-      "sha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083"
+      "bytes": 33702,
+      "sha256": "933ac2020df3a9c58420fa710977edd6ab20b1a40817a1d0ea137b0c64be0266"
     },
     {
       "path": "audio/acoustic_29.mp3",
@@ -447,8 +447,8 @@
     },
     {
       "path": "projects/acoustic_29.zip",
-      "bytes": 62899,
-      "sha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0"
+      "bytes": 62955,
+      "sha256": "935fd9781e3e25f6603161d7187ac6d561e6a04f89d59a5b901e803f3028e953"
     },
     {
       "path": "audio/acoustic_30.mp3",
@@ -457,8 +457,58 @@
     },
     {
       "path": "projects/acoustic_30.zip",
-      "bytes": 64773,
-      "sha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5"
+      "bytes": 64829,
+      "sha256": "9a3b03a981192dce134c1b5c0110230cd3142465c526302cd8bba6022ea04741"
+    },
+    {
+      "path": "audio/electronic_34.mp3",
+      "bytes": 5508976,
+      "sha256": "51c2dd316fac7bc8428a23da28a75aebbc5b41b75c09157347edaa30cd8fd72a"
+    },
+    {
+      "path": "projects/electronic_34.zip",
+      "bytes": 48746,
+      "sha256": "ffa06ff6db327fb166bc0990022a168909105d7591eae5a140226b9e02e9081c"
+    },
+    {
+      "path": "audio/electronic_38.mp3",
+      "bytes": 5321776,
+      "sha256": "c8e8265e411e0801ab9d0b1196e242eb14d663d62f51c58a6eec040eeb9e47b8"
+    },
+    {
+      "path": "projects/electronic_38.zip",
+      "bytes": 46558,
+      "sha256": "8aa85d2ce6665ac8f442a8fef6d5ccbde02a6fa52c966100c3feb35d0b73d230"
+    },
+    {
+      "path": "audio/electronic_42.mp3",
+      "bytes": 5730736,
+      "sha256": "f20bc90a5f8470b862ec8c3144b2abcdfd6ffb322b0b3dbfe70030cfc6f4a86a"
+    },
+    {
+      "path": "projects/electronic_42.zip",
+      "bytes": 21514,
+      "sha256": "a5ae98ebcbcef4151242b29f5a85401dd5c755feb92cb857e0102f5608c16d80"
+    },
+    {
+      "path": "audio/electronic_46.mp3",
+      "bytes": 5257264,
+      "sha256": "ea27cbe8cb501a1b48cf08418522c2284e93d27b590a2f30519cc8170f3cf336"
+    },
+    {
+      "path": "projects/electronic_46.zip",
+      "bytes": 76402,
+      "sha256": "640eeccaf49712364f462b15e1af801904090b978492d0b431f4403688e0841c"
+    },
+    {
+      "path": "audio/electronic_49.mp3",
+      "bytes": 6001456,
+      "sha256": "45eb7fe3b656aa505f4482ad23ea164968eaa736adec72123e60c24fd610d71e"
+    },
+    {
+      "path": "projects/electronic_49.zip",
+      "bytes": 31260,
+      "sha256": "4778fd47c19b8f8180b2829deaf80b58f47c51173783e22e64177c39409df2a8"
     }
   ]
 }

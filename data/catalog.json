@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T04:17:17.992681+00:00",
-  "completedCount": 45,
-  "playableVersionCount": 46,
+  "generatedAtUtc": "2026-10-06T05:07:52.682793+00:00",
+  "completedCount": 50,
+  "playableVersionCount": 51,
   "targetCount": 50,
   "provenance": {
     "aiAssistedComposition": true,
@@ -74,7 +74,7 @@
       "src": "audio/jazz_waltz.mp3",
       "project": "projects/jazz_waltz.zip",
       "sha256": "35c2b7c366286827bf5fe1e5ebdc574af571090cf1b5f1ac1a1c4653a7caa8a3",
-      "projectSha256": "5510260f695659aec4ad11a3e1c3e8d61a3c7b4231f6cf212d1e8c03d511413a",
+      "projectSha256": "ff57e1297d724aa2cb2b6aee0d13979e6bed1f2b37f39d4a9fceeedcda7b4acf",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -139,7 +139,7 @@
       "src": "audio/bossa_nova.mp3",
       "project": "projects/bossa_nova.zip",
       "sha256": "e32e844c50ac0e8fbefca0e9f485fea2d037370a5dcff01513a6e0428b27ac63",
-      "projectSha256": "5cde46818ab303568d3f236a3cb2c4068bfb906b74519539fcb48703df9b3536",
+      "projectSha256": "81f605ea18131810aec215aa3ec7cf38e3df61f253e80d1bb311de32ac762610",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -204,7 +204,7 @@
       "src": "audio/piano_ballad.mp3",
       "project": "projects/piano_ballad.zip",
       "sha256": "320e3ecd48f28d9a93f8aaac82b6e4e1d547d3c2efea3dddb1a1af47ce673324",
-      "projectSha256": "4706c8af49a6035f9405fe1fda65b8036cf4204afcbad6ab7b8cef05eeabdce3",
+      "projectSha256": "55f9d48c4475bc8fce205f402bdb64737b68583511a39337cfaf58981385ba88",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -274,7 +274,7 @@
       "src": "audio/chamber.mp3",
       "project": "projects/chamber.zip",
       "sha256": "770b0392afdb0d6a02d6f74ab67b1d143023f6e835e6ede4429119ceb36f9ef6",
-      "projectSha256": "7ff48047538af0d1dcc6da32cfe78cdcc3bd22d187b37b336bfe2ed29fc61c59",
+      "projectSha256": "502a70abc6d40a6a889ae85d2bc19d7b5df79206a34d6fb705f7e523f8d5960a",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -344,7 +344,7 @@
       "src": "audio/pentatonic.mp3",
       "project": "projects/pentatonic.zip",
       "sha256": "e13586b702fb65b7707f89e0c268f441c4d9b20d240b003e5fbe5dd896f5d129",
-      "projectSha256": "0b7455afda6b7e8b7b1898442464171c93bcfe3863fffa51aeb22cbf21998b1d",
+      "projectSha256": "f1e867d428778b68434ab61cc4e1ef7dc608d86457f3a9f964eff02327d4f603",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -418,7 +418,7 @@
       "src": "audio/neo_soul.mp3",
       "project": "projects/neo_soul.zip",
       "sha256": "e834cb4df9d10d314bd34e8544d0f80e778c5fd630ab09d64319fba527ce8e5a",
-      "projectSha256": "8960d67211edb36e3456be41960fa48b5679aa29a5a375fcb7de83dc5dbbcabc",
+      "projectSha256": "37e495796bee71eef4b3a9323a1f35b5fbc51949bd802bcdf8ece228155fe020",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 4 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -492,7 +492,7 @@
       "src": "audio/synthwave.mp3",
       "project": "projects/synthwave.zip",
       "sha256": "58788061e1ad8c12147dcd15e716768dc684e8dfad03af6fd4b2717b5168b33c",
-      "projectSha256": "660786fedf0887439000d91b67f06f210954f0de63f377dda3580339ca940572",
+      "projectSha256": "52b742326f5fb235ff0776e7470dfbfc383b70e8a7c73433c72a79d502bf5539",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 4 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -552,7 +552,7 @@
       "src": "audio/ambient.mp3",
       "project": "projects/ambient.zip",
       "sha256": "a8c1bd34533026b332cbf05707947d970fb6425dc774a79ec2c5e41d8c5a18e6",
-      "projectSha256": "74322b69b9e5bba252c6d0154ba390656234a891f133327b4edb16026dc49d38",
+      "projectSha256": "280ef2f207a584b77461c23ce3e4cb93921936f5ab3407674e482113c207a6b8",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -627,7 +627,7 @@
       "src": "audio/drum_and_bass.mp3",
       "project": "projects/drum_and_bass.zip",
       "sha256": "3105cef1b0579b904e5d0b649b25322f330bee423dd20de15c9055ce11648701",
-      "projectSha256": "ce5655e01bd8b311c80d02895f6b8278e9579e0df5d2772e93980eb2cdab8df2",
+      "projectSha256": "420dc31e8bc5848552b7b4cf72781f0b2c1c53db5a7ba0fe142938d992e5ad5c",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -697,7 +697,7 @@
       "src": "audio/post_rock.mp3",
       "project": "projects/post_rock.zip",
       "sha256": "10c1c470796766998ebd1c1ee13d82c6a70f68a4e05419de7b6cc500cfc0ffac",
-      "projectSha256": "9ef8b7d3c7d58dceb58a4333ff75d401a02e0b989c4562c5e617381129188d00",
+      "projectSha256": "44cafb874cf36bdbf071c99223296591f8be20110e6f00c5657e018cfa8e6058",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -797,7 +797,7 @@
       "src": "audio/electronic_31.mp3",
       "project": "projects/electronic_31.zip",
       "sha256": "14ca6e1813b18c1ff1726c0bb994bf298a410490cb422456fe0a81b07741a652",
-      "projectSha256": "f4e355c7b883629a3306c8e5344b8f8f4a7aa154770f74a11f7b8f0800f9f690",
+      "projectSha256": "3c059e601ee105dbf41eec1e140758d9ca0760e307aa4cadfbac64409d5cf959",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -902,7 +902,7 @@
       "src": "audio/electronic_35.mp3",
       "project": "projects/electronic_35.zip",
       "sha256": "b67c564d289ec577187a95889123c0782ba1b8e30a6cd8ced18afbfe82bec414",
-      "projectSha256": "e24cc9b1a4574214473eaa1047ed1a82536166c295152fabafe0c86fb4594fd2",
+      "projectSha256": "cb71b5ba53b32444586c68cca5392809e2d4c19c17c3a045e5e3ba7b033e878e",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -987,7 +987,7 @@
       "src": "audio/acoustic_11.mp3",
       "project": "projects/acoustic_11.zip",
       "sha256": "e31f6a55c303ecf7f9f3aadc5d31c65bffb50939c0b112065272ca7041344234",
-      "projectSha256": "971d768f662bd4b187c102a6035c5fd7b45cd15e021917b2d8c0fe610619391c",
+      "projectSha256": "b38511cf79f01063d7b5b32cfd80bce27a9425073ec59a2a7e92c58528088cc3",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1062,7 +1062,7 @@
       "src": "audio/electronic_39.mp3",
       "project": "projects/electronic_39.zip",
       "sha256": "d833505b433cace82cf16a81ff2d9836080c87832de4d25eb5d0a2f1127df854",
-      "projectSha256": "5662e3036f24bdc4ed33c135bb576cef0c5e66670f2e01097a5b1ec91efc4d24",
+      "projectSha256": "9cacd91edcfdcbf2a8f8d5dbb94569020024edbd03e51671262d642426d4b589",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1152,7 +1152,7 @@
       "src": "audio/electronic_43.mp3",
       "project": "projects/electronic_43.zip",
       "sha256": "f3d1d76f5e72c2f7bad8461ea31875f12d3f9ece1a43c2cc39d3e01fa1943408",
-      "projectSha256": "40ce6053a54db844bcde613939831283eb17df3fe406419d10373b711064153b",
+      "projectSha256": "34bea911d465f5751241b2492143a87fb13519d0f3cb22963015db8ef919743e",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1237,7 +1237,7 @@
       "src": "audio/acoustic_12.mp3",
       "project": "projects/acoustic_12.zip",
       "sha256": "e4737003c4df41e797021a69a8111947131be9dd1a96d6cc587d88af0d91c685",
-      "projectSha256": "a012d5d90c33ea7b44f4337a641f927a12da9d5d9f597aa8ab5f60415b6fc2da",
+      "projectSha256": "b43ce61e5ed97755d9fa6f480274075e380ee00a63701e99a57afb181d60100b",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1317,7 +1317,7 @@
       "src": "audio/acoustic_13.mp3",
       "project": "projects/acoustic_13.zip",
       "sha256": "4e45094a5d299d8cb509892575cb993c395ea4095cd6eb9d9d220f53cf3df34d",
-      "projectSha256": "e06e8511fb9cf7008d845776093659df79d2a06d514c8eb864ab4d96a1270742",
+      "projectSha256": "fc665d2cdf311a853a15b0130e62633fe40e18e59ab5ccf58643fb6e16cbc035",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1397,7 +1397,7 @@
       "src": "audio/electronic_50.mp3",
       "project": "projects/electronic_50.zip",
       "sha256": "7b2197eb5abe432138d78e41660604bc35c087139dfa9c5c7d218ccaef308efd",
-      "projectSha256": "6a017d9f0c94acb0834a0d1e23dd2854dd9ec7e2a007b24ef33990afb9122245",
+      "projectSha256": "3224981bf4fdf25039c95a95b8d048301a5ed10c538d35da447f69d621696701",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1487,7 +1487,7 @@
       "src": "audio/acoustic_14.mp3",
       "project": "projects/acoustic_14.zip",
       "sha256": "d95acfd96b9d567db6f81a77eec269650eab4b112e62746e209d02abf132996f",
-      "projectSha256": "ba6ae5940537c4baf245798a9f0bf602b811d09e15e2f454ca1cca6efd0902b3",
+      "projectSha256": "eaa9af981d2a765a81163a3e841f147a75a44fc5cd705a302be9b75470ffc0b8",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1577,7 +1577,7 @@
       "src": "audio/acoustic_15.mp3",
       "project": "projects/acoustic_15.zip",
       "sha256": "887cc4ca140351a17227f1611c17ba2e4db3815f18bc748e720cea6e178b3617",
-      "projectSha256": "a46b3f70668a6aeaa08208f8ee24400a559032282d6cb7d836192e4db7eb6ab2",
+      "projectSha256": "06b5929c11f218a6da2e2afeef8fc0265cb831622c36f35bb9a29f61f75ccbb0",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1662,7 +1662,7 @@
       "src": "audio/acoustic_16.mp3",
       "project": "projects/acoustic_16.zip",
       "sha256": "14315d374df8e3a33b6b98d1be079d495d9222286b649fd3591af6a0f5d3f818",
-      "projectSha256": "e598b63f211ae4344c3cb9abec25618abb75180305259b47b057df3732a394b3",
+      "projectSha256": "92dea49772b681419ca00d85ff4d726f70b67f7fbdcb792219dcc32c32afbf82",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1747,7 +1747,7 @@
       "src": "audio/acoustic_17.mp3",
       "project": "projects/acoustic_17.zip",
       "sha256": "a2525956d1c5d8e8e5c32afe05095800dac68cadb8d9e3dee569f399908fb5ed",
-      "projectSha256": "b667c2249aabd6d87399c3ca8e6c303bbbc89cac6dc4cf2d12ffb8b72287b39a",
+      "projectSha256": "2ea674db2c3554ac22d27d346f98a471df5cfb89fd8de9dacaefcb00e927c5bb",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1832,7 +1832,7 @@
       "src": "audio/acoustic_18.mp3",
       "project": "projects/acoustic_18.zip",
       "sha256": "6331150c7a8d318c79d2dfb7d2ba5d626505e9012aa1d6ed0d33db7f86a37cfe",
-      "projectSha256": "392356136465d769fe9d2133c529b3c57e77f72641783f00b223e0f60602aae1",
+      "projectSha256": "8631b31d6a834a82cdda08349a1645bc8d9484b5dc19a75379e043acc5719d46",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -1932,7 +1932,7 @@
       "src": "audio/acoustic_19.mp3",
       "project": "projects/acoustic_19.zip",
       "sha256": "03f580900e357d4d7286086fe1cfdc90aa74a7164e8b90ae5cfa208f6229e886",
-      "projectSha256": "f05c0df1bf738fabf8ba702f0b9fee4702b71a083cc2a8dcc8d6e8b043ac5b9c",
+      "projectSha256": "bcea3917fa2ca923ae6afaa08cb2deca8dcc3d5d32bd67388fc513edf88db3ac",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2017,7 +2017,7 @@
       "src": "audio/acoustic_20.mp3",
       "project": "projects/acoustic_20.zip",
       "sha256": "ae63f43b73f5f067a7bf40851c151256224dd39a63edce295aece1c8e609f1e4",
-      "projectSha256": "a90936c1f7fd732d8b15ec5c90f0d367a0dc57d77c0f79716c6efaaaa3052f2f",
+      "projectSha256": "ef44cb1caafe67aec747dc19e8d2f38c24dd41d9dd4a1ac554ced8a0943bb29a",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2097,7 +2097,7 @@
       "src": "audio/electronic_32.mp3",
       "project": "projects/electronic_32.zip",
       "sha256": "44174e56532dbc2aeb1315b26647a3d76ba2d2fc881c26c138bef3f433e85a2f",
-      "projectSha256": "2d14d05b2a22c596af7402ba615ad3760f7e8c1b9a3698196c8ba9967461d93d",
+      "projectSha256": "a42a05542051ba69effe8439de36096b7c0b5e5a3ddf8d22319286d6fc9661fd",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2182,7 +2182,7 @@
       "src": "audio/electronic_36.mp3",
       "project": "projects/electronic_36.zip",
       "sha256": "d186bbf654c0ab5b23279eb9585ea5deb22e546158f82b2252c4beb89a016e45",
-      "projectSha256": "ab465ab3fb85b35270bc2e0fa05588906e8ddd64c3f4e8526a79585b7512a869",
+      "projectSha256": "6154d7a3e6dd9fab44aaa739aa6398c41662ebcf991c381ee87e1b23a4771680",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2252,7 +2252,7 @@
       "src": "audio/electronic_40.mp3",
       "project": "projects/electronic_40.zip",
       "sha256": "6ffb26242d768d8164be6b0ca934db0cfbaf39ad5ddcd5868e69f4f4604af0b8",
-      "projectSha256": "cf798e6975485aed7d7b8c5a27a5268605dd35122e97f30e396f8ca89d962498",
+      "projectSha256": "8387d3170aa28715999200af0f9c862acd9e5f44aba4290246b1625a8acddcec",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2332,7 +2332,7 @@
       "src": "audio/electronic_44.mp3",
       "project": "projects/electronic_44.zip",
       "sha256": "317485afd844268551c192a6e055630fefc8ee98b0d3e1df58eff8135115f517",
-      "projectSha256": "809ccd94c45b64c855219b889a4524a2c66ff39843303b3a77574382f8aa414d",
+      "projectSha256": "b47a7f9d95449b7a3ef92b2845d82d9f7971df23845c771acd41987879158e9a",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2412,7 +2412,7 @@
       "src": "audio/electronic_48.mp3",
       "project": "projects/electronic_48.zip",
       "sha256": "ed9d6461a4bd20b38b6c7ca2f9d3a5ff97479b52c7bc2a1f8c2a9073eaf51923",
-      "projectSha256": "32d0cf1d5a6c8f5d2f53cdbf3aadf2b88f4b76c4159f6ef8b2b878ded1e4f01f",
+      "projectSha256": "f4f580ac7513c1a78edf6d02b2eac6a553263cf6aa744f70b244078d222e3a3b",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2492,7 +2492,7 @@
       "src": "audio/acoustic_21.mp3",
       "project": "projects/acoustic_21.zip",
       "sha256": "dd009d86f7a4c487efe37263df00cae98a11f1ee2585dff763bd02fa8626b42b",
-      "projectSha256": "8fa641c7e7cf57e79d3bf227937146d4f48af61cea42c31f5f43485ffb9ea617",
+      "projectSha256": "3a0a0c7d825d459accccc4e19bfe6f15f243a74a0fb54833d0f11b1d4b4b4acd",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2577,7 +2577,7 @@
       "src": "audio/acoustic_22.mp3",
       "project": "projects/acoustic_22.zip",
       "sha256": "afb669412e0f2843c7446ad217758ca6a97ae6ce9364c5179c404b71e92f2aec",
-      "projectSha256": "5cdf35809431a5f8c9aa04099c411196280f51dbf6d186789e2f42c7432a6677",
+      "projectSha256": "d051a7491dd0549fb2ee16b25f9a30084809664c52fb9074f2496013b027547c",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2657,7 +2657,7 @@
       "src": "audio/acoustic_23.mp3",
       "project": "projects/acoustic_23.zip",
       "sha256": "f8ae775389a833496f6c91e7f287aca2c71b35e6a88238fa6059762f9889c8f9",
-      "projectSha256": "76149635e3094ef37d3eca394f7528d7204deabf28c4b04df76cb469d794bf54",
+      "projectSha256": "877be8a96dd82d4fb3f600f4782818c5690c7ff0922924fdb868c19fb9036d7d",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2737,7 +2737,7 @@
       "src": "audio/acoustic_24.mp3",
       "project": "projects/acoustic_24.zip",
       "sha256": "ff3f9b06d8b4d97c8be3ff087dcffcfba16c45816cd9c95327a8778e9776e7d6",
-      "projectSha256": "e07d6506aa954eeaaba1a48e611fef308c2eeffce014fd4b02226d8d1d7ff9de",
+      "projectSha256": "e7594026854ae8a30a2cdaa2e434b09e0f9f26f610f62b82efed8819e693e025",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2817,7 +2817,7 @@
       "src": "audio/acoustic_25.mp3",
       "project": "projects/acoustic_25.zip",
       "sha256": "e1aa23a831c00569fa42dc0a132ef71c85f912242dcef9c0763278231161293c",
-      "projectSha256": "0f7da2fb05eb774ee876d827771a0d5413f373031f691e3cf68191f60ef20438",
+      "projectSha256": "c692b1f54e558f02b1b4fa86856f31c85d8e2cd54ffcf5ffca8d3757c3343835",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2902,7 +2902,7 @@
       "src": "audio/electronic_33.mp3",
       "project": "projects/electronic_33.zip",
       "sha256": "450c2a6bd81d753be541cca924e97329fb3fc2afbce112eb3b9cf8d30ea6b7ca",
-      "projectSha256": "d1fe352ff89b41bab5a1e4258b1635dd0ea898c94473e5bc374e180810b55f44",
+      "projectSha256": "58294ebc648ea19fee226b2692aff347266abb6b5a64ee5b9951c0715e8fb3d1",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -2987,7 +2987,7 @@
       "src": "audio/electronic_37.mp3",
       "project": "projects/electronic_37.zip",
       "sha256": "3f6e636d7ece9a8da7cd2c466aaf4d5aa8caf4fcbf569f7e71285e6fcf822e59",
-      "projectSha256": "c64e8e61179077e6d2099b4d779df4ebe27dc7eb800bd8ceb96353940c988914",
+      "projectSha256": "fac279673dfd5f48429e16453664b7e856c7d747b297a38ddcd58344bcaf018b",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3062,7 +3062,7 @@
       "src": "audio/electronic_41.mp3",
       "project": "projects/electronic_41.zip",
       "sha256": "5d59a472009f5b35e73e3c42e15bc9bc3bdbddaffa4c5cd0469257b44749087d",
-      "projectSha256": "21e44e581dda66b3fd58344731d4354ebc9dd5b28f63e77e2b2564d3e884715f",
+      "projectSha256": "700d18ab61bc03d70e447f8011b1ad5dc99552571d08088bc5967cbb181785a5",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3147,7 +3147,7 @@
       "src": "audio/electronic_45.mp3",
       "project": "projects/electronic_45.zip",
       "sha256": "7a377d058171f5ecb7257b9176e2a4b3678b3df1fbeaa70f529ab1816c45846c",
-      "projectSha256": "414f135987182c0e6b41e96fa6632cdb470846162c370e8aef7440f4bebe49ae",
+      "projectSha256": "3187cde4a53427fd8f96460b504febc29903363b77cc05567f04a7e6c9c77047",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3227,7 +3227,7 @@
       "src": "audio/electronic_47.mp3",
       "project": "projects/electronic_47.zip",
       "sha256": "74fdde59d982ac701ed576d8c6e3db27d762f7ec98313841761f7a142b1b94fb",
-      "projectSha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c",
+      "projectSha256": "4bb3f0e10c8b4c2ceb7aa319a0789168ab4381b5252e4b1173d712663c718aff",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3302,7 +3302,7 @@
       "src": "audio/acoustic_26.mp3",
       "project": "projects/acoustic_26.zip",
       "sha256": "2ea6f426714805345ca41c802d24027a383864f8ace11bc336d76bc6bf3ed120",
-      "projectSha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f",
+      "projectSha256": "da3d63e13b9c535eeb6b81d35c80086e740e7e50abed3497cbc0524a08a7e685",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。",
       "alternatives": [
@@ -3327,7 +3327,7 @@
           "src": "audio/acoustic_26_v4.mp3",
           "project": "projects/acoustic_26_v4.zip",
           "sha256": "0a122c75b839b1006bf387724cbcc090ae2e9e7d643cba6fd39c1bb1ebde9eb0",
-          "projectSha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac",
+          "projectSha256": "2e4d8b3ea698529d18b3647817e8c0a508064f9e7c2483c2d414ec890aefd7c8",
           "reaperVerified": true,
           "reaperVersions": 4,
           "qaSummary": "此对照版保留 4 个实际 REAPER 导出版本；详细验证范围见工程记录。"
@@ -3405,7 +3405,7 @@
       "src": "audio/acoustic_27.mp3",
       "project": "projects/acoustic_27.zip",
       "sha256": "ab5ad21359182c8e7385b03648e472caa68808a24b36e8897a8f885dbc62649a",
-      "projectSha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944",
+      "projectSha256": "a38b75c48c2083510fb6eab81f0dc8ad44f3fd72591df10adfc6817c206e2eee",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3480,7 +3480,7 @@
       "src": "audio/acoustic_28.mp3",
       "project": "projects/acoustic_28.zip",
       "sha256": "3ba7392f70376454edec88a2d1b4c12fa4ffa49a8e6ea74ad43c867b9607dca9",
-      "projectSha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083",
+      "projectSha256": "933ac2020df3a9c58420fa710977edd6ab20b1a40817a1d0ea137b0c64be0266",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3560,7 +3560,7 @@
       "src": "audio/acoustic_29.mp3",
       "project": "projects/acoustic_29.zip",
       "sha256": "1ff070d27c1a17e636d5cae0ad18bfba4c1d19de87b34fef371bad8709f72a8e",
-      "projectSha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0",
+      "projectSha256": "935fd9781e3e25f6603161d7187ac6d561e6a04f89d59a5b901e803f3028e953",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     },
@@ -3645,7 +3645,417 @@
       "src": "audio/acoustic_30.mp3",
       "project": "projects/acoustic_30.zip",
       "sha256": "9faa40be1cc14bb3a4a866c5e0b934127b03695e4f5b4b7216f25e93e9a26a1b",
-      "projectSha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5",
+      "projectSha256": "9a3b03a981192dce134c1b5c0110230cd3142465c526302cd8bba6022ea04741",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_34",
+      "title": "天台的慢舞",
+      "titleEn": "Rooftop Slow Dance",
+      "style": "Neo-soul waltz",
+      "genre": "Neo-soul",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 70,
+      "meter": "3/4",
+      "meterLabel": "3/4",
+      "durationSeconds": 229.48570833333332,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "把neo-soul的松弛感放进缓慢三拍子：电钢琴先写长句，经过降号侧的回应，再交给独立写成的独奏与低音区吉他。修订让吉他保留开头G–Bb–D的身份，却拥有自己的十二小节答句；伴奏改为延迟的两音支撑，鼓点在吉他段和结尾逐层退下，留下最后一次缓慢转身。",
+      "compositionNotes": "最终复查把 Am7b5 上七处低音五度由 E 校正为 Eb，保留有意的经过音与整体曲式。",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "另写十二小节吉他旋律，保留开头 G–Bb–D 的身份，扩大回答后下降到低音 G；独奏和吉他段伴奏改为延迟的两音支撑，重排低音音区并以半音接近变化中的和弦根音。"
+        },
+        {
+          "version": "v3",
+          "text": "在属和弦 F# 后加入 D–F 弱起回到 G；减少并放轻吉他段鼓点，终止主和弦前撤去打击乐。延长最后的 G、低音主音与稀疏和弦，分别整理钢琴独奏四小节乐句的衔接。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Opening: roof lights",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Twelve-bar theme",
+          "startSeconds": 10.285714285714286
+        },
+        {
+          "bar": 17,
+          "label": "Flat-side answer",
+          "startSeconds": 41.142857142857146
+        },
+        {
+          "bar": 29,
+          "label": "Written electric piano solo",
+          "startSeconds": 72.0
+        },
+        {
+          "bar": 45,
+          "label": "Guitar landing",
+          "startSeconds": 113.14285714285714
+        },
+        {
+          "bar": 49,
+          "label": "Lower-register guitar recasting",
+          "startSeconds": 123.42857142857143
+        },
+        {
+          "bar": 61,
+          "label": "Quiet suspended bridge",
+          "startSeconds": 154.28571428571428
+        },
+        {
+          "bar": 69,
+          "label": "Changed theme return",
+          "startSeconds": 174.85714285714286
+        },
+        {
+          "bar": 81,
+          "label": "Coda: one last slow turn",
+          "startSeconds": 205.71428571428572
+        }
+      ],
+      "src": "audio/electronic_34.mp3",
+      "project": "projects/electronic_34.zip",
+      "sha256": "51c2dd316fac7bc8428a23da28a75aebbc5b41b75c09157347edaa30cd8fd72a",
+      "projectSha256": "ffa06ff6db327fb166bc0990022a168909105d7591eae5a140226b9e02e9081c",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_38",
+      "title": "零点后的海岸",
+      "titleEn": "Coast After Midnight",
+      "style": "Slow motorik synthwave",
+      "genre": "Synthwave",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 88,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 221.6818125,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "以较低的霓虹主题沿海岸展开，先给出第二句和较宽的回答，再让键盘与高音区贝司各自获得一个段落。高处回归并非原旋律简单移调，而是把D–F开头扩展到A与C后再下降。修订撤去贝司独奏旁的琶音，收疏过门与尾段鼓点，最后将主旋律、贝司和铺底的主音接成长线。",
+      "compositionNotes": "最终复查选择性缩短变化属和弦离开处的 C# / Bb 铺底直接发音，保留共同音和反射余韵；未重写旋律或更换渲染器。",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "为高音区回归另写八小节，把原先 D–F 开头扩展到 A、C 后，经属和弦下降；撤去贝司独奏旁的琶音，将密集铺底改为轻声低音区两音和弦。"
+        },
+        {
+          "version": "v3",
+          "text": "将键盘间奏结尾重写成下行回答，整理释放时间以让出贝司入口；减少过门与结尾鼓点，在较高回归段加入少量底鼓弱起。连接主旋律、贝司与铺底的最终主音，移除最后的玻璃音型，并分别塑造句尾。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Opening: far shore",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "Low neon theme",
+          "startSeconds": 21.818181818181817
+        },
+        {
+          "bar": 17,
+          "label": "Second sentence",
+          "startSeconds": 43.63636363636363
+        },
+        {
+          "bar": 25,
+          "label": "Broader answer",
+          "startSeconds": 65.45454545454545
+        },
+        {
+          "bar": 33,
+          "label": "Keyboard breakdown",
+          "startSeconds": 87.27272727272727
+        },
+        {
+          "bar": 41,
+          "label": "Written high-bass feature",
+          "startSeconds": 109.0909090909091
+        },
+        {
+          "bar": 49,
+          "label": "Flat-side night bridge",
+          "startSeconds": 130.9090909090909
+        },
+        {
+          "bar": 57,
+          "label": "High-return window",
+          "startSeconds": 152.72727272727272
+        },
+        {
+          "bar": 65,
+          "label": "Return descends",
+          "startSeconds": 174.54545454545453
+        },
+        {
+          "bar": 73,
+          "label": "Coda: coast lights",
+          "startSeconds": 196.36363636363637
+        }
+      ],
+      "src": "audio/electronic_38.mp3",
+      "project": "projects/electronic_38.zip",
+      "sha256": "c8e8265e411e0801ab9d0b1196e242eb14d663d62f51c58a6eec040eeb9e47b8",
+      "projectSha256": "8aa85d2ce6665ac8f442a8fef6d5ccbde02a6fa52c966100c3feb35d0b73d230",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_42",
+      "title": "黎明的五扇窗",
+      "titleEn": "Five Windows at Dawn",
+      "style": "Continuous-arch ambient",
+      "genre": "氛围",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 66,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 238.72727083333334,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "这首环境音乐沿一条连续的弧线发展：光线从狭窄处进入，逐渐打开窗户，在陌生的和声中心停留，然后向室内收拢。中段添入独立的十二个高声部音符，补足和声色彩，并撤去竞争的敲击。结尾把重复的B改成延长的B–G#–E手势，让反射的间距和时值各自收缩；只在必要的半音交接处让直接发音先退开，保留房间余韵。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "为中段 C、G 和弦的铺底补足大三度，另写跨越中段的十二音高声部对位线，并撤去同处竞争的后置左侧敲击。"
+        },
+        {
+          "version": "v3",
+          "text": "将 D# 延至第 201.8 拍，在悬置 E 铺底直接释放于 201.66 拍结束之后进入，保留房间反射；结尾重复 B 改为延长的 B–G#–E，分别改变收拢的高层反射间距与时值，并放轻最后钟声和新进入的支撑声部。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "First light: narrow",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 13,
+          "label": "Windows opening",
+          "startSeconds": 43.63636363636363
+        },
+        {
+          "bar": 29,
+          "label": "The unfamiliar center",
+          "startSeconds": 101.81818181818181
+        },
+        {
+          "bar": 41,
+          "label": "Light folds inward",
+          "startSeconds": 145.45454545454547
+        },
+        {
+          "bar": 53,
+          "label": "The room remains",
+          "startSeconds": 189.0909090909091
+        }
+      ],
+      "src": "audio/electronic_42.mp3",
+      "project": "projects/electronic_42.zip",
+      "sha256": "f20bc90a5f8470b862ec8c3144b2abcdfd6ffb322b0b3dbfe70030cfc6f4a86a",
+      "projectSha256": "a5ae98ebcbcef4151242b29f5a85401dd5c755feb92cb857e0102f5608c16d80",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_46",
+      "title": "夏日桥下",
+      "titleEn": "Summer Underpass",
+      "style": "Sunlit liquid drum-and-bass",
+      "genre": "Drum & bass",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 160,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 219.0,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "明亮的液态DnB以两条较长的主旋律句子进入，经过键盘独奏、十六小节空地和渐进回升，再展开新的后半段独奏。第二轮三十二小节的贝司与底鼓、军鼓重新写过，先偏低音区切分，再引入八度移动；借小调色彩的半速桥段给后面的主题回归留出距离。结尾让鼓组分层退出，让低音主音和晚到的钟声延续。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "重写第二轮完整三十二小节的贝司及底鼓、军鼓：前半段增加低音区切分，独奏半段加入八度移动与新的幽灵军鼓位置。半速桥段的八组两小节共同铺底音连奏保持，最后主题四小节改为较低的 D–Bb–G / F–A–C 回答。"
+        },
+        {
+          "version": "v3",
+          "text": "缩短繁忙段最后的贝司发音，使其 0.12 秒释放避开半速桥段，并撤去此前半拍的新踩镲起音；回到末次主题前加入轻声三击军鼓弱起。合并最后两次低音 Bb，分层结束踩镲、军鼓并放轻迟到钟声；主旋律句尾及最终钢琴起音与节奏组分别塑形。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Intro: light through gaps",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "First lead sentence",
+          "startSeconds": 12.0
+        },
+        {
+          "bar": 25,
+          "label": "Longer answering sentence",
+          "startSeconds": 36.0
+        },
+        {
+          "bar": 41,
+          "label": "Written keys feature",
+          "startSeconds": 60.0
+        },
+        {
+          "bar": 49,
+          "label": "Sixteen-bar clearing",
+          "startSeconds": 72.0
+        },
+        {
+          "bar": 65,
+          "label": "Gradual rise",
+          "startSeconds": 96.0
+        },
+        {
+          "bar": 73,
+          "label": "Changed lead return",
+          "startSeconds": 108.0
+        },
+        {
+          "bar": 89,
+          "label": "New second-half solo",
+          "startSeconds": 132.0
+        },
+        {
+          "bar": 105,
+          "label": "Borrowed-minor half-time bridge",
+          "startSeconds": 156.0
+        },
+        {
+          "bar": 121,
+          "label": "Final head",
+          "startSeconds": 180.0
+        },
+        {
+          "bar": 137,
+          "label": "Coda: back in the sun",
+          "startSeconds": 204.0
+        }
+      ],
+      "src": "audio/electronic_46.mp3",
+      "project": "projects/electronic_46.zip",
+      "sha256": "ea27cbe8cb501a1b48cf08418522c2284e93d27b590a2f30519cc8170f3cf336",
+      "projectSha256": "640eeccaf49712364f462b15e1af801904090b978492d0b431f4403688e0841c",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_49",
+      "title": "微开的窗",
+      "titleEn": "Windows Left Ajar",
+      "style": "Quiet piano-and-guitar post-rock",
+      "genre": "后摇",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 72,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 250.0,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "用钢琴下行二度的句子和窗边吉他构成安静的后摇，不以响亮高潮作为终点。小调下属和声把视角带进更暗的房间，回归后两条旋律共处：新写的十二小节低音区吉他对旋律采用延长音与错位进入，铺底让出一个声部。告别段改成稀疏的七个吉他手势，钢琴以C–Bb–Ab收束，鼓与低音慢慢停止重新起音。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "以二十四个音写成十二小节低音区吉他对旋律，使用延长音与错位入口替换短填充；八小节桥段吉他改成交替双起音间距，二重奏铺底从三声部减为两声部。回归段十二小节鼓组重写成交替正拍、反拍底鼓和后置边击，加入稀疏通鼓回答。"
+        },
+        {
+          "version": "v3",
+          "text": "最后八小节吉他脉冲改为七个间隔较大的手势，以轻声延长 Ab 结束；钢琴末句改为 C–Bb–Ab，并连接最后两次低音 Ab。提前并缩短右侧吉他最后回答，撤去底鼓与边击，以一记轻通鼓结束；借用小调桥段前另写 Ab–F 吉他回应。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Guitar at the window",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "A: the falling-second sentence",
+          "startSeconds": 13.333333333333334
+        },
+        {
+          "bar": 17,
+          "label": "B: a different view",
+          "startSeconds": 53.333333333333336
+        },
+        {
+          "bar": 29,
+          "label": "Minor-subdominant quiet room",
+          "startSeconds": 93.33333333333333
+        },
+        {
+          "bar": 37,
+          "label": "Changed return, no loud crest",
+          "startSeconds": 120.0
+        },
+        {
+          "bar": 49,
+          "label": "Two melodic lines in one room",
+          "startSeconds": 160.0
+        },
+        {
+          "bar": 61,
+          "label": "Unhurried leave-taking",
+          "startSeconds": 200.0
+        }
+      ],
+      "src": "audio/electronic_49.mp3",
+      "project": "projects/electronic_49.zip",
+      "sha256": "45eb7fe3b656aa505f4482ad23ea164968eaa736adec72123e60c24fd610d71e",
+      "projectSha256": "4778fd47c19b8f8180b2829deaf80b58f47c51173783e22e64177c39409df2a8",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T04:17:17.992681+00:00",
+  "generatedAtUtc": "2026-10-06T05:07:52.682793+00:00",
   "targetCount": 50,
-  "completedCount": 45,
+  "completedCount": 50,
   "provenance": {
     "aiAssistedComposition": true,
     "originalProceduralSynthesis": true,
@@ -127,8 +127,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "jazz_waltz:project",
         "filename": "jazz_waltz_reaper_source.zip",
-        "bytes": 46035,
-        "sha256": "5510260f695659aec4ad11a3e1c3e8d61a3c7b4231f6cf212d1e8c03d511413a"
+        "bytes": 46090,
+        "sha256": "ff57e1297d724aa2cb2b6aee0d13979e6bed1f2b37f39d4a9fceeedcda7b4acf"
       },
       "family": "acoustic",
       "collection": "short-form",
@@ -255,8 +255,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "bossa_nova:project",
         "filename": "bossa_nova_reaper_source.zip",
-        "bytes": 41810,
-        "sha256": "5cde46818ab303568d3f236a3cb2c4068bfb906b74519539fcb48703df9b3536"
+        "bytes": 41865,
+        "sha256": "81f605ea18131810aec215aa3ec7cf38e3df61f253e80d1bb311de32ac762610"
       },
       "family": "acoustic",
       "collection": "short-form",
@@ -379,8 +379,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "piano_ballad:project",
         "filename": "piano_ballad_reaper_source.zip",
-        "bytes": 19811,
-        "sha256": "4706c8af49a6035f9405fe1fda65b8036cf4204afcbad6ab7b8cef05eeabdce3"
+        "bytes": 19866,
+        "sha256": "55f9d48c4475bc8fce205f402bdb64737b68583511a39337cfaf58981385ba88"
       },
       "family": "acoustic",
       "collection": "short-form",
@@ -510,8 +510,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "chamber:project",
         "filename": "chamber_reaper_source.zip",
-        "bytes": 21612,
-        "sha256": "7ff48047538af0d1dcc6da32cfe78cdcc3bd22d187b37b336bfe2ed29fc61c59"
+        "bytes": 21667,
+        "sha256": "502a70abc6d40a6a889ae85d2bc19d7b5df79206a34d6fb705f7e523f8d5960a"
       },
       "family": "acoustic",
       "collection": "short-form",
@@ -643,8 +643,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "pentatonic:project",
         "filename": "pentatonic_reaper_source.zip",
-        "bytes": 19080,
-        "sha256": "0b7455afda6b7e8b7b1898442464171c93bcfe3863fffa51aeb22cbf21998b1d"
+        "bytes": 19135,
+        "sha256": "f1e867d428778b68434ab61cc4e1ef7dc608d86457f3a9f964eff02327d4f603"
       },
       "family": "acoustic",
       "collection": "short-form",
@@ -784,8 +784,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "neo_soul:project",
         "filename": "neo_soul_reaper_source.zip",
-        "bytes": 34514,
-        "sha256": "8960d67211edb36e3456be41960fa48b5679aa29a5a375fcb7de83dc5dbbcabc"
+        "bytes": 34569,
+        "sha256": "37e495796bee71eef4b3a9323a1f35b5fbc51949bd802bcdf8ece228155fe020"
       },
       "family": "electronic",
       "collection": "short-form",
@@ -925,8 +925,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "synthwave:project",
         "filename": "synthwave_reaper_source.zip",
-        "bytes": 41746,
-        "sha256": "660786fedf0887439000d91b67f06f210954f0de63f377dda3580339ca940572"
+        "bytes": 41801,
+        "sha256": "52b742326f5fb235ff0776e7470dfbfc383b70e8a7c73433c72a79d502bf5539"
       },
       "family": "electronic",
       "collection": "short-form",
@@ -1043,8 +1043,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "ambient:project",
         "filename": "ambient_reaper_source.zip",
-        "bytes": 12992,
-        "sha256": "74322b69b9e5bba252c6d0154ba390656234a891f133327b4edb16026dc49d38"
+        "bytes": 13047,
+        "sha256": "280ef2f207a584b77461c23ce3e4cb93921936f5ab3407674e482113c207a6b8"
       },
       "family": "electronic",
       "collection": "short-form",
@@ -1188,8 +1188,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "drum_and_bass:project",
         "filename": "drum_and_bass_reaper_source.zip",
-        "bytes": 34849,
-        "sha256": "ce5655e01bd8b311c80d02895f6b8278e9579e0df5d2772e93980eb2cdab8df2"
+        "bytes": 34904,
+        "sha256": "420dc31e8bc5848552b7b4cf72781f0b2c1c53db5a7ba0fe142938d992e5ad5c"
       },
       "family": "electronic",
       "collection": "short-form",
@@ -1328,8 +1328,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "post_rock:project",
         "filename": "post_rock_reaper_source.zip",
-        "bytes": 27865,
-        "sha256": "9ef8b7d3c7d58dceb58a4333ff75d401a02e0b989c4562c5e617381129188d00"
+        "bytes": 27920,
+        "sha256": "44cafb874cf36bdbf071c99223296591f8be20110e6f00c5657e018cfa8e6058"
       },
       "family": "electronic",
       "collection": "short-form",
@@ -1496,8 +1496,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_31:project",
         "filename": "electronic_31_reaper_source.zip",
-        "bytes": 61573,
-        "sha256": "f4e355c7b883629a3306c8e5344b8f8f4a7aa154770f74a11f7b8f0800f9f690"
+        "bytes": 61629,
+        "sha256": "3c059e601ee105dbf41eec1e140758d9ca0760e307aa4cadfbac64409d5cf959"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -1669,8 +1669,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_35:project",
         "filename": "electronic_35_reaper_source.zip",
-        "bytes": 71003,
-        "sha256": "e24cc9b1a4574214473eaa1047ed1a82536166c295152fabafe0c86fb4594fd2"
+        "bytes": 71059,
+        "sha256": "cb71b5ba53b32444586c68cca5392809e2d4c19c17c3a045e5e3ba7b033e878e"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -1814,8 +1814,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_11:project",
         "filename": "acoustic_11_reaper_source.zip",
-        "bytes": 25445,
-        "sha256": "971d768f662bd4b187c102a6035c5fd7b45cd15e021917b2d8c0fe610619391c"
+        "bytes": 25501,
+        "sha256": "b38511cf79f01063d7b5b32cfd80bce27a9425073ec59a2a7e92c58528088cc3"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -1950,8 +1950,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_39:project",
         "filename": "electronic_39_reaper_source.zip",
-        "bytes": 20077,
-        "sha256": "5662e3036f24bdc4ed33c135bb576cef0c5e66670f2e01097a5b1ec91efc4d24"
+        "bytes": 20133,
+        "sha256": "9cacd91edcfdcbf2a8f8d5dbb94569020024edbd03e51671262d642426d4b589"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -2110,8 +2110,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_43:project",
         "filename": "electronic_43_reaper_source.zip",
-        "bytes": 66272,
-        "sha256": "40ce6053a54db844bcde613939831283eb17df3fe406419d10373b711064153b"
+        "bytes": 66328,
+        "sha256": "34bea911d465f5751241b2492143a87fb13519d0f3cb22963015db8ef919743e"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -2255,8 +2255,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_12:project",
         "filename": "acoustic_12_reaper_source.zip",
-        "bytes": 26037,
-        "sha256": "a012d5d90c33ea7b44f4337a641f927a12da9d5d9f597aa8ab5f60415b6fc2da"
+        "bytes": 26093,
+        "sha256": "b43ce61e5ed97755d9fa6f480274075e380ee00a63701e99a57afb181d60100b"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -2400,8 +2400,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_13:project",
         "filename": "acoustic_13_reaper_source.zip",
-        "bytes": 24484,
-        "sha256": "e06e8511fb9cf7008d845776093659df79d2a06d514c8eb864ab4d96a1270742"
+        "bytes": 24540,
+        "sha256": "fc665d2cdf311a853a15b0130e62633fe40e18e59ab5ccf58643fb6e16cbc035"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -2548,8 +2548,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_50:project",
         "filename": "electronic_50_reaper_source.zip",
-        "bytes": 49872,
-        "sha256": "6a017d9f0c94acb0834a0d1e23dd2854dd9ec7e2a007b24ef33990afb9122245"
+        "bytes": 49928,
+        "sha256": "3224981bf4fdf25039c95a95b8d048301a5ed10c538d35da447f69d621696701"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -2702,8 +2702,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_14:project",
         "filename": "acoustic_14_reaper_source.zip",
-        "bytes": 65762,
-        "sha256": "ba6ae5940537c4baf245798a9f0bf602b811d09e15e2f454ca1cca6efd0902b3"
+        "bytes": 65818,
+        "sha256": "eaa9af981d2a765a81163a3e841f147a75a44fc5cd705a302be9b75470ffc0b8"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -2856,8 +2856,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_15:project",
         "filename": "acoustic_15_reaper_source.zip",
-        "bytes": 59156,
-        "sha256": "a46b3f70668a6aeaa08208f8ee24400a559032282d6cb7d836192e4db7eb6ab2"
+        "bytes": 59212,
+        "sha256": "06b5929c11f218a6da2e2afeef8fc0265cb831622c36f35bb9a29f61f75ccbb0"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -2993,8 +2993,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_16:project",
         "filename": "acoustic_16_reaper_source.zip",
-        "bytes": 25706,
-        "sha256": "e598b63f211ae4344c3cb9abec25618abb75180305259b47b057df3732a394b3"
+        "bytes": 25762,
+        "sha256": "92dea49772b681419ca00d85ff4d726f70b67f7fbdcb792219dcc32c32afbf82"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -3133,8 +3133,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_17:project",
         "filename": "acoustic_17_reaper_source.zip",
-        "bytes": 22470,
-        "sha256": "b667c2249aabd6d87399c3ca8e6c303bbbc89cac6dc4cf2d12ffb8b72287b39a"
+        "bytes": 22526,
+        "sha256": "2ea674db2c3554ac22d27d346f98a471df5cfb89fd8de9dacaefcb00e927c5bb"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -3276,8 +3276,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_18:project",
         "filename": "acoustic_18_reaper_source.zip",
-        "bytes": 28454,
-        "sha256": "392356136465d769fe9d2133c529b3c57e77f72641783f00b223e0f60602aae1"
+        "bytes": 28510,
+        "sha256": "8631b31d6a834a82cdda08349a1645bc8d9484b5dc19a75379e043acc5719d46"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -3434,8 +3434,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_19:project",
         "filename": "acoustic_19_reaper_source.zip",
-        "bytes": 48501,
-        "sha256": "f05c0df1bf738fabf8ba702f0b9fee4702b71a083cc2a8dcc8d6e8b043ac5b9c"
+        "bytes": 48557,
+        "sha256": "bcea3917fa2ca923ae6afaa08cb2deca8dcc3d5d32bd67388fc513edf88db3ac"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -3581,8 +3581,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_20:project",
         "filename": "acoustic_20_reaper_source.zip",
-        "bytes": 50661,
-        "sha256": "a90936c1f7fd732d8b15ec5c90f0d367a0dc57d77c0f79716c6efaaaa3052f2f"
+        "bytes": 50717,
+        "sha256": "ef44cb1caafe67aec747dc19e8d2f38c24dd41d9dd4a1ac554ced8a0943bb29a"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -3728,8 +3728,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_32:project",
         "filename": "electronic_32_reaper_source.zip",
-        "bytes": 52698,
-        "sha256": "2d14d05b2a22c596af7402ba615ad3760f7e8c1b9a3698196c8ba9967461d93d"
+        "bytes": 52754,
+        "sha256": "a42a05542051ba69effe8439de36096b7c0b5e5a3ddf8d22319286d6fc9661fd"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -3884,8 +3884,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_36:project",
         "filename": "electronic_36_reaper_source.zip",
-        "bytes": 60471,
-        "sha256": "ab465ab3fb85b35270bc2e0fa05588906e8ddd64c3f4e8526a79585b7512a869"
+        "bytes": 60527,
+        "sha256": "6154d7a3e6dd9fab44aaa739aa6398c41662ebcf991c381ee87e1b23a4771680"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -4014,8 +4014,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_40:project",
         "filename": "electronic_40_reaper_source.zip",
-        "bytes": 19847,
-        "sha256": "cf798e6975485aed7d7b8c5a27a5268605dd35122e97f30e396f8ca89d962498"
+        "bytes": 19903,
+        "sha256": "8387d3170aa28715999200af0f9c862acd9e5f44aba4290246b1625a8acddcec"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -4170,8 +4170,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_44:project",
         "filename": "electronic_44_reaper_source.zip",
-        "bytes": 65908,
-        "sha256": "809ccd94c45b64c855219b889a4524a2c66ff39843303b3a77574382f8aa414d"
+        "bytes": 65964,
+        "sha256": "b47a7f9d95449b7a3ef92b2845d82d9f7971df23845c771acd41987879158e9a"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -4319,8 +4319,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_48:project",
         "filename": "electronic_48_reaper_source.zip",
-        "bytes": 32571,
-        "sha256": "32d0cf1d5a6c8f5d2f53cdbf3aadf2b88f4b76c4159f6ef8b2b878ded1e4f01f"
+        "bytes": 32627,
+        "sha256": "f4f580ac7513c1a78edf6d02b2eac6a553263cf6aa744f70b244078d222e3a3b"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -4450,8 +4450,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_21:project",
         "filename": "acoustic_21_reaper_source.zip",
-        "bytes": 26258,
-        "sha256": "8fa641c7e7cf57e79d3bf227937146d4f48af61cea42c31f5f43485ffb9ea617"
+        "bytes": 26314,
+        "sha256": "3a0a0c7d825d459accccc4e19bfe6f15f243a74a0fb54833d0f11b1d4b4b4acd"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -4586,8 +4586,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_22:project",
         "filename": "acoustic_22_reaper_source.zip",
-        "bytes": 27203,
-        "sha256": "5cdf35809431a5f8c9aa04099c411196280f51dbf6d186789e2f42c7432a6677"
+        "bytes": 27259,
+        "sha256": "d051a7491dd0549fb2ee16b25f9a30084809664c52fb9074f2496013b027547c"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -4724,8 +4724,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_23:project",
         "filename": "acoustic_23_reaper_source.zip",
-        "bytes": 24333,
-        "sha256": "76149635e3094ef37d3eca394f7528d7204deabf28c4b04df76cb469d794bf54"
+        "bytes": 24389,
+        "sha256": "877be8a96dd82d4fb3f600f4782818c5690c7ff0922924fdb868c19fb9036d7d"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -4867,8 +4867,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_24:project",
         "filename": "acoustic_24_reaper_source.zip",
-        "bytes": 52259,
-        "sha256": "e07d6506aa954eeaaba1a48e611fef308c2eeffce014fd4b02226d8d1d7ff9de"
+        "bytes": 52315,
+        "sha256": "e7594026854ae8a30a2cdaa2e434b09e0f9f26f610f62b82efed8819e693e025"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -5010,8 +5010,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_25:project",
         "filename": "acoustic_25_reaper_source.zip",
-        "bytes": 60348,
-        "sha256": "0f7da2fb05eb774ee876d827771a0d5413f373031f691e3cf68191f60ef20438"
+        "bytes": 60404,
+        "sha256": "c692b1f54e558f02b1b4fa86856f31c85d8e2cd54ffcf5ffca8d3757c3343835"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -5160,8 +5160,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_33:project",
         "filename": "electronic_33_reaper_source.zip",
-        "bytes": 50885,
-        "sha256": "d1fe352ff89b41bab5a1e4258b1635dd0ea898c94473e5bc374e180810b55f44"
+        "bytes": 50941,
+        "sha256": "58294ebc648ea19fee226b2692aff347266abb6b5a64ee5b9951c0715e8fb3d1"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -5318,8 +5318,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_37:project",
         "filename": "electronic_37_reaper_source.zip",
-        "bytes": 56546,
-        "sha256": "c64e8e61179077e6d2099b4d779df4ebe27dc7eb800bd8ceb96353940c988914"
+        "bytes": 56602,
+        "sha256": "fac279673dfd5f48429e16453664b7e856c7d747b297a38ddcd58344bcaf018b"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -5452,8 +5452,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_41:project",
         "filename": "electronic_41_reaper_source.zip",
-        "bytes": 18333,
-        "sha256": "21e44e581dda66b3fd58344731d4354ebc9dd5b28f63e77e2b2564d3e884715f"
+        "bytes": 18389,
+        "sha256": "700d18ab61bc03d70e447f8011b1ad5dc99552571d08088bc5967cbb181785a5"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -5610,8 +5610,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_45:project",
         "filename": "electronic_45_reaper_source.zip",
-        "bytes": 74510,
-        "sha256": "414f135987182c0e6b41e96fa6632cdb470846162c370e8aef7440f4bebe49ae"
+        "bytes": 74566,
+        "sha256": "3187cde4a53427fd8f96460b504febc29903363b77cc05567f04a7e6c9c77047"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -5762,8 +5762,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "electronic_47:project",
         "filename": "electronic_47_reaper_source.zip",
-        "bytes": 43569,
-        "sha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c"
+        "bytes": 43625,
+        "sha256": "4bb3f0e10c8b4c2ceb7aa319a0789168ab4381b5252e4b1173d712663c718aff"
       },
       "family": "electronic",
       "collection": "full-length",
@@ -5888,8 +5888,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_26:project",
         "filename": "acoustic_26_reaper_source.zip",
-        "bytes": 30146,
-        "sha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f"
+        "bytes": 30202,
+        "sha256": "da3d63e13b9c535eeb6b81d35c80086e740e7e50abed3497cbc0524a08a7e685"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -5932,8 +5932,8 @@
             "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
             "assetKey": "acoustic_26_v4:project",
             "filename": "acoustic_26_v4_reaper_source.zip",
-            "bytes": 47690,
-            "sha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac"
+            "bytes": 47746,
+            "sha256": "2e4d8b3ea698529d18b3647817e8c0a508064f9e7c2483c2d414ec890aefd7c8"
           },
           "qa": {
             "reaperVerified": true,
@@ -6062,8 +6062,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_27:project",
         "filename": "acoustic_27_reaper_source.zip",
-        "bytes": 29326,
-        "sha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944"
+        "bytes": 29382,
+        "sha256": "a38b75c48c2083510fb6eab81f0dc8ad44f3fd72591df10adfc6817c206e2eee"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -6195,8 +6195,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_28:project",
         "filename": "acoustic_28_reaper_source.zip",
-        "bytes": 33646,
-        "sha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083"
+        "bytes": 33702,
+        "sha256": "933ac2020df3a9c58420fa710977edd6ab20b1a40817a1d0ea137b0c64be0266"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -6337,8 +6337,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_29:project",
         "filename": "acoustic_29_reaper_source.zip",
-        "bytes": 62899,
-        "sha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0"
+        "bytes": 62955,
+        "sha256": "935fd9781e3e25f6603161d7187ac6d561e6a04f89d59a5b901e803f3028e953"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -6484,8 +6484,8 @@
         "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
         "assetKey": "acoustic_30:project",
         "filename": "acoustic_30_reaper_source.zip",
-        "bytes": 64773,
-        "sha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5"
+        "bytes": 64829,
+        "sha256": "9a3b03a981192dce134c1b5c0110230cd3142465c526302cd8bba6022ea04741"
       },
       "family": "acoustic",
       "collection": "full-length",
@@ -6495,6 +6495,755 @@
         "filename": "午前的明信片_完整版.mp3",
         "bytes": 5264176,
         "sha256": "9faa40be1cc14bb3a4a866c5e0b934127b03695e4f5b4b7216f25e93e9a26a1b"
+      }
+    },
+    {
+      "id": "electronic_34",
+      "title": "天台的慢舞",
+      "titleEn": "Rooftop Slow Dance",
+      "style": "Neo-soul waltz",
+      "bpm": 70,
+      "meter": "3/4",
+      "durationSeconds": 229.48570833333332,
+      "key": null,
+      "openingHarmony": "Gm9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Opening: roof lights",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Twelve-bar theme",
+          "startSeconds": 10.285714285714286
+        },
+        {
+          "bar": 17,
+          "label": "Flat-side answer",
+          "startSeconds": 41.142857142857146
+        },
+        {
+          "bar": 29,
+          "label": "Written electric piano solo",
+          "startSeconds": 72.0
+        },
+        {
+          "bar": 45,
+          "label": "Guitar landing",
+          "startSeconds": 113.14285714285714
+        },
+        {
+          "bar": 49,
+          "label": "Lower-register guitar recasting",
+          "startSeconds": 123.42857142857143
+        },
+        {
+          "bar": 61,
+          "label": "Quiet suspended bridge",
+          "startSeconds": 154.28571428571428
+        },
+        {
+          "bar": 69,
+          "label": "Changed theme return",
+          "startSeconds": 174.85714285714286
+        },
+        {
+          "bar": 81,
+          "label": "Coda: one last slow turn",
+          "startSeconds": 205.71428571428572
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Electric piano lead",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Warm electric piano shells",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Guitar replies",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Syncopated low line",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Soft low pulse",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Third-beat side stick",
+          "synthesisKind": "rim"
+        },
+        {
+          "name": "Loose hat subdivisions",
+          "synthesisKind": "hat"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "把neo-soul的松弛感放进缓慢三拍子：电钢琴先写长句，经过降号侧的回应，再交给独立写成的独奏与低音区吉他。修订让吉他保留开头G–Bb–D的身份，却拥有自己的十二小节答句；伴奏改为延迟的两音支撑，鼓点在吉他段和结尾逐层退下，留下最后一次缓慢转身。",
+        "draftNotes": [
+          "Full v1: G-minor neo-soul waltz, twelve-bar theme and flat-side answer, sixteen separately written solo bars, a guitar landing and lower-register recasting, suspended bridge and rewritten return."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Wrote twelve new guitar measures that retain the opening G–Bb–D identity but broaden the answer and descend to a low G.",
+            "Changed the solo and guitar accompaniment into delayed two-note shells.",
+            "Rebuilt bass register and semitone approaches into each changing root."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Added a new D–F pickup after the dominant F# to lead back into G.",
+            "Thinned and softened the guitar-feature drums, then withdrew percussion before the closing tonic.",
+            "Held the final G, low tonic and sparse closing voicing, and shaped four-bar solo articulation."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Full v1: G-minor neo-soul waltz, twelve-bar theme and flat-side answer, sixteen separately written solo bars, a guitar landing and lower-register recasting, suspended bridge and rewritten return.",
+        "v2: rewrote the guitar recasting as an independent lower melody, opened both foreground features with delayed two-note shell responses, and rebuilt the bass register with semitone approaches to changing chord roots.",
+        "v3: new bridge pickup, quieter and sparser guitar-feature drums, graduated coda withdrawal, one held final G and low tonic instead of repeated attacks, and four-bar articulation in the written piano solo.",
+        "Final independent review: corrected seven bass fifths from E to Eb on Am7b5; retained all intentional approaches and form."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -16.9,
+        "truePeakDbtp": -3.7,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_34:project",
+        "filename": "electronic_34_reaper_source.zip",
+        "bytes": 48746,
+        "sha256": "ffa06ff6db327fb166bc0990022a168909105d7591eae5a140226b9e02e9081c"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 46,
+      "audio": {
+        "assetKey": "electronic_34:mp3",
+        "filename": "天台的慢舞_完整版.mp3",
+        "bytes": 5508976,
+        "sha256": "51c2dd316fac7bc8428a23da28a75aebbc5b41b75c09157347edaa30cd8fd72a"
+      }
+    },
+    {
+      "id": "electronic_38",
+      "title": "零点后的海岸",
+      "titleEn": "Coast After Midnight",
+      "style": "Slow motorik synthwave",
+      "bpm": 88,
+      "meter": "4/4",
+      "durationSeconds": 221.6818125,
+      "key": null,
+      "openingHarmony": "Dm9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Opening: far shore",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "Low neon theme",
+          "startSeconds": 21.818181818181817
+        },
+        {
+          "bar": 17,
+          "label": "Second sentence",
+          "startSeconds": 43.63636363636363
+        },
+        {
+          "bar": 25,
+          "label": "Broader answer",
+          "startSeconds": 65.45454545454545
+        },
+        {
+          "bar": 33,
+          "label": "Keyboard breakdown",
+          "startSeconds": 87.27272727272727
+        },
+        {
+          "bar": 41,
+          "label": "Written high-bass feature",
+          "startSeconds": 109.0909090909091
+        },
+        {
+          "bar": 49,
+          "label": "Flat-side night bridge",
+          "startSeconds": 130.9090909090909
+        },
+        {
+          "bar": 57,
+          "label": "High-return window",
+          "startSeconds": 152.72727272727272
+        },
+        {
+          "bar": 65,
+          "label": "Return descends",
+          "startSeconds": 174.54545454545453
+        },
+        {
+          "bar": 73,
+          "label": "Coda: coast lights",
+          "startSeconds": 196.36363636363637
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Low neon melody",
+          "synthesisKind": "lead"
+        },
+        {
+          "name": "Broken glass pulse",
+          "synthesisKind": "pluck"
+        },
+        {
+          "name": "Wide midnight pad",
+          "synthesisKind": "pad"
+        },
+        {
+          "name": "Distant shore keys",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Motor and bass feature",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Slow machine kick",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Backbeat",
+          "synthesisKind": "snare"
+        },
+        {
+          "name": "Closed clock",
+          "synthesisKind": "hat"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "以较低的霓虹主题沿海岸展开，先给出第二句和较宽的回答，再让键盘与高音区贝司各自获得一个段落。高处回归并非原旋律简单移调，而是把D–F开头扩展到A与C后再下降。修订撤去贝司独奏旁的琶音，收疏过门与尾段鼓点，最后将主旋律、贝司和铺底的主音接成长线。",
+        "draftNotes": [
+          "Full v1: slow D-minor synthwave with a low neighbor-note theme, broader answer, keyboard breakdown, independent eight-bar bass feature, quiet flat-side bridge and a higher then descending return."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Wrote eight new high-return measures, expanding the original D–F opening to A and C before descending through the dominant.",
+            "Removed the arpeggio from the bass feature and replaced its dense pad with quiet low two-note shells."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed the keyboard breakdown ending as a descending answer and checked its release against the bass entrance.",
+            "Reduced transition/closing drum density and added occasional kick pickups in the higher return.",
+            "Joined the final lead/bass/pad tonic and removed the last glass pattern; shaped phrase endings independently."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Full v1: slow D-minor synthwave with a low neighbor-note theme, broader answer, keyboard breakdown, independent eight-bar bass feature, quiet flat-side bridge and a higher then descending return.",
+        "v2: replaced the octave-copy return with eight newly written high-register sentences; opened the written bass feature by removing the arpeggio and changing dense pads to quiet low two-note shells.",
+        "v3: rewrote the keyboard breakdown ending as a descending answer; cleared its direct release before the bass feature, thinned the night-bridge entrance, added occasional high-return kick pickups, withdrew closing percussion and joined the last D into held lead/bass/pad arrivals.",
+        "Final independent review: selectively shortened C#/Bb pad bodies at altered-dominant exits; common pad tones and reflected resonance remain. No melodic rewrite or renderer change."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -15.7,
+        "truePeakDbtp": -3.0,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_38:project",
+        "filename": "electronic_38_reaper_source.zip",
+        "bytes": 46558,
+        "sha256": "8aa85d2ce6665ac8f442a8fef6d5ccbde02a6fa52c966100c3feb35d0b73d230"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 47,
+      "audio": {
+        "assetKey": "electronic_38:mp3",
+        "filename": "零点后的海岸_完整版.mp3",
+        "bytes": 5321776,
+        "sha256": "c8e8265e411e0801ab9d0b1196e242eb14d663d62f51c58a6eec040eeb9e47b8"
+      }
+    },
+    {
+      "id": "electronic_42",
+      "title": "黎明的五扇窗",
+      "titleEn": "Five Windows at Dawn",
+      "style": "Continuous-arch ambient",
+      "bpm": 66,
+      "meter": "4/4",
+      "durationSeconds": 238.72727083333334,
+      "key": null,
+      "openingHarmony": "Eadd9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "First light: narrow",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 13,
+          "label": "Windows opening",
+          "startSeconds": 43.63636363636363
+        },
+        {
+          "bar": 29,
+          "label": "The unfamiliar center",
+          "startSeconds": 101.81818181818181
+        },
+        {
+          "bar": 41,
+          "label": "Light folds inward",
+          "startSeconds": 145.45454545454547
+        },
+        {
+          "bar": 53,
+          "label": "The room remains",
+          "startSeconds": 189.0909090909091
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Dawn bell sentence",
+          "synthesisKind": "bell"
+        },
+        {
+          "name": "Left window pattern",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Right window reflections",
+          "synthesisKind": "pluck"
+        },
+        {
+          "name": "Long glass cloud",
+          "synthesisKind": "pad"
+        },
+        {
+          "name": "Low window sill",
+          "synthesisKind": "bass"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "这首环境音乐沿一条连续的弧线发展：光线从狭窄处进入，逐渐打开窗户，在陌生的和声中心停留，然后向室内收拢。中段添入独立的十二个高声部音符，补足和声色彩，并撤去竞争的敲击。结尾把重复的B改成延长的B–G#–E手势，让反射的间距和时值各自收缩；只在必要的半音交接处让直接发音先退开，保留房间余韵。",
+        "draftNotes": [
+          "Full v1: one continuous five-part ambient arch, unequal harmonic spans, cross-bar bell sentences and two complementary window patterns. The center moves from E-major space to C/G/D major colors; the return contracts rather than introducing a chorus or feature solo."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Revoiced center C/G pads to include their major thirds.",
+            "Wrote an independent twelve-event high counterline across the central span.",
+            "Removed competing late left-window attacks there."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Delayed D# until beat201.8, after the suspended E pad direct release ends201.66; room reflections may remain.",
+            "Replaced closing B repetitions with three sustained B–G#–E gestures.",
+            "Varied the spacing/duration of contracting upper reflections and independently softened final bell and newly entering support."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Full v1: one continuous five-part ambient arch, unequal harmonic spans, cross-bar bell sentences and two complementary window patterns. The center moves from E-major space to C/G/D major colors; the return contracts rather than introducing a chorus or feature solo.",
+        "v2: stated E and B major thirds in the center C/G chords, replaced regular upper reflections with one independent twelve-event counterline, and removed competing late left-window attacks across that central span.",
+        "v3: moved the D# resolution after the suspended pad direct tail, recomposed the last four bars of left-hand support as B–G#–E, varied the contracting reflections and softened final bell/cloud/floor entries independently."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -19.29,
+        "truePeakDbtp": -7.0,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_42:project",
+        "filename": "electronic_42_reaper_source.zip",
+        "bytes": 21514,
+        "sha256": "a5ae98ebcbcef4151242b29f5a85401dd5c755feb92cb857e0102f5608c16d80"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 48,
+      "audio": {
+        "assetKey": "electronic_42:mp3",
+        "filename": "黎明的五扇窗_完整版.mp3",
+        "bytes": 5730736,
+        "sha256": "f20bc90a5f8470b862ec8c3144b2abcdfd6ffb322b0b3dbfe70030cfc6f4a86a"
+      }
+    },
+    {
+      "id": "electronic_46",
+      "title": "夏日桥下",
+      "titleEn": "Summer Underpass",
+      "style": "Sunlit liquid drum-and-bass",
+      "bpm": 160,
+      "meter": "4/4",
+      "durationSeconds": 219.0,
+      "key": null,
+      "openingHarmony": "Bbmaj9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Intro: light through gaps",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "First lead sentence",
+          "startSeconds": 12.0
+        },
+        {
+          "bar": 25,
+          "label": "Longer answering sentence",
+          "startSeconds": 36.0
+        },
+        {
+          "bar": 41,
+          "label": "Written keys feature",
+          "startSeconds": 60.0
+        },
+        {
+          "bar": 49,
+          "label": "Sixteen-bar clearing",
+          "startSeconds": 72.0
+        },
+        {
+          "bar": 65,
+          "label": "Gradual rise",
+          "startSeconds": 96.0
+        },
+        {
+          "bar": 73,
+          "label": "Changed lead return",
+          "startSeconds": 108.0
+        },
+        {
+          "bar": 89,
+          "label": "New second-half solo",
+          "startSeconds": 132.0
+        },
+        {
+          "bar": 105,
+          "label": "Borrowed-minor half-time bridge",
+          "startSeconds": 156.0
+        },
+        {
+          "bar": 121,
+          "label": "Final head",
+          "startSeconds": 180.0
+        },
+        {
+          "bar": 137,
+          "label": "Coda: back in the sun",
+          "startSeconds": 204.0
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Sunny electric piano",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Liquid chord bed",
+          "synthesisKind": "pad"
+        },
+        {
+          "name": "Small reflected lights",
+          "synthesisKind": "bell"
+        },
+        {
+          "name": "Round sub-bass",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Broken low drum",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Light break snare",
+          "synthesisKind": "snare"
+        },
+        {
+          "name": "Fast open air",
+          "synthesisKind": "hat"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "明亮的液态DnB以两条较长的主旋律句子进入，经过键盘独奏、十六小节空地和渐进回升，再展开新的后半段独奏。第二轮三十二小节的贝司与底鼓、军鼓重新写过，先偏低音区切分，再引入八度移动；借小调色彩的半速桥段给后面的主题回归留出距离。结尾让鼓组分层退出，让低音主音和晚到的钟声延续。",
+        "draftNotes": [
+          "Full v1: B-flat major liquid DnB with two separately written thirty-two-bar foreground spans, keys feature, a flat-side clearing and half-time bridge, final head and eight-bar coda."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed the complete second thirty-two-bar bass and kick/snare parts: a more syncopated low-register first half, octave movement in the solo half and new ghost-snare placements.",
+            "Tied all eight unchanged two-bar pad pairs through the half-time bridge.",
+            "Rewrote the last four head bars as a lower D–Bb–G / F–A–C answer before the coda."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Shortened the last busy bass body so its .12-second release clears the half-time bridge; removed fresh hat attacks in the preceding half-beat.",
+            "Added a quiet three-hit snare pickup from half-time into the last head.",
+            "Merged the final two low Bb attacks, ended coda hats/snare in layers, and softened late bell reflections.",
+            "Shaped lead phrase endings and final piano attacks separately from the rhythm section."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Shortened the last busy bass body so its .12-second release clears the half-time bridge; removed fresh hat attacks in the preceding half-beat.",
+        "Added a quiet three-hit snare pickup from half-time into the last head.",
+        "Merged the final two low Bb attacks, ended coda hats/snare in layers, and softened late bell reflections.",
+        "Shaped lead phrase endings and final piano attacks separately from the rhythm section."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -15.71,
+        "truePeakDbtp": -2.8,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_46:project",
+        "filename": "electronic_46_reaper_source.zip",
+        "bytes": 76402,
+        "sha256": "640eeccaf49712364f462b15e1af801904090b978492d0b431f4403688e0841c"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 49,
+      "audio": {
+        "assetKey": "electronic_46:mp3",
+        "filename": "夏日桥下_完整版.mp3",
+        "bytes": 5257264,
+        "sha256": "ea27cbe8cb501a1b48cf08418522c2284e93d27b590a2f30519cc8170f3cf336"
+      }
+    },
+    {
+      "id": "electronic_49",
+      "title": "微开的窗",
+      "titleEn": "Windows Left Ajar",
+      "style": "Quiet piano-and-guitar post-rock",
+      "bpm": 72,
+      "meter": "4/4",
+      "durationSeconds": 250.0,
+      "key": null,
+      "openingHarmony": "Abmaj9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Guitar at the window",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "A: the falling-second sentence",
+          "startSeconds": 13.333333333333334
+        },
+        {
+          "bar": 17,
+          "label": "B: a different view",
+          "startSeconds": 53.333333333333336
+        },
+        {
+          "bar": 29,
+          "label": "Minor-subdominant quiet room",
+          "startSeconds": 93.33333333333333
+        },
+        {
+          "bar": 37,
+          "label": "Changed return, no loud crest",
+          "startSeconds": 120.0
+        },
+        {
+          "bar": 49,
+          "label": "Two melodic lines in one room",
+          "startSeconds": 160.0
+        },
+        {
+          "bar": 61,
+          "label": "Unhurried leave-taking",
+          "startSeconds": 200.0
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Window piano",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Left slow guitar pulse",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Right guitar visitor",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Air behind the room",
+          "synthesisKind": "pad"
+        },
+        {
+          "name": "Quiet floor",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Small floor drum",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Wooden edge",
+          "synthesisKind": "rim"
+        },
+        {
+          "name": "Far low drum",
+          "synthesisKind": "tom"
+        },
+        {
+          "name": "Air at the doorway",
+          "synthesisKind": "cymbal"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "用钢琴下行二度的句子和窗边吉他构成安静的后摇，不以响亮高潮作为终点。小调下属和声把视角带进更暗的房间，回归后两条旋律共处：新写的十二小节低音区吉他对旋律采用延长音与错位进入，铺底让出一个声部。告别段改成稀疏的七个吉他手势，钢琴以C–Bb–Ab收束，鼓与低音慢慢停止重新起音。",
+        "draftNotes": [
+          "Original v1: a slow piano/guitar post-rock narrative in A-flat, with two separately written twelve-bar sentences, a minor-subdominant bridge, a changed return, contrapuntal conversation and quiet twelve-bar coda; no programmed loud climax."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Composed a new 24-note, twelve-bar lower guitar counterline with held steps and displaced entries, replacing the short duet fills.",
+            "Replaced the eight-bar bridge guitar pattern with alternating two-attack spacing.",
+            "Reduced the duet pad bed from three to two voices, leaving a register for the lower guitar.",
+            "Recomposed all twelve returning drum bars as alternating downbeat/offbeat kick and late rim gestures, with sparse tom answers."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Replaced the final eight bars of guitar pulse with seven spaced gestures, ending with one quiet held A-flat.",
+            "Recomposed the last piano phrase as C–B-flat–A-flat and merged the final two low A-flat bass attacks.",
+            "Advanced and shortened the last right-guitar answer to leave direct-envelope breath; withdrew kick/rim and ended with one soft tom.",
+            "Composed a new Ab–F guitar reflection before the minor-subdominant bridge."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Original v1: a slow piano/guitar post-rock narrative in A-flat, with two separately written twelve-bar sentences, a minor-subdominant bridge, a changed return, contrapuntal conversation and quiet twelve-bar coda; no programmed loud climax.",
+        "V2: replaced incidental duet fills with a 12-bar lower guitar counterline; halved and displaced the minor-subdominant bridge guitar pulse; thinned duet pad harmony to inner dyads; composed a new quiet alternating drum articulation for the changed return.",
+        "V3: dissolved the final eight bars of regular guitar pulse into seven widely spaced gestures; rewrote the closing piano line as C–B-flat–A-flat; joined the final tonic bass; advanced/shortened the last counterline answer and wrote a staggered kick/rim/tom exit; added a two-note guitar reflection before the borrowed-minor bridge."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -19.67,
+        "truePeakDbtp": -4.49,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_49:project",
+        "filename": "electronic_49_reaper_source.zip",
+        "bytes": 31260,
+        "sha256": "4778fd47c19b8f8180b2829deaf80b58f47c51173783e22e64177c39409df2a8"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 50,
+      "audio": {
+        "assetKey": "electronic_49:mp3",
+        "filename": "微开的窗_完整版.mp3",
+        "bytes": 6001456,
+        "sha256": "45eb7fe3b656aa505f4482ad23ea164968eaa736adec72123e60c24fd610d71e"
       }
     }
   ]

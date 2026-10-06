@@ -19,10 +19,14 @@ catalog=json.loads((ROOT/'data/catalog.json').read_text())
 source=json.loads((ROOT/'data/source-catalog.json').read_text())
 manifest=json.loads((ROOT/'data/assets-manifest.json').read_text())
 tracks=catalog['tracks']
+versions=[version for track in tracks for version in [track,*track.get('alternatives',[])]]
 check(catalog['completedCount']==len(tracks),'Catalog count differs')
 check(len(tracks)==len(source['tracks']),'Public/source catalog mismatch')
-check(len(manifest['files'])==len(tracks)*2,'Asset manifest count differs')
+check(catalog.get('playableVersionCount',len(tracks))==len(versions),'Playable version count differs')
+check(len(manifest['files'])==len(versions)*2,'Asset manifest count differs')
 check(len({t['id'] for t in tracks})==len(tracks),'Duplicate IDs')
+check(len({t['id'] for t in versions})==len(versions),'Duplicate version IDs')
+check(len({a['path'] for a in manifest['files']})==len(manifest['files']),'Duplicate asset paths')
 for asset in manifest['files']:
     path=ROOT/asset['path']
     check(path.is_file(),f"Missing: {asset['path']}")
@@ -31,10 +35,22 @@ for asset in manifest['files']:
     check(digest(path)==asset['sha256'],f"Hash mismatch: {path.name}")
     check(path.stat().st_size<100*1024*1024,f'Asset too large for ordinary Git: {path.name}')
 for t in tracks:
+    check(t['revisions'] and len(t['revisions'])==t['revisionRounds'],f"Revision note mismatch: {t['id']}")
+    original=next((x for x in source['tracks'] if x['id']==t['id']),None)
+    check(original is not None,f"Missing source track: {t['id']}")
+    for version in [t,*t.get('alternatives',[])]:
+        raw=original if version is t else next((x for x in original.get('alternatives',[]) if x['id']==version['id']),None)
+        check(raw is not None,f"Missing source version: {version['id']}")
+        if raw:
+            check(version['sha256']==raw['audio']['sha256'],f"Source audio hash differs: {version['id']}")
+            check(version['projectSha256']==raw['engineering']['sha256'],f"Source project hash differs: {version['id']}")
+        if version is not t:
+            check(version['sameComposition'] and version['baselineVersion']==t['finalVersion'],f"Wrong variant baseline: {version['id']}")
+            check(bool(version['changesZh']),f"Missing version comparison: {version['id']}")
+for t in versions:
     check(t['src']==f"audio/{t['id']}.mp3",f"Noncanonical MP3: {t['id']}")
     check(t['project']==f"projects/{t['id']}.zip",f"Noncanonical ZIP: {t['id']}")
     check(t['reaperVerified'] and t['reaperVersions']>=3,f"Unverified track: {t['id']}")
-    check(t['revisions'] and len(t['revisions'])==t['revisionRounds'],f"Revision note mismatch: {t['id']}")
     with zipfile.ZipFile(ROOT/t['project']) as z:
         check(z.testzip() is None,f"ZIP CRC failed: {t['id']}")
         for member in z.infolist():
@@ -56,4 +72,4 @@ check(not (ROOT/'assets.local.json').exists(),'Private local map must not be pub
 check(sum(a['bytes'] for a in manifest['files'])<1_000_000_000,'Site media exceeds budget')
 if ERRORS:
     print('\n'.join(ERRORS));raise SystemExit(1)
-print(f"PASS: {len(tracks)} tracks, {len(manifest['files'])} SHA-256 verified resources, all ZIP CRCs, relative URLs and privacy checks.")
+print(f"PASS: {len(tracks)} tracks / {len(versions)} playable versions, {len(manifest['files'])} SHA-256 verified resources, all ZIP CRCs, relative URLs and privacy checks.")

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T02:34:44.974830+00:00",
+  "generatedAtUtc": "2026-10-06T04:17:17.992681+00:00",
   "targetCount": 50,
-  "completedCount": 40,
+  "completedCount": 45,
   "provenance": {
     "aiAssistedComposition": true,
     "originalProceduralSynthesis": true,
@@ -5773,6 +5773,728 @@
         "filename": "断层果园_完整版.mp3",
         "bytes": 5396656,
         "sha256": "74fdde59d982ac701ed576d8c6e3db27d762f7ec98313841761f7a142b1b94fb"
+      }
+    },
+    {
+      "id": "acoustic_26",
+      "title": "未合上的书",
+      "titleEn": "The Book Left Open",
+      "style": "Long-breathed piano ballad with a cello answering theme",
+      "bpm": 74,
+      "meter": "6/4",
+      "durationSeconds": 257.9729791666667,
+      "key": null,
+      "openingHarmony": "Bmaj9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Four-bar open-book prelude",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Piano: a long first sentence",
+          "startSeconds": 19.45945945945946
+        },
+        {
+          "bar": 13,
+          "label": "Cello: the other page",
+          "startSeconds": 58.37837837837838
+        },
+        {
+          "bar": 21,
+          "label": "Piano development and borrowed-color crest",
+          "startSeconds": 97.29729729729729
+        },
+        {
+          "bar": 33,
+          "label": "Six-bar night passage",
+          "startSeconds": 155.67567567567568
+        },
+        {
+          "bar": 39,
+          "label": "Changed sentence with cello underneath",
+          "startSeconds": 184.86486486486487
+        },
+        {
+          "bar": 47,
+          "label": "Six-bar closing page",
+          "startSeconds": 223.78378378378378
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Piano long upper sentence",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Piano two broad waves",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Cello independent answer",
+          "synthesisKind": "strings"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "以六拍子的长句展开钢琴与大提琴之间的两页叙述：钢琴先给出下行线条，大提琴再提出自己的上行主题。发展段借用和声色彩形成高点，夜色般的过渡之后回归。保留原版结尾，同时另作主题互换版，让双方在回归与最后六小节接过彼此的话。标题来自这种未说尽的对话意象。",
+        "draftNotes": [
+          "Full v1: B-major piano ballad in two broad three-quarter groups, separate cello theme, twelve-bar developing crest, night passage and changed duet return."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Rearranged the eight-bar cello theme: removed the second low-octave attack, sustained the first root and lowered the broken piano harmony an octave.",
+            "Opened the lower Gmaj7 semitone by raising the F# accompaniment tone an octave.",
+            "Recomposed the night-to-return dominant bar as E–F#–A#, reducing the following twenty-semitone leap to eight semitones.",
+            "Wrote an independent rising/falling cello counterline for all eight return bars, recalling its earlier answer rather than repeating chord dyads."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Lengthened selected piano phrase openings and shortened cadential last notes, rather than applying one global duration change.",
+            "Recomposed the final bar into a descending F#–D#–B and added a delayed, lower cello B.",
+            "Respaced the final B-major chord, softened and shortened the preceding dominant harmony, and reduced the cello’s late supporting note bodies before the final tonic."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Lengthened selected piano phrase openings and shortened cadential last notes, rather than applying one global duration change.",
+        "Recomposed the final bar into a descending F#–D#–B and added a delayed, lower cello B.",
+        "Respaced the final B-major chord, softened and shortened the preceding dominant harmony, and reduced the cello’s late supporting note bodies before the final tonic."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -17.42,
+        "truePeakDbtp": -4.77,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "acoustic_26:project",
+        "filename": "acoustic_26_reaper_source.zip",
+        "bytes": 30146,
+        "sha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f"
+      },
+      "family": "acoustic",
+      "collection": "full-length",
+      "ordinal": 41,
+      "audio": {
+        "assetKey": "acoustic_26:mp3",
+        "filename": "未合上的书_完整版.mp3",
+        "bytes": 6192688,
+        "sha256": "2ea6f426714805345ca41c802d24027a383864f8ace11bc336d76bc6bf3ed120"
+      },
+      "alternatives": [
+        {
+          "id": "acoustic_26_v4",
+          "version": "v4",
+          "labelZh": "主题互换版",
+          "baselineVersion": "v3",
+          "sameComposition": true,
+          "durationSeconds": 257.9729791666667,
+          "changesZh": [
+            "约3:14开始，回归段改为更稀疏的双向应答。",
+            "约3:24，钢琴接过大提琴上行的 G#–B–D#；随后大提琴接过钢琴下行的 F#–D#–C#–B。",
+            "约3:44进入最后六小节，前景在两件乐器间交替，最后由大提琴重述下行主题，钢琴给出一个迟到的轻声 B。",
+            "保留第46小节较丰满的属和声陈述；只缩短新暴露的部分相邻音尾部，保留有意的连奏与房间余韵。"
+          ],
+          "comparisonCuesSeconds": {
+            "new_return_dialogue": 194.59459459459458,
+            "literal_motif_exchange": 204.32432432432432,
+            "rewritten_closing_page": 223.78378378378378
+          },
+          "audio": {
+            "assetKey": "acoustic_26_v4:mp3",
+            "filename": "未合上的书_v4_主题互换版_完整版.mp3",
+            "bytes": 6192688,
+            "sha256": "0a122c75b839b1006bf387724cbcc090ae2e9e7d643cba6fd39c1bb1ebde9eb0"
+          },
+          "engineering": {
+            "packageKind": "regenerable_source",
+            "containsAudioStems": false,
+            "requiresStemRegeneration": true,
+            "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+            "assetKey": "acoustic_26_v4:project",
+            "filename": "acoustic_26_v4_reaper_source.zip",
+            "bytes": 47690,
+            "sha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac"
+          },
+          "qa": {
+            "reaperVerified": true,
+            "actualReaperVersions": 4,
+            "auditoryAudition": false,
+            "loudnessLufs": -17.86,
+            "truePeakDbtp": -4.77
+          }
+        }
+      ]
+    },
+    {
+      "id": "acoustic_27",
+      "title": "庭院的七扇窗",
+      "titleEn": "Seven Windows in the Courtyard",
+      "style": "Plucked-subject chamber rondo with bowed dialogue",
+      "bpm": 104,
+      "meter": "7/4",
+      "durationSeconds": 215.0,
+      "key": null,
+      "openingHarmony": "Fm",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Three-bar courtyard threshold",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 4,
+          "label": "Nine-bar plucked subject",
+          "startSeconds": 12.115384615384615
+        },
+        {
+          "bar": 13,
+          "label": "Six-bar bowed answer",
+          "startSeconds": 48.46153846153846
+        },
+        {
+          "bar": 19,
+          "label": "Ten-bar interleaved imitation",
+          "startSeconds": 72.6923076923077
+        },
+        {
+          "bar": 29,
+          "label": "Six-bar major-color clearing",
+          "startSeconds": 113.07692307692308
+        },
+        {
+          "bar": 35,
+          "label": "Changed nine-bar subject",
+          "startSeconds": 137.30769230769232
+        },
+        {
+          "bar": 44,
+          "label": "Nine-bar farewell and suspended cadence",
+          "startSeconds": 173.65384615384616
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Plucked courtyard subject",
+          "synthesisKind": "pluck"
+        },
+        {
+          "name": "Violin window answers",
+          "synthesisKind": "strings"
+        },
+        {
+          "name": "Viola crossing voice",
+          "synthesisKind": "strings"
+        },
+        {
+          "name": "Cello grounded steps",
+          "synthesisKind": "strings"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "七拍子的庭院回旋曲以拨弦短句开门，让拉弦声部从另一扇窗回应。九小节主题、六小节答句和十小节交错模仿并不对称；中段转入较明亮的大调色彩，再带回改变过的主题。修订中给中提琴写入独立的反向线条，让大提琴的步伐更连贯，最后用持续的低音与细小拨弦手势关上回旋。",
+        "draftNotes": [
+          "Full v1: F-minor chamber rondo, nine-bar plucked subject, six-bar bowed answer, ten-bar interleaved imitation and suspended final cadence."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Replaced nine bars of chord-derived viola support with a separately written contrary/oblique two-note line.",
+            "Tied the bowed answer’s high F across the F-minor-to-Db change, removing its repeated F attack.",
+            "Lowered G-half-diminished’s Db fifth and selected Ab turnarounds’ Eb by octaves; raised low Bb1 roots to Bb2. This preserves chord tones, puts the cello at or above C2 and removes octave-exceeding cello jumps.",
+            "Changed the four-note viola imitation entries into later second and third impulses."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Omitted alternating final plucked punctuation notes in the relative-major clearing.",
+            "Shortened selected subject cadences and delayed four changed-return terminal impulses; shaped farewell bowed and plucked parts separately.",
+            "Replaced the last cello fifth with one sustained F, lengthened the last viola Ab, and added a small C–Ab plucked closing gesture under the held violin F."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Omitted alternating final plucked punctuation notes in the relative-major clearing.",
+        "Shortened selected subject cadences and delayed four changed-return terminal impulses; shaped farewell bowed and plucked parts separately.",
+        "Replaced the last cello fifth with one sustained F, lengthened the last viola Ab, and added a small C–Ab plucked closing gesture under the held violin F."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -18.31,
+        "truePeakDbtp": -5.0,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "acoustic_27:project",
+        "filename": "acoustic_27_reaper_source.zip",
+        "bytes": 29326,
+        "sha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944"
+      },
+      "family": "acoustic",
+      "collection": "full-length",
+      "ordinal": 42,
+      "audio": {
+        "assetKey": "acoustic_27:mp3",
+        "filename": "庭院的七扇窗_完整版.mp3",
+        "bytes": 5161648,
+        "sha256": "ab5ad21359182c8e7385b03648e472caa68808a24b36e8897a8f885dbc62649a"
+      }
+    },
+    {
+      "id": "acoustic_28",
+      "title": "芦苇尽头的小路",
+      "titleEn": "The Path Beyond the Reeds",
+      "style": "Minor-pentatonic flute and pluck narrative in four",
+      "bpm": 84,
+      "meter": "4/4",
+      "durationSeconds": 233.5714375,
+      "key": null,
+      "openingHarmony": "Dopen",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Four-bar path entrance",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Sixteen-bar flute subject",
+          "startSeconds": 11.428571428571429
+        },
+        {
+          "bar": 21,
+          "label": "Twelve-bar plucked second story",
+          "startSeconds": 57.142857142857146
+        },
+        {
+          "bar": 33,
+          "label": "Sixteen-bar interlaced ascent",
+          "startSeconds": 91.42857142857143
+        },
+        {
+          "bar": 49,
+          "label": "Eight-bar bare recollection",
+          "startSeconds": 137.14285714285714
+        },
+        {
+          "bar": 57,
+          "label": "Sixteen-bar changed homeward subject",
+          "startSeconds": 160.0
+        },
+        {
+          "bar": 73,
+          "label": "Eight-bar closing footsteps",
+          "startSeconds": 205.71428571428572
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Flute reed-path theme",
+          "synthesisKind": "flute"
+        },
+        {
+          "name": "Plucked second story",
+          "synthesisKind": "pluck"
+        },
+        {
+          "name": "Guitar open lattice",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Low stepping stones",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Quiet wooden pulse",
+          "synthesisKind": "rim"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "以笛声的重复音引子踏进小路，拨弦随后讲出较低的第二条旋律。中段两条线交错上行，笛声抵达高处后，伴奏撤去一层，让短暂的回想显得空阔。修订把机械的和弦回应改写成八小节反向旋律；归途延展最初的句子，结尾让笛声和低音停留在同一个长音，吉他给出迟来的空五度。",
+        "draftNotes": [
+          "Full first composition, with two independent themes and a higher interlaced development that returns through a low bare recollection."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Replaced the development’s last eight mechanical two-note replies with an explicitly composed pluck counter-melody: descending into the high flute phrase, then rising and contracting toward its cadence.",
+            "Folded the bass fifths only before low-root handovers, preserving pitch class while removing the six octave-exceeding jumps.",
+            "Removed guitar attacks from the first two recollection bars, exposing the flute and its low support."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed the first four return bars with a broad opening and new descending answer, then restored the pickup in altered form. Added concise phrase-end flute breath marks.",
+            "Replaced the last two flute and bass attacks with continuous terminal Ds and rewrote the guitar finish as a full arrival followed by a late open fifth.",
+            "Reduced closing wood punctuation so the departing melodic line carries the last eight bars."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Recomposed the first four return bars with a broad opening and new descending answer, then restored the pickup in altered form. Added concise phrase-end flute breath marks.",
+        "Replaced the last two flute and bass attacks with continuous terminal Ds and rewrote the guitar finish as a full arrival followed by a late open fifth.",
+        "Reduced closing wood punctuation so the departing melodic line carries the last eight bars."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -14.31,
+        "truePeakDbtp": -4.0,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "acoustic_28:project",
+        "filename": "acoustic_28_reaper_source.zip",
+        "bytes": 33646,
+        "sha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083"
+      },
+      "family": "acoustic",
+      "collection": "full-length",
+      "ordinal": 43,
+      "audio": {
+        "assetKey": "acoustic_28:mp3",
+        "filename": "芦苇尽头的小路_完整版.mp3",
+        "bytes": 5607472,
+        "sha256": "3ba7392f70376454edec88a2d1b4c12fa4ffa49a8e6ea74ad43c867b9607dca9"
+      }
+    },
+    {
+      "id": "acoustic_29",
+      "title": "三步走到书店",
+      "titleEn": "Three Steps to the Bookshop",
+      "style": "Piano-and-guitar jazz waltz with a stop-time conversation",
+      "bpm": 116,
+      "meter": "3/4",
+      "durationSeconds": 203.6206875,
+      "key": null,
+      "openingHarmony": "Eb6",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Eight-bar opening",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "Sixteen-bar piano subject",
+          "startSeconds": 12.413793103448276
+        },
+        {
+          "bar": 25,
+          "label": "Sixteen-bar guitar reply",
+          "startSeconds": 37.241379310344826
+        },
+        {
+          "bar": 41,
+          "label": "Twenty-four-bar written tonal excursion",
+          "startSeconds": 62.06896551724138
+        },
+        {
+          "bar": 65,
+          "label": "Sixteen-bar stop-time conversation",
+          "startSeconds": 99.3103448275862
+        },
+        {
+          "bar": 81,
+          "label": "Sixteen-bar reshaped subject",
+          "startSeconds": 124.13793103448276
+        },
+        {
+          "bar": 97,
+          "label": "Twenty-four-bar combined last chorus",
+          "startSeconds": 148.9655172413793
+        },
+        {
+          "bar": 121,
+          "label": "Eight-bar closing steps",
+          "startSeconds": 186.20689655172413
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Piano bookshop subject",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Guitar answering sentence",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Electric-piano waltz chords",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Bass three-step line",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Light waltz brush pulse",
+          "synthesisKind": "hat"
+        },
+        {
+          "name": "Third-beat side-stick",
+          "synthesisKind": "rim"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "钢琴和吉他以三拍子的步伐交谈，途中用停奏式的交接留出问答空间。最后一轮不再沿用吉他的和弦音公式，而是写成完整的二十四小节对旋律，先展开音域再收回句尾；电钢琴同时退到两条内声部。回归的钢琴主题改成延长的起音和错位回答，结尾让吉他的小幅下行穿过持续的和声。",
+        "draftNotes": [
+          "Complete first draft with independent piano/guitar themes, a written flat-side excursion, stop-time traded phrases and a combined final chorus."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Placed upper C–E bass support into the lower octave without changing chord tones, addressing the discontinuous walking and fifth-to-root handovers.",
+            "Replaced the entire 24-bar final guitar formula with a fully written descending and rising counter-theme. Its register expands toward the middle of that chorus and contracts into the cadence.",
+            "Reduced the final chorus electric-piano voicings to their two inner voices, leaving separate space for both foreground parts."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Shortened and recomposed the four stop-time handover bars, creating written foreground gaps before the next instrument answers. These are not claims of literal acoustic silence.",
+            "Reshaped the returning piano subject’s opening with a long first tone followed by a displaced descending response.",
+            "Merged the terminal piano and bass Ebs, sustained the final inner harmony, and added a quiet guitar descent through the cadence."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Shortened and recomposed the four stop-time handover bars, creating written foreground gaps before the next instrument answers. These are not claims of literal acoustic silence.",
+        "Reshaped the returning piano subject’s opening with a long first tone followed by a displaced descending response.",
+        "Merged the terminal piano and bass Ebs, sustained the final inner harmony, and added a quiet guitar descent through the cadence."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -15.91,
+        "truePeakDbtp": -3.5,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "acoustic_29:project",
+        "filename": "acoustic_29_reaper_source.zip",
+        "bytes": 62899,
+        "sha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0"
+      },
+      "family": "acoustic",
+      "collection": "full-length",
+      "ordinal": 44,
+      "audio": {
+        "assetKey": "acoustic_29:mp3",
+        "filename": "三步走到书店_完整版.mp3",
+        "bytes": 4888624,
+        "sha256": "1ff070d27c1a17e636d5cae0ad18bfba4c1d19de87b34fef371bad8709f72a8e"
+      }
+    },
+    {
+      "id": "acoustic_30",
+      "title": "午前的明信片",
+      "titleEn": "A Postcard Before Noon",
+      "style": "Guitar-led bright bossa with flute refrains and a minor/flat-side bridge",
+      "bpm": 112,
+      "meter": "4/4",
+      "durationSeconds": 219.28570833333333,
+      "key": null,
+      "openingHarmony": "F6",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Four-bar postcard opening",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Sixteen-bar guitar song",
+          "startSeconds": 8.571428571428571
+        },
+        {
+          "bar": 21,
+          "label": "Eight-bar flute refrain",
+          "startSeconds": 42.857142857142854
+        },
+        {
+          "bar": 29,
+          "label": "Sixteen-bar minor and flat-side bridge",
+          "startSeconds": 60.0
+        },
+        {
+          "bar": 45,
+          "label": "Sixteen-bar written guitar feature",
+          "startSeconds": 94.28571428571429
+        },
+        {
+          "bar": 61,
+          "label": "Eight-bar quiet margin",
+          "startSeconds": 128.57142857142858
+        },
+        {
+          "bar": 69,
+          "label": "Sixteen-bar expanded song",
+          "startSeconds": 145.71428571428572
+        },
+        {
+          "bar": 85,
+          "label": "Eight-bar changed flute refrain",
+          "startSeconds": 180.0
+        },
+        {
+          "bar": 93,
+          "label": "Eight-bar signed farewell",
+          "startSeconds": 197.14285714285714
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Guitar postcard melody",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Piano clipped bossa harmony",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Flute margin notes",
+          "synthesisKind": "flute"
+        },
+        {
+          "name": "Two-pulse bossa bass",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Dry bossa side-stick",
+          "synthesisKind": "rim"
+        },
+        {
+          "name": "Fine bossa shaker",
+          "synthesisKind": "hat"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "让明亮的吉他主旋律与笛声副句交替，途中经过小调与降号侧的和声桥段。吉他独奏段的中间八小节重新写成停留、短答、下行释放和上行抵达，回归时再添一条较低的笛声对旋律。最后的安静段落像明信片边缘留出的空白；收尾将吉他和低音的F延续，让伴奏与打击乐逐步退下。",
+        "draftNotes": [
+          "Full first draft with a syncopated guitar theme, a contrasting flute refrain, a through-written minor/flat-side bridge, a fully notated guitar feature and a register-expanded return."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed the feature’s middle eight bars with held targets, shorter answers, a descending five-note release and a fresh ascent into its final phrase.",
+            "Wrote a sixteen-bar lower flute counter-theme under the returning guitar song, replacing one repeated voicing tone per bar.",
+            "Contracted the piano’s return voicings to two inner notes so the two melodic lines remain separately legible."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Rephrased the quiet margin’s first four flute bars with a delayed question, one long answer and a renewed small rise.",
+            "Shortened the guitar’s last notes before its two flute handovers to create intentional written breathing room.",
+            "Joined the final guitar and bass Fs across two bars, changed the last piano color from F6 to a quiet F triad, and removed selected farewell percussion subdivisions. Room and release overlap remain intentional."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Rephrased the quiet margin’s first four flute bars with a delayed question, one long answer and a renewed small rise.",
+        "Shortened the guitar’s last notes before its two flute handovers to create intentional written breathing room.",
+        "Joined the final guitar and bass Fs across two bars, changed the last piano color from F6 to a quiet F triad, and removed selected farewell percussion subdivisions. Room and release overlap remain intentional."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -15.54,
+        "truePeakDbtp": -3.78,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "acoustic_30:project",
+        "filename": "acoustic_30_reaper_source.zip",
+        "bytes": 64773,
+        "sha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5"
+      },
+      "family": "acoustic",
+      "collection": "full-length",
+      "ordinal": 45,
+      "audio": {
+        "assetKey": "acoustic_30:mp3",
+        "filename": "午前的明信片_完整版.mp3",
+        "bytes": 5264176,
+        "sha256": "9faa40be1cc14bb3a4a866c5e0b934127b03695e4f5b4b7216f25e93e9a26a1b"
       }
     }
   ]

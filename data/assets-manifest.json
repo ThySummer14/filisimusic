@@ -399,6 +399,66 @@
       "path": "projects/electronic_47.zip",
       "bytes": 43569,
       "sha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c"
+    },
+    {
+      "path": "audio/acoustic_26.mp3",
+      "bytes": 6192688,
+      "sha256": "2ea6f426714805345ca41c802d24027a383864f8ace11bc336d76bc6bf3ed120"
+    },
+    {
+      "path": "projects/acoustic_26.zip",
+      "bytes": 30146,
+      "sha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f"
+    },
+    {
+      "path": "audio/acoustic_26_v4.mp3",
+      "bytes": 6192688,
+      "sha256": "0a122c75b839b1006bf387724cbcc090ae2e9e7d643cba6fd39c1bb1ebde9eb0"
+    },
+    {
+      "path": "projects/acoustic_26_v4.zip",
+      "bytes": 47690,
+      "sha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac"
+    },
+    {
+      "path": "audio/acoustic_27.mp3",
+      "bytes": 5161648,
+      "sha256": "ab5ad21359182c8e7385b03648e472caa68808a24b36e8897a8f885dbc62649a"
+    },
+    {
+      "path": "projects/acoustic_27.zip",
+      "bytes": 29326,
+      "sha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944"
+    },
+    {
+      "path": "audio/acoustic_28.mp3",
+      "bytes": 5607472,
+      "sha256": "3ba7392f70376454edec88a2d1b4c12fa4ffa49a8e6ea74ad43c867b9607dca9"
+    },
+    {
+      "path": "projects/acoustic_28.zip",
+      "bytes": 33646,
+      "sha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083"
+    },
+    {
+      "path": "audio/acoustic_29.mp3",
+      "bytes": 4888624,
+      "sha256": "1ff070d27c1a17e636d5cae0ad18bfba4c1d19de87b34fef371bad8709f72a8e"
+    },
+    {
+      "path": "projects/acoustic_29.zip",
+      "bytes": 62899,
+      "sha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0"
+    },
+    {
+      "path": "audio/acoustic_30.mp3",
+      "bytes": 5264176,
+      "sha256": "9faa40be1cc14bb3a4a866c5e0b934127b03695e4f5b4b7216f25e93e9a26a1b"
+    },
+    {
+      "path": "projects/acoustic_30.zip",
+      "bytes": 64773,
+      "sha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5"
     }
   ]
 }

@@ -55,6 +55,23 @@ try{
   await page.locator('#play-pause').click();
   await page.locator('#search').fill('不存在的搜索');await page.locator('#search').press('Space');assert.equal(await page.locator('audio').evaluate(a=>a.paused),true);await page.locator('#clear-filters').click();passed('Typing does not trigger global keyboard playback');
   await page.locator('.track-title').first().click();const downloadPromise=page.waitForEvent('download');await page.locator('.download-links a').first().click();const download=await downloadPromise;assert.ok(download.suggestedFilename().endsWith('.zip'));await page.locator('#close-dialog').click();passed('Engineering ZIP download works');
+  const versioned=catalog.tracks.find(track=>track.alternatives?.length);
+  if(versioned){
+    const alternative=versioned.alternatives[0];
+    await page.locator('#search').fill(versioned.title);assert.equal(await page.locator('.track-card').count(),1);
+    await page.locator('.track-title').click();assert.equal(await page.locator('#version-select').inputValue(),versioned.id);
+    await page.locator('#dialog-play').click();await page.waitForFunction(()=>document.querySelector('audio').currentTime>.1);
+    await page.locator('#version-select').focus();await page.locator('#version-select').selectOption(alternative.id);
+    await page.waitForFunction(id=>document.querySelector('audio').getAttribute('src')===`audio/${id}.mp3`&&document.querySelector('audio').currentTime>.1,alternative.id);
+    assert.equal(await page.evaluate(()=>document.activeElement.id),'version-select');
+    assert.equal(await page.locator('#download-audio').getAttribute('href'),alternative.src);
+    assert.equal(await page.locator('#download-project').getAttribute('href'),alternative.project);
+    assert.ok((await page.locator('#player-subtitle').innerText()).includes(alternative.labelZh));
+    await page.locator('#dialog-play').click();await page.locator('#version-select').selectOption(versioned.id);
+    assert.equal(await page.locator('audio').evaluate(a=>a.paused),true);assert.equal(await page.locator('audio').getAttribute('src'),versioned.src);
+    await page.locator('#close-dialog').click();await page.locator('#search').fill('');
+    passed('One composition card, original default, version playback switch, correct downloads, retained keyboard focus and paused switch');
+  }
   await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(output,'desktop-playing.png'),fullPage:false});
   await page.setViewportSize({width:390,height:844});await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(output,'mobile.png'),fullPage:true});assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);assert.equal(await page.locator('.track-card').count(),12);passed('390px mobile layout, persistent player and no horizontal overflow');
   await page.locator('.track-title').first().click();assert.equal(await page.locator('#track-dialog').evaluate(d=>d.scrollWidth>d.clientWidth),false);await page.screenshot({path:path.join(output,'mobile-story.png'),fullPage:false});await page.keyboard.press('Escape');passed('Mobile creation-story dialog fits viewport');

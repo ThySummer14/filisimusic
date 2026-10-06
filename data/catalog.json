@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T02:34:44.974830+00:00",
-  "completedCount": 40,
+  "generatedAtUtc": "2026-10-06T04:17:17.992681+00:00",
+  "completedCount": 45,
+  "playableVersionCount": 46,
   "targetCount": 50,
   "provenance": {
     "aiAssistedComposition": true,
@@ -3227,6 +3228,424 @@
       "project": "projects/electronic_47.zip",
       "sha256": "74fdde59d982ac701ed576d8c6e3db27d762f7ec98313841761f7a142b1b94fb",
       "projectSha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "acoustic_26",
+      "title": "未合上的书",
+      "titleEn": "The Book Left Open",
+      "style": "Long-breathed piano ballad with a cello answering theme",
+      "genre": "钢琴",
+      "group": "acoustic",
+      "family": "acoustic",
+      "collection": "full-length",
+      "bpm": 74,
+      "meter": "6/4",
+      "meterLabel": "6/4",
+      "durationSeconds": 257.9729791666667,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "以六拍子的长句展开钢琴与大提琴之间的两页叙述：钢琴先给出下行线条，大提琴再提出自己的上行主题。发展段借用和声色彩形成高点，夜色般的过渡之后回归。保留原版结尾，同时另作主题互换版，让双方在回归与最后六小节接过彼此的话。标题来自这种未说尽的对话意象。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "重排大提琴的八小节主题，撤去第二次低八度入口，延长第一个根音，并将分解钢琴伴奏降低八度；展开低音区和弦的半音间距，改写过渡属和弦的旋律跳进，为回归段另写八小节独立的大提琴线条。"
+        },
+        {
+          "version": "v3",
+          "text": "分别延长若干钢琴句首、缩短终止句尾；将最后一小节改为 F#–D#–B 下行，并加入较低、较迟的大提琴 B。重新配置最终和弦，减轻前一个属和弦与末尾大提琴支撑音。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Four-bar open-book prelude",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Piano: a long first sentence",
+          "startSeconds": 19.45945945945946
+        },
+        {
+          "bar": 13,
+          "label": "Cello: the other page",
+          "startSeconds": 58.37837837837838
+        },
+        {
+          "bar": 21,
+          "label": "Piano development and borrowed-color crest",
+          "startSeconds": 97.29729729729729
+        },
+        {
+          "bar": 33,
+          "label": "Six-bar night passage",
+          "startSeconds": 155.67567567567568
+        },
+        {
+          "bar": 39,
+          "label": "Changed sentence with cello underneath",
+          "startSeconds": 184.86486486486487
+        },
+        {
+          "bar": 47,
+          "label": "Six-bar closing page",
+          "startSeconds": 223.78378378378378
+        }
+      ],
+      "src": "audio/acoustic_26.mp3",
+      "project": "projects/acoustic_26.zip",
+      "sha256": "2ea6f426714805345ca41c802d24027a383864f8ace11bc336d76bc6bf3ed120",
+      "projectSha256": "9106f287702d314901496f2900a70df57c06c8560548e8e587c39c6fb127ae0f",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。",
+      "alternatives": [
+        {
+          "id": "acoustic_26_v4",
+          "version": "v4",
+          "labelZh": "主题互换版",
+          "baselineVersion": "v3",
+          "sameComposition": true,
+          "durationSeconds": 257.9729791666667,
+          "changesZh": [
+            "约3:14开始，回归段改为更稀疏的双向应答。",
+            "约3:24，钢琴接过大提琴上行的 G#–B–D#；随后大提琴接过钢琴下行的 F#–D#–C#–B。",
+            "约3:44进入最后六小节，前景在两件乐器间交替，最后由大提琴重述下行主题，钢琴给出一个迟到的轻声 B。",
+            "保留第46小节较丰满的属和声陈述；只缩短新暴露的部分相邻音尾部，保留有意的连奏与房间余韵。"
+          ],
+          "comparisonCuesSeconds": {
+            "new_return_dialogue": 194.59459459459458,
+            "literal_motif_exchange": 204.32432432432432,
+            "rewritten_closing_page": 223.78378378378378
+          },
+          "src": "audio/acoustic_26_v4.mp3",
+          "project": "projects/acoustic_26_v4.zip",
+          "sha256": "0a122c75b839b1006bf387724cbcc090ae2e9e7d643cba6fd39c1bb1ebde9eb0",
+          "projectSha256": "f426b9dc7872c64c2279e099489284543ef5fa62e80cb99784019a676a084aac",
+          "reaperVerified": true,
+          "reaperVersions": 4,
+          "qaSummary": "此对照版保留 4 个实际 REAPER 导出版本；详细验证范围见工程记录。"
+        }
+      ]
+    },
+    {
+      "id": "acoustic_27",
+      "title": "庭院的七扇窗",
+      "titleEn": "Seven Windows in the Courtyard",
+      "style": "Plucked-subject chamber rondo with bowed dialogue",
+      "genre": "室内乐",
+      "group": "acoustic",
+      "family": "acoustic",
+      "collection": "full-length",
+      "bpm": 104,
+      "meter": "7/4",
+      "meterLabel": "7/4",
+      "durationSeconds": 215.0,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "七拍子的庭院回旋曲以拨弦短句开门，让拉弦声部从另一扇窗回应。九小节主题、六小节答句和十小节交错模仿并不对称；中段转入较明亮的大调色彩，再带回改变过的主题。修订中给中提琴写入独立的反向线条，让大提琴的步伐更连贯，最后用持续的低音与细小拨弦手势关上回旋。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "用独立的反向、斜向双音线条替换九小节中提琴和弦伴奏；连接答句跨和弦重复的高 F。对部分大提琴根音与五音作八度调整，保留和弦音，同时消除超过八度的跳跃；推迟模仿段中提琴的后续入口。"
+        },
+        {
+          "version": "v3",
+          "text": "在明亮中段交替省略拨弦句末的点缀；缩短若干主题终止，推迟改变后的回归句尾，并分别塑造拉弦与拨弦的告别。结尾以持续的大提琴 F、中提琴 Ab 和细小 C–Ab 拨弦手势收束。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Three-bar courtyard threshold",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 4,
+          "label": "Nine-bar plucked subject",
+          "startSeconds": 12.115384615384615
+        },
+        {
+          "bar": 13,
+          "label": "Six-bar bowed answer",
+          "startSeconds": 48.46153846153846
+        },
+        {
+          "bar": 19,
+          "label": "Ten-bar interleaved imitation",
+          "startSeconds": 72.6923076923077
+        },
+        {
+          "bar": 29,
+          "label": "Six-bar major-color clearing",
+          "startSeconds": 113.07692307692308
+        },
+        {
+          "bar": 35,
+          "label": "Changed nine-bar subject",
+          "startSeconds": 137.30769230769232
+        },
+        {
+          "bar": 44,
+          "label": "Nine-bar farewell and suspended cadence",
+          "startSeconds": 173.65384615384616
+        }
+      ],
+      "src": "audio/acoustic_27.mp3",
+      "project": "projects/acoustic_27.zip",
+      "sha256": "ab5ad21359182c8e7385b03648e472caa68808a24b36e8897a8f885dbc62649a",
+      "projectSha256": "d5c00ece19cc2d331b4d448bc547a9cf4bba5ed59f4c66cf0d45affeb293f944",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "acoustic_28",
+      "title": "芦苇尽头的小路",
+      "titleEn": "The Path Beyond the Reeds",
+      "style": "Minor-pentatonic flute and pluck narrative in four",
+      "genre": "五声音阶",
+      "group": "acoustic",
+      "family": "acoustic",
+      "collection": "full-length",
+      "bpm": 84,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 233.5714375,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "以笛声的重复音引子踏进小路，拨弦随后讲出较低的第二条旋律。中段两条线交错上行，笛声抵达高处后，伴奏撤去一层，让短暂的回想显得空阔。修订把机械的和弦回应改写成八小节反向旋律；归途延展最初的句子，结尾让笛声和低音停留在同一个长音，吉他给出迟来的空五度。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "将发展段最后八小节的机械双音回应改写为完整拨弦对旋律：先与高处笛声反向下行，再上升并缩回终止。调整低根音交接前的低音五音，消除六处超过八度的跳跃；撤去回想段开头两小节吉他。"
+        },
+        {
+          "version": "v3",
+          "text": "重写回归段前四小节，以宽展句首、新下行回答和变化后的弱起重现主题，并加入句尾呼吸。把最后两次笛声与低音入口合并为持续 D，吉他先完整落地，再给出迟到的空五度；减少结束前木质打击的点缀。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Four-bar path entrance",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Sixteen-bar flute subject",
+          "startSeconds": 11.428571428571429
+        },
+        {
+          "bar": 21,
+          "label": "Twelve-bar plucked second story",
+          "startSeconds": 57.142857142857146
+        },
+        {
+          "bar": 33,
+          "label": "Sixteen-bar interlaced ascent",
+          "startSeconds": 91.42857142857143
+        },
+        {
+          "bar": 49,
+          "label": "Eight-bar bare recollection",
+          "startSeconds": 137.14285714285714
+        },
+        {
+          "bar": 57,
+          "label": "Sixteen-bar changed homeward subject",
+          "startSeconds": 160.0
+        },
+        {
+          "bar": 73,
+          "label": "Eight-bar closing footsteps",
+          "startSeconds": 205.71428571428572
+        }
+      ],
+      "src": "audio/acoustic_28.mp3",
+      "project": "projects/acoustic_28.zip",
+      "sha256": "3ba7392f70376454edec88a2d1b4c12fa4ffa49a8e6ea74ad43c867b9607dca9",
+      "projectSha256": "584c79aee1f1b5b5bc56857987f15b9fe37394ec4165ffb6ef02e9f155d31083",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "acoustic_29",
+      "title": "三步走到书店",
+      "titleEn": "Three Steps to the Bookshop",
+      "style": "Piano-and-guitar jazz waltz with a stop-time conversation",
+      "genre": "爵士",
+      "group": "acoustic",
+      "family": "acoustic",
+      "collection": "full-length",
+      "bpm": 116,
+      "meter": "3/4",
+      "meterLabel": "3/4",
+      "durationSeconds": 203.6206875,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "钢琴和吉他以三拍子的步伐交谈，途中用停奏式的交接留出问答空间。最后一轮不再沿用吉他的和弦音公式，而是写成完整的二十四小节对旋律，先展开音域再收回句尾；电钢琴同时退到两条内声部。回归的钢琴主题改成延长的起音和错位回答，结尾让吉他的小幅下行穿过持续的和声。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "将部分较高 C–E 低音支撑降低八度，修正行走低音交接。完整重写最后 24 小节吉他对旋律，使音域先展开、再向终止收拢；电钢琴退为两条内声部，给两个前景旋律留出空间。"
+        },
+        {
+          "version": "v3",
+          "text": "重写并缩短四小节停奏交接，在下一乐器回答前留下乐谱中的前景空隙，不将其夸称为声学静音。回归钢琴主题改为延长起音和错位下行回答；末尾连接钢琴与低音 Eb，持续内声和声，让轻声吉他下行穿过终止。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Eight-bar opening",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "Sixteen-bar piano subject",
+          "startSeconds": 12.413793103448276
+        },
+        {
+          "bar": 25,
+          "label": "Sixteen-bar guitar reply",
+          "startSeconds": 37.241379310344826
+        },
+        {
+          "bar": 41,
+          "label": "Twenty-four-bar written tonal excursion",
+          "startSeconds": 62.06896551724138
+        },
+        {
+          "bar": 65,
+          "label": "Sixteen-bar stop-time conversation",
+          "startSeconds": 99.3103448275862
+        },
+        {
+          "bar": 81,
+          "label": "Sixteen-bar reshaped subject",
+          "startSeconds": 124.13793103448276
+        },
+        {
+          "bar": 97,
+          "label": "Twenty-four-bar combined last chorus",
+          "startSeconds": 148.9655172413793
+        },
+        {
+          "bar": 121,
+          "label": "Eight-bar closing steps",
+          "startSeconds": 186.20689655172413
+        }
+      ],
+      "src": "audio/acoustic_29.mp3",
+      "project": "projects/acoustic_29.zip",
+      "sha256": "1ff070d27c1a17e636d5cae0ad18bfba4c1d19de87b34fef371bad8709f72a8e",
+      "projectSha256": "aa9ae3c6e373f32243e72ff16c9a73abfc16af84101c5bcc73b59df37fd471d0",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "acoustic_30",
+      "title": "午前的明信片",
+      "titleEn": "A Postcard Before Noon",
+      "style": "Guitar-led bright bossa with flute refrains and a minor/flat-side bridge",
+      "genre": "Bossa nova",
+      "group": "acoustic",
+      "family": "acoustic",
+      "collection": "full-length",
+      "bpm": 112,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 219.28570833333333,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "让明亮的吉他主旋律与笛声副句交替，途中经过小调与降号侧的和声桥段。吉他独奏段的中间八小节重新写成停留、短答、下行释放和上行抵达，回归时再添一条较低的笛声对旋律。最后的安静段落像明信片边缘留出的空白；收尾将吉他和低音的F延续，让伴奏与打击乐逐步退下。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "重写吉他独奏中间八小节，使用停留目标音、较短回答、五音下行释放与新的上行抵达；为回归吉他主题另写 16 小节低音区笛声对旋律，钢琴缩为两条内声部。"
+        },
+        {
+          "version": "v3",
+          "text": "重塑安静段前四小节笛声，以延后的提问、长回答和小幅回升连接；缩短两次交接前的吉他句尾。结尾将吉他与低音 F 连为跨两小节持续音，把钢琴 F6 改成轻声 F 三和弦，并撤去部分打击细分，保留有意的房间余韵与释放重叠。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Four-bar postcard opening",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 5,
+          "label": "Sixteen-bar guitar song",
+          "startSeconds": 8.571428571428571
+        },
+        {
+          "bar": 21,
+          "label": "Eight-bar flute refrain",
+          "startSeconds": 42.857142857142854
+        },
+        {
+          "bar": 29,
+          "label": "Sixteen-bar minor and flat-side bridge",
+          "startSeconds": 60.0
+        },
+        {
+          "bar": 45,
+          "label": "Sixteen-bar written guitar feature",
+          "startSeconds": 94.28571428571429
+        },
+        {
+          "bar": 61,
+          "label": "Eight-bar quiet margin",
+          "startSeconds": 128.57142857142858
+        },
+        {
+          "bar": 69,
+          "label": "Sixteen-bar expanded song",
+          "startSeconds": 145.71428571428572
+        },
+        {
+          "bar": 85,
+          "label": "Eight-bar changed flute refrain",
+          "startSeconds": 180.0
+        },
+        {
+          "bar": 93,
+          "label": "Eight-bar signed farewell",
+          "startSeconds": 197.14285714285714
+        }
+      ],
+      "src": "audio/acoustic_30.mp3",
+      "project": "projects/acoustic_30.zip",
+      "sha256": "9faa40be1cc14bb3a4a866c5e0b934127b03695e4f5b4b7216f25e93e9a26a1b",
+      "projectSha256": "2dfaba825108c7a7a8a584a5de33b42dbb5b94720543cd9f9aa7e38731cb05f5",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     }

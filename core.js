@@ -12,6 +12,15 @@ export function timeLabel(seconds) {
   return `${Math.floor(value / 60)} 分 ${value % 60} 秒`;
 }
 export function clamp(value, min, max) { return Math.min(max, Math.max(min, value)); }
+/** Versions stay attached to one composition; the original remains the default. */
+export function trackVersions(track) {
+  return [{id:track.id,version:track.finalVersion,labelZh:'原版（默认）',primary:true,
+    src:track.src,project:track.project,durationSeconds:track.durationSeconds,
+    sha256:track.sha256,projectSha256:track.projectSha256,qaSummary:track.qaSummary},
+    ...(track.alternatives || []).map(version=>({...version,primary:false}))];
+}
+export function trackVersion(track, id = track.id) { return trackVersions(track).find(version=>version.id===id) || null; }
+export function playableVersionCount(tracks) { return tracks.reduce((total,track)=>total+1+(track.alternatives?.length || 0),0); }
 export function validateCatalog(catalog) {
   if (!catalog || !Array.isArray(catalog.tracks) || !catalog.tracks.length) throw new Error('Catalog has no tracks.');
   const ids = new Set();
@@ -21,7 +30,17 @@ export function validateCatalog(catalog) {
     if (!track.title || !Number.isFinite(track.durationSeconds) || track.durationSeconds <= 0) throw new Error('Invalid track metadata.');
     if (track.src !== `audio/${track.id}.mp3` || track.project !== `projects/${track.id}.zip`) throw new Error('Track resources must use canonical relative paths.');
     if (!['acoustic','electronic','sketch'].includes(track.group)) throw new Error('Invalid collection group.');
+    if (track.alternatives !== undefined && !Array.isArray(track.alternatives)) throw new Error('Invalid alternatives.');
+    for (const alternative of track.alternatives || []) {
+      if (!/^[a-z0-9_\-]+$/.test(alternative.id) || ids.has(alternative.id)) throw new Error('Invalid or duplicate version ID.');
+      ids.add(alternative.id);
+      if (alternative.sameComposition !== true || alternative.baselineVersion !== track.finalVersion || !alternative.version || !alternative.labelZh) throw new Error('Alternative must identify its original composition.');
+      if (!Number.isFinite(alternative.durationSeconds) || alternative.durationSeconds <= 0) throw new Error('Invalid alternative duration.');
+      if (alternative.src !== `audio/${alternative.id}.mp3` || alternative.project !== `projects/${alternative.id}.zip`) throw new Error('Version resources must use canonical relative paths.');
+      if (!Array.isArray(alternative.changesZh) || !alternative.changesZh.length || alternative.changesZh.some(text=>typeof text!=='string')) throw new Error('Alternative needs documented changes.');
+    }
   }
+  if (catalog.playableVersionCount !== undefined && catalog.playableVersionCount !== playableVersionCount(catalog.tracks)) throw new Error('Playable version count differs.');
   return catalog;
 }
 export function getFilteredTracks(tracks, {group = 'all', style = 'all', query = '', sort = 'original'} = {}) {

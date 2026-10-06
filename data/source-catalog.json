@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T01:53:06.141311+00:00",
+  "generatedAtUtc": "2026-10-06T02:34:44.974830+00:00",
   "targetCount": 50,
-  "completedCount": 38,
+  "completedCount": 40,
   "provenance": {
     "aiAssistedComposition": true,
     "originalProceduralSynthesis": true,
@@ -5463,6 +5463,316 @@
         "filename": "冬日玻璃房_完整版.mp3",
         "bytes": 6237616,
         "sha256": "5d59a472009f5b35e73e3c42e15bc9bc3bdbddaffa4c5cd0469257b44749087d"
+      }
+    },
+    {
+      "id": "electronic_45",
+      "title": "纸卫星",
+      "titleEn": "Paper Satellites",
+      "style": "Clipped-dialogue drum-and-bass",
+      "bpm": 172,
+      "meter": "4/4",
+      "durationSeconds": 216.09302083333333,
+      "key": null,
+      "openingHarmony": "F#m9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Folded signal",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "A: clipped lead sentence",
+          "startSeconds": 11.162790697674419
+        },
+        {
+          "bar": 25,
+          "label": "B: the plucked answer",
+          "startSeconds": 33.48837209302326
+        },
+        {
+          "bar": 41,
+          "label": "Eight-bar rhythm aperture",
+          "startSeconds": 55.81395348837209
+        },
+        {
+          "bar": 49,
+          "label": "Twenty-four-bar exchanged development",
+          "startSeconds": 66.97674418604652
+        },
+        {
+          "bar": 73,
+          "label": "Suspended middle: six long rooms",
+          "startSeconds": 100.46511627906976
+        },
+        {
+          "bar": 97,
+          "label": "Reassembly without a riser",
+          "startSeconds": 133.95348837209303
+        },
+        {
+          "bar": 105,
+          "label": "Second orbit: expanded answer",
+          "startSeconds": 145.11627906976744
+        },
+        {
+          "bar": 129,
+          "label": "Twenty-four-bar unwinding",
+          "startSeconds": 178.6046511627907
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Clipped satellite signal",
+          "synthesisKind": "lead"
+        },
+        {
+          "name": "Plucked answering orbit",
+          "synthesisKind": "pluck"
+        },
+        {
+          "name": "Offbeat glass chords",
+          "synthesisKind": "epiano"
+        },
+        {
+          "name": "Stepped sub-bass",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Displaced low drum",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Crossing backbeat",
+          "synthesisKind": "snare"
+        },
+        {
+          "name": "Cut-paper hats",
+          "synthesisKind": "hat"
+        },
+        {
+          "name": "Small rim replies",
+          "synthesisKind": "rim"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "把短促的主奏与拨弦回答写成一组相互交换的信号，在快速碎拍上展开较长的对话。二十四小节发展之后进入悬置的安静中段，再以改变过的节奏与旋律重新组合，最后逐步松开。",
+        "draftNotes": [
+          "Original v1: F-sharp minor/Dorian clipped cells, a separately written pluck answer, exchanged chromatic development, six spacious four-bar middle phrases and a long unsaturated coda."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed all 24 second-orbit bass, kick, snare and hat bars, with offbeat low arrivals and different ghost-note gaps.",
+            "Composed a new eight-bar plucked middle sentence, replacing the corresponding lead line rather than doubling it.",
+            "Recomposed the aperture chords as occasional offbeat answers and removed four first-beat bass/kick attacks."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Removed the last two pre-middle comp stabs and fresh late bass/kick/snare/hat attacks, producing a cleared harmonic entrance rather than claiming silence from note bodies alone.",
+            "Added a three-note rim pickup into the second orbit and withdrew coda hats, snare and kick at separate points.",
+            "Shortened the last C-sharp dominant chord body to .7 beat; its .6-second epiano release plus all 1.7 seconds of possible room-delay combinations finish before the F-sharp tonic.",
+            "Replaced four closing pluck repetitions with two long-voice melody notes, sparse closing voicing and two bass arrivals.",
+            "Final all-part harmony inspection replaced the generic fifth above slash bass G-sharp with B over E/G-sharp, and the fifth above E with C-sharp over F-sharp-minor/E; both now belong to the stated chord."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Original v1: F-sharp minor/Dorian clipped cells, a separately written pluck answer, exchanged chromatic development, six spacious four-bar middle phrases and a long unsaturated coda.",
+        "V2: rewrote the full second-orbit bass, kick, snare and hat grammar; composed an independent eight-bar plucked counter-sentence; changed the rhythm aperture into sparse offbeat chord answers and missing downbeats.",
+        "V3: removed the last dominant stab and fresh low/drum attacks before the suspended middle; wrote a small rim pickup; staggered the coda drum exit; shortened the final dominant chord to clear its direct and room tails; replaced repeated closing plucks with G-sharp–F-sharp in the long lead and two low tonic arrivals.",
+        "Final independent review: the introductory C#sus to C#7 now has an explicit F#–E# resolution rather than carrying the same suspended chord unchanged."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -17.03,
+        "truePeakDbtp": -2.79,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_45:project",
+        "filename": "electronic_45_reaper_source.zip",
+        "bytes": 74510,
+        "sha256": "414f135987182c0e6b41e96fa6632cdb470846162c370e8aef7440f4bebe49ae"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 39,
+      "audio": {
+        "assetKey": "electronic_45:mp3",
+        "filename": "纸卫星_完整版.mp3",
+        "bytes": 5187568,
+        "sha256": "7a377d058171f5ecb7257b9176e2a4b3678b3df1fbeaa70f529ab1816c45846c"
+      }
+    },
+    {
+      "id": "electronic_47",
+      "title": "断层果园",
+      "titleEn": "Faultline Orchard",
+      "style": "Riff-led 4/4 post-rock",
+      "bpm": 100,
+      "meter": "4/4",
+      "durationSeconds": 224.8,
+      "key": null,
+      "openingHarmony": "Cm9",
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "Exposed angular riff",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "First singing line",
+          "startSeconds": 19.2
+        },
+        {
+          "bar": 25,
+          "label": "Cross-current: toms and flat-side harmony",
+          "startSeconds": 57.6
+        },
+        {
+          "bar": 37,
+          "label": "Widening register",
+          "startSeconds": 86.4
+        },
+        {
+          "bar": 49,
+          "label": "Twelve-bar crest already turning downward",
+          "startSeconds": 115.2
+        },
+        {
+          "bar": 61,
+          "label": "The drums stop: harmonic stillness",
+          "startSeconds": 144.0
+        },
+        {
+          "bar": 69,
+          "label": "Sixteen-bar guitar conversation",
+          "startSeconds": 163.2
+        },
+        {
+          "bar": 85,
+          "label": "Roots and open fifth",
+          "startSeconds": 201.6
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Left angular guitar",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Right singing guitar",
+          "synthesisKind": "guitar"
+        },
+        {
+          "name": "Piano horizon",
+          "synthesisKind": "piano"
+        },
+        {
+          "name": "Orchard roots",
+          "synthesisKind": "bass"
+        },
+        {
+          "name": "Ground pulse",
+          "synthesisKind": "kick"
+        },
+        {
+          "name": "Wide snare",
+          "synthesisKind": "snare"
+        },
+        {
+          "name": "Walking tom",
+          "synthesisKind": "tom"
+        },
+        {
+          "name": "Crest air",
+          "synthesisKind": "cymbal"
+        }
+      ],
+      "origin": {
+        "kind": "composition_design",
+        "text": "从带有三加三加二重音的棱角音型出发，把顶点放在较早的位置，再用鼓组停下后的空间与吉他问答继续发展。修订加入独立低声部对位，按实际和声节奏改写钢琴和低音，让结尾走向收束而不重复顶点。",
+        "draftNotes": [
+          "Original v1: C-minor angular riff with a non-arpeggio eighth-note identity, independent lead themes, flat-side cross-current, an early 12-bar crest, and a 32-bar unwinding through harmonic stillness and a quiet guitar duet."
+        ],
+        "basis": "Documented score structure and revision decisions; no autobiographical claim."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "Composed a 12-bar left-guitar counterline with displaced onsets, contrary motion and its own descent beneath the upper crest.",
+            "Replaced 40 bars of changing-harmony piano support with local dyads whose bodies and direct releases clear each following bar.",
+            "Composed a four-bar cross-current turn, increasing internal motion before the widening section."
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "Recomposed the 16-bar quiet section as eight new lower-register guitar calls, with the upper-guitar response retained in alternate bars and sparse accompaniment beneath it.",
+            "Removed the last two crest counterline attacks so its direct guitar release clears the first quiet C chord.",
+            "Rewrote coda bass and piano at the actual one-bar harmonic rhythm, using the correct D-half-diminished/G-dominant bass roots rather than a lingering prior root.",
+            "Joined the final C into one long guitar arrival, reduced the opposite guitar to two low gestures, and composed a kick–tom–kick exit."
+          ]
+        }
+      ],
+      "finalNotes": [
+        "Original v1: C-minor angular riff with a non-arpeggio eighth-note identity, independent lead themes, flat-side cross-current, an early 12-bar crest, and a 32-bar unwinding through harmonic stillness and a quiet guitar duet.",
+        "V2: composed a 12-bar left-guitar counterline for the crest; replaced piano bodies that bridged changing harmonies with sparse, chord-specific dyads; recomposed the four-bar cross-current turn into the widening section.",
+        "V3: rebuilt the 16-bar quiet section as alternating newly composed lower-guitar calls and upper-guitar responses; removed the direct-release leading-tone collision before stillness; corrected coda bass/piano harmonic rhythm and joined the final C into one sustained arrival; wrote a three-gesture rhythm exit.",
+        "Final independent review: two piano Eb suspensions now resolve to D at Bb7, avoiding the long direct clash with the guitar and making the quiet dominant explicit."
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "loudnessLufs": -18.84,
+        "truePeakDbtp": -3.43,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Retained separately in verified private archives or local originals; not included in this public source ZIP.",
+        "assetKey": "electronic_47:project",
+        "filename": "electronic_47_reaper_source.zip",
+        "bytes": 43569,
+        "sha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c"
+      },
+      "family": "electronic",
+      "collection": "full-length",
+      "ordinal": 40,
+      "audio": {
+        "assetKey": "electronic_47:mp3",
+        "filename": "断层果园_完整版.mp3",
+        "bytes": 5396656,
+        "sha256": "74fdde59d982ac701ed576d8c6e3db27d762f7ec98313841761f7a142b1b94fb"
       }
     }
   ]

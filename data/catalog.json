@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T01:53:06.141311+00:00",
-  "completedCount": 38,
+  "generatedAtUtc": "2026-10-06T02:34:44.974830+00:00",
+  "completedCount": 40,
   "targetCount": 50,
   "provenance": {
     "aiAssistedComposition": true,
@@ -3062,6 +3062,171 @@
       "project": "projects/electronic_41.zip",
       "sha256": "5d59a472009f5b35e73e3c42e15bc9bc3bdbddaffa4c5cd0469257b44749087d",
       "projectSha256": "21e44e581dda66b3fd58344731d4354ebc9dd5b28f63e77e2b2564d3e884715f",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_45",
+      "title": "纸卫星",
+      "titleEn": "Paper Satellites",
+      "style": "Clipped-dialogue drum-and-bass",
+      "genre": "Drum & bass",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 172,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 216.09302083333333,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "把短促的主奏与拨弦回答写成一组相互交换的信号，在快速碎拍上展开较长的对话。二十四小节发展之后进入悬置的安静中段，再以改变过的节奏与旋律重新组合，最后逐步松开。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "重写第二次回归的 24 小节低音、底鼓、军鼓与踩镲节奏；另写八小节拨弦中段，替换原主奏而非叠加。将节奏间隙中的和弦改为稀疏的反拍回答，并撤去四处正拍低音与底鼓。"
+        },
+        {
+          "version": "v3",
+          "text": "清理悬置中段前的新和弦与鼓点入口，加入三音边击弱起，让尾声鼓组分次退场。缩短末尾升 C 属和弦，给直接释放与房间延迟留出结束空间；用长线条旋律和两次低音归落替代重复拨弦，并校正转位和弦中的低音配音。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Folded signal",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "A: clipped lead sentence",
+          "startSeconds": 11.162790697674419
+        },
+        {
+          "bar": 25,
+          "label": "B: the plucked answer",
+          "startSeconds": 33.48837209302326
+        },
+        {
+          "bar": 41,
+          "label": "Eight-bar rhythm aperture",
+          "startSeconds": 55.81395348837209
+        },
+        {
+          "bar": 49,
+          "label": "Twenty-four-bar exchanged development",
+          "startSeconds": 66.97674418604652
+        },
+        {
+          "bar": 73,
+          "label": "Suspended middle: six long rooms",
+          "startSeconds": 100.46511627906976
+        },
+        {
+          "bar": 97,
+          "label": "Reassembly without a riser",
+          "startSeconds": 133.95348837209303
+        },
+        {
+          "bar": 105,
+          "label": "Second orbit: expanded answer",
+          "startSeconds": 145.11627906976744
+        },
+        {
+          "bar": 129,
+          "label": "Twenty-four-bar unwinding",
+          "startSeconds": 178.6046511627907
+        }
+      ],
+      "src": "audio/electronic_45.mp3",
+      "project": "projects/electronic_45.zip",
+      "sha256": "7a377d058171f5ecb7257b9176e2a4b3678b3df1fbeaa70f529ab1816c45846c",
+      "projectSha256": "414f135987182c0e6b41e96fa6632cdb470846162c370e8aef7440f4bebe49ae",
+      "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
+      "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
+    },
+    {
+      "id": "electronic_47",
+      "title": "断层果园",
+      "titleEn": "Faultline Orchard",
+      "style": "Riff-led 4/4 post-rock",
+      "genre": "后摇",
+      "group": "electronic",
+      "family": "electronic",
+      "collection": "full-length",
+      "bpm": 100,
+      "meter": "4/4",
+      "meterLabel": "4/4",
+      "durationSeconds": 224.8,
+      "finalVersion": "v3",
+      "revisionRounds": 2,
+      "revisionLabel": "2 次修改",
+      "revisionDescription": "2 轮实质修订",
+      "reaperVersions": 3,
+      "reaperVerified": true,
+      "story": "从带有三加三加二重音的棱角音型出发，把顶点放在较早的位置，再用鼓组停下后的空间与吉他问答继续发展。修订加入独立低声部对位，按实际和声节奏改写钢琴和低音，让结尾走向收束而不重复顶点。",
+      "compositionNotes": "",
+      "revisions": [
+        {
+          "version": "v2",
+          "text": "为高点写出独立的 12 小节左侧吉他对位，用错开的入口、反向进行和下降线条回应上声部。将 40 小节钢琴伴奏改为随本地和声变化的双音，并重写进入展开段前的四小节转折。"
+        },
+        {
+          "version": "v3",
+          "text": "将 16 小节安静段重写为八组低音区吉他呼叫与交替的高声部回答；撤去高点末尾两个对位入口，避免释放音拖入安静和弦。按每小节和声重写尾声低音与钢琴，修正根音，以一个持续的最终 C 音和底鼓—通鼓—底鼓的三次动作收束。"
+        }
+      ],
+      "sections": [
+        {
+          "bar": 1,
+          "label": "Exposed angular riff",
+          "startSeconds": 0.0
+        },
+        {
+          "bar": 9,
+          "label": "First singing line",
+          "startSeconds": 19.2
+        },
+        {
+          "bar": 25,
+          "label": "Cross-current: toms and flat-side harmony",
+          "startSeconds": 57.6
+        },
+        {
+          "bar": 37,
+          "label": "Widening register",
+          "startSeconds": 86.4
+        },
+        {
+          "bar": 49,
+          "label": "Twelve-bar crest already turning downward",
+          "startSeconds": 115.2
+        },
+        {
+          "bar": 61,
+          "label": "The drums stop: harmonic stillness",
+          "startSeconds": 144.0
+        },
+        {
+          "bar": 69,
+          "label": "Sixteen-bar guitar conversation",
+          "startSeconds": 163.2
+        },
+        {
+          "bar": 85,
+          "label": "Roots and open fifth",
+          "startSeconds": 201.6
+        }
+      ],
+      "src": "audio/electronic_47.mp3",
+      "project": "projects/electronic_47.zip",
+      "sha256": "74fdde59d982ac701ed576d8c6e3db27d762f7ec98313841761f7a142b1b94fb",
+      "projectSha256": "3258248e32723b55a8681fb5d7c6a442f1b591177c6da7d4875a2ee2bfa6055c",
       "projectDisclosure": "可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。",
       "qaSummary": "已记录 3 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 0。"
     }

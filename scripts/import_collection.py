@@ -103,6 +103,9 @@ def main():
             'projectDisclosure':'可再生成源文件包，含乐谱、MIDI、REAPER 工程与生成脚本，不含现成音频分轨。先按包内 README 安装依赖并生成素材，再打开 REAPER 工程；完整分轨档案不在此轻量包内。',
             'qaSummary':f"已记录 {qa['actualReaperVersions']} 个实际 REAPER 导出版本；PCM 数值有限，削波样本为 {qa['clippedSamples']}。",
         }
+        for field in ('soundSourceZh', 'provenance', 'creditsZh'):
+            if field in original:
+                normalized[field] = original[field]
         alternatives = []
         for variant in original.get('alternatives', []):
             if variant.get('sameComposition') is not True or variant.get('baselineVersion') != original['finalVersion']:

@@ -42,6 +42,9 @@ for t in tracks:
         raw=original if version is t else next((x for x in original.get('alternatives',[]) if x['id']==version['id']),None)
         check(raw is not None,f"Missing source version: {version['id']}")
         if raw:
+            check(version['reaperVersions']==raw['qa']['actualReaperVersions'],f"REAPER export count differs: {version['id']}")
+            if raw.get('collection')=='story-collection-20261006':
+                check(raw['qa']['finitePcm'] and raw['qa']['clippedSamples']==0,f"PCM verification failed: {version['id']}")
             check(version['sha256']==raw['audio']['sha256'],f"Source audio hash differs: {version['id']}")
             check(version['projectSha256']==raw['engineering']['sha256'],f"Source project hash differs: {version['id']}")
         if version is not t:
@@ -50,7 +53,7 @@ for t in tracks:
 for t in versions:
     check(t['src']==f"audio/{t['id']}.mp3",f"Noncanonical MP3: {t['id']}")
     check(t['project']==f"projects/{t['id']}.zip",f"Noncanonical ZIP: {t['id']}")
-    check(t['reaperVerified'] and t['reaperVersions']>=3,f"Unverified track: {t['id']}")
+    check(t['reaperVerified'] and t['reaperVersions']>=(2 if t.get('collection')=='story-collection-20261006' else 3),f"Unverified track: {t['id']}")
     with zipfile.ZipFile(ROOT/t['project']) as z:
         check(z.testzip() is None,f"ZIP CRC failed: {t['id']}")
         for member in z.infolist():

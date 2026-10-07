@@ -509,6 +509,46 @@
       "path": "projects/electronic_49.zip",
       "bytes": 31260,
       "sha256": "4778fd47c19b8f8180b2829deaf80b58f47c51173783e22e64177c39409df2a8"
+    },
+    {
+      "path": "audio/story_052_borrowed_tide.mp3",
+      "bytes": 6844904,
+      "sha256": "eb67ee98f425550ded7aca50cc53b734f3d66ce1ef74e7f15f5d037a27aad033"
+    },
+    {
+      "path": "projects/story_052_borrowed_tide.zip",
+      "bytes": 342894,
+      "sha256": "8f63a6cbf6daa30f5b49e1032cd515b01b79f5690a30d6b5a54ac3dda25f7ea3"
+    },
+    {
+      "path": "audio/story_053_orchard_under_glass.mp3",
+      "bytes": 5926204,
+      "sha256": "fe82d7fe61764891fd49559519aded3d6e2d394eca3abe25aea1242d767910ac"
+    },
+    {
+      "path": "projects/story_053_orchard_under_glass.zip",
+      "bytes": 319023,
+      "sha256": "f5846a5be03e4301c526b8d8860f77af940741f0db405a247a504738a578313e"
+    },
+    {
+      "path": "audio/story_054_last_ferry.mp3",
+      "bytes": 4639458,
+      "sha256": "438000d40c4b934a0a49891a283500ac8f32550d54fc911733be317b045e69d4"
+    },
+    {
+      "path": "projects/story_054_last_ferry.zip",
+      "bytes": 210304,
+      "sha256": "d0c67881e55ecb4369a8bfa39b54c17cc3427f1041967a16aa1fa48523c7bfad"
+    },
+    {
+      "path": "audio/story_055_city_whispers.mp3",
+      "bytes": 6587983,
+      "sha256": "9eccbf85bc2c1753439f6fcbce1641c484f4c317af10407a087ad3842f78a4eb"
+    },
+    {
+      "path": "projects/story_055_city_whispers.zip",
+      "bytes": 264589,
+      "sha256": "aaf54f959152a2fb57e1e68c49f91e040753e81d968e8ac801d2b304a8d44f15"
     }
   ]
 }

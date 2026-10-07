@@ -1,15 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T05:07:52.682793+00:00",
-  "targetCount": 50,
-  "completedCount": 50,
+  "generatedAtUtc": "2026-10-07T01:49:44.439290+00:00",
+  "targetCount": 54,
+  "completedCount": 54,
   "provenance": {
     "aiAssistedComposition": true,
-    "originalProceduralSynthesis": true,
+    "originalProceduralSynthesis": false,
     "humanPerformance": false,
-    "thirdPartySamples": false,
+    "thirdPartySamples": true,
     "actualReaperOfflineExports": true,
-    "auditoryReview": false
+    "auditoryReview": false,
+    "mixedSoundSources": true,
+    "soundSourceScope": "Legacy works use procedural synthesis; story works 052–055 use Moonlight-Salamander V6.2 sampled piano, CC BY 3.0. See per-track credits."
   },
   "tracks": [
     {
@@ -7245,6 +7247,614 @@
         "bytes": 6001456,
         "sha256": "45eb7fe3b656aa505f4482ad23ea164968eaa736adec72123e60c24fd610d71e"
       }
+    },
+    {
+      "id": "story_052_borrowed_tide",
+      "title": "向潮水借来的钟",
+      "titleEn": "The Clockmaker’s Borrowed Tide",
+      "style": "energetic narrative piano",
+      "bpm": 144,
+      "meter": "4/4",
+      "durationSeconds": 213.8163492063492,
+      "key": "D minor, ending in D major",
+      "openingHarmony": [
+        "D3",
+        "A3",
+        "D4",
+        "F4"
+      ],
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "等候潮水的钟",
+          "startSeconds": 0
+        },
+        {
+          "bar": 5,
+          "label": "两艘船共同启程",
+          "startSeconds": 6.666666666666667
+        },
+        {
+          "bar": 21,
+          "label": "越过防波堤",
+          "startSeconds": 33.33333333333334
+        },
+        {
+          "bar": 37,
+          "label": "借来一次涨潮",
+          "startSeconds": 59.27927927927928
+        },
+        {
+          "bar": 53,
+          "label": "潮水来收回时间",
+          "startSeconds": 99.61261261261262
+        },
+        {
+          "bar": 61,
+          "label": "走散的秒针",
+          "startSeconds": 113.5256560908735
+        },
+        {
+          "bar": 69,
+          "label": "今天请看船",
+          "startSeconds": 135.23157396526963
+        },
+        {
+          "bar": 85,
+          "label": "先望一眼水面",
+          "startSeconds": 161.89824063193615
+        },
+        {
+          "bar": 101,
+          "label": "港口的清晨",
+          "startSeconds": 191.89824063193615
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Moonlight acoustic grand piano",
+          "synthesisKind": "sampled_acoustic_piano",
+          "sampleBank": "Moonlight-Salamander V6.2",
+          "license": "CC BY3.0"
+        }
+      ],
+      "origin": {
+        "kind": "original_fiction",
+        "text": "港口的钟停在五点零七分。那是第一班货船离岸的时刻，也是最后一班渡船靠岸的时刻。平日它们隔着防波堤交换汽笛，今天却在薄雾里错过了彼此。\n\n年轻的钟匠遥把钟楼拆到只剩骨架，仍找不到坏掉的零件。每一只齿轮都能转，每一根轴都没有弯，只是钟摆再也不肯一起走。一个修船的老人看了半天，说：“你这钟听惯了潮水。河口改了，它还在等原来的那一拍。”\n\n遥带着钟摆走到最外面的石堤。潮水正往后退，露出从前码头的一截木桩。她把钟摆垂进水里，等到浪头碰上最下端，向海借了一次完整的涨潮。\n\n第二天，钟重新走动。遥第一次没有把秒针盯得那么紧。货船与渡船同时发出汽笛，码头上的人抬起头，看见两条白色尾流沿着各自的航道伸向远方。\n\n直到傍晚，钟摆里传来退潮的声音。海来收回借出去的那一拍了。\n\n遥以为只要把钟摆带回石堤就行。可她刚走下钟楼，全城的钟就开始变慢：面包店差了两分钟，车站快了一分钟，杂货铺的小闹钟干脆停了一会儿。人们追着她问，哪一只钟才是对的。\n\n她没有再去拨正每一根指针，而是在码头竖起一块小牌子：“今天下午，请看船。”\n\n最初大家有些生气。后来，他们看见对岸的船，就站起来；看见船还没来，就坐回长椅。卖面包的人把最后一筐面包分给了等船的人。两个总是错过彼此班次的水手，第一次一起喝完了一杯茶。\n\n涨潮退回海里时，钟摆终于安静下来。遥把它装好，没有再追赶那些已经走散的秒数。第二天清晨，港口依旧忙碌，船也依旧准时出发。只是钟响以前，人们偶尔会先望一眼水面。",
+        "draftNotes": [
+          "从连续脉动中的共同启程主题，发展到新的抒情对比句、归还潮汐的减薄段，再逐步加速回到主旋律。最后用新写的回归与明亮终止收束。约3分34秒；没有把早期方向片段简单循环铺长。",
+          "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander项目重制，Hiroharu Narikawa与原始README所列人员参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz生成float32演奏轨，真实REAPER7.82完成混音与24bit母带；不是现场真人演奏，全曲未声称完成人工听审。"
+        ],
+        "basis": "Original fiction and documented development of one composition; the early direction excerpt is not counted as another new work."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "先建立可辨认主旋律与同和弦左手支撑，协调句首、落点和短句尾呼吸，替代互不配合的高低声部。"
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "移除不必要的宽跨距到达和弦，以少量右手八度强化共同落点；缩短低音手指按键时值，由踏板保留共鸣，校正明确手部分工。"
+          ]
+        },
+        {
+          "round": 3,
+          "kind": "substantive_revision",
+          "changes": [
+            "展开为完整曲式，加入原创抒情主题、归还潮汐段和新尾声；重排引子伴奏音区与左手和弦，修正和声交接及句法。"
+          ]
+        },
+        {
+          "round": 4,
+          "kind": "substantive_revision",
+          "changes": [
+            "保留原有紧凑开头，取消较长低音区引子；让减薄段末尾的速度与力度共同递进接回主题，收掉多余尾部静默。便携工程重新实际导出与最终母带PCM一致。"
+          ]
+        }
+      ],
+      "finalNotes": [
+        "先建立可辨认主旋律与同和弦左手支撑，协调句首、落点和短句尾呼吸，替代互不配合的高低声部。",
+        "移除不必要的宽跨距到达和弦，以少量右手八度强化共同落点；缩短低音手指按键时值，由踏板保留共鸣，校正明确手部分工。",
+        "展开为完整曲式，加入原创抒情主题、归还潮汐段和新尾声；重排引子伴奏音区与左手和弦，修正和声交接及句法。",
+        "保留原有紧凑开头，取消较长低音区引子；让减薄段末尾的速度与力度共同递进接回主题，收掉多余尾部静默。便携工程重新实际导出与最终母带PCM一致。"
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "full_v2",
+      "qa": {
+        "actualReaperVersions": 4,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "peakDbfs": -3.5041966177603405,
+        "loudnessLufs": null,
+        "truePeakDbtp": null,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Full standalone audio-track REAPER package retained separately; not included in public compactZIP.",
+        "assetKey": "story_052_borrowed_tide:project",
+        "filename": "story_052_borrowed_tide.zip",
+        "bytes": 342894,
+        "sha256": "8f63a6cbf6daa30f5b49e1032cd515b01b79f5690a30d6b5a54ac3dda25f7ea3",
+        "safeRegenerationEntry": "Tools/SafeRegeneration/regenerate.py",
+        "sourcePackageRevision": "r1"
+      },
+      "family": "acoustic",
+      "collection": "story-collection-20261006",
+      "ordinal": 52,
+      "audio": {
+        "assetKey": "story_052_borrowed_tide:mp3",
+        "filename": "story_052_borrowed_tide.mp3",
+        "bytes": 6844904,
+        "sha256": "eb67ee98f425550ded7aca50cc53b734f3d66ce1ef74e7f15f5d037a27aad033"
+      },
+      "soundSourceZh": "真实钢琴采样演奏",
+      "provenance": {
+        "aiAssistedComposition": true,
+        "originalProceduralSynthesis": false,
+        "thirdPartySamples": true,
+        "sampleLicense": "CC BY3.0",
+        "humanPerformance": false,
+        "actualReaperOfflineExports": true,
+        "auditoryReview": false,
+        "deterministicRamSourceVerified": true
+      },
+      "creditsZh": "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander项目重制，Hiroharu Narikawa与原始README所列人员参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz生成float32演奏轨，真实REAPER7.82完成混音与24bit母带；不是现场真人演奏，全曲未声称完成人工听审。",
+      "technicalCorrectionZh": "2026-10-06 技术说明更正：真实 REAPER API 核对确认，本次历史工程的音轨 D_WIDTH 为 1。旧生成器把 VOLPAN 第三个字段误称为宽度，该字段实际是 D_PANLAW（声像律）。因此历史记录中的“收窄宽度”应改为“调整声像及声像律”。原音频、乐谱和历史工程均保留；原生重开 PCM 核验仍然有效。本说明不代表人工听审，也不判定原音频质量。ReaVerbate 效果器自身的 Width 参数独立，不受此字段命名错误影响。后续生成器已用原生 API 设置并回读 D_WIDTH/D_PANLAW，保存重开测试通过。",
+      "sourcePackageRevision": "r1",
+      "acceptanceStatus": "full_listening_pending"
+    },
+    {
+      "id": "story_053_orchard_under_glass",
+      "title": "玻璃之下的果园",
+      "titleEn": "An Orchard Under Glass",
+      "style": "lyrical jazz waltz piano",
+      "bpm": 116,
+      "meter": "3/4",
+      "durationSeconds": 185.1262358276644,
+      "key": "G major with E-minor and flat-side harmonic detour",
+      "openingHarmony": [
+        "G2",
+        "B3",
+        "D4",
+        "G4"
+      ],
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "茶杯里的种子",
+          "startSeconds": 0
+        },
+        {
+          "bar": 5,
+          "label": "站台成了花园",
+          "startSeconds": 6.488095238095238
+        },
+        {
+          "bar": 21,
+          "label": "六次换盆",
+          "startSeconds": 31.371100164203618
+        },
+        {
+          "bar": 45,
+          "label": "第一道裂缝",
+          "startSeconds": 67.42282430213466
+        },
+        {
+          "bar": 61,
+          "label": "长桌上的许多杯子",
+          "startSeconds": 94.6592282976951
+        },
+        {
+          "bar": 85,
+          "label": "第一次学会风",
+          "startSeconds": 131.95602632725172
+        },
+        {
+          "bar": 109,
+          "label": "划掉的旧标签",
+          "startSeconds": 168.00775046518277
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Moonlight acoustic grand piano",
+          "synthesisKind": "sampled_acoustic_piano",
+          "sampleBank": "Moonlight-Salamander V6.2",
+          "license": "CC BY3.0"
+        }
+      ],
+      "origin": {
+        "kind": "original_fiction",
+        "text": "种子库建在旧地铁站最深的一层。阿澄每天沿着站台巡视，检查抽屉上的日期，把遗失的标签重新系好。这里保存着许多已经消失的东西：山坡上的酸梨、盐地里的小麦，还有一包写着“不再发芽”的金色种子。\n\n她挑了一颗，种进值班室的旧茶杯。第三天，杯口冒出一片弯弯的叶子。第七天，茶杯裂了。一个月后，树梢已经碰到了种子库的玻璃顶。\n\n同事们给它换过六次花盆。地铁广播坏了许多年，他们仍用报站的口气宣布每天新增的枝条。有人把午饭搬到树下；有人在枝杈上挂了一只还会响的车票剪。站台第一次不像仓库了。\n\n接着，根须钻进玻璃下的接缝。雨水沿着裂口落进存放小麦的抽屉。夜班会上，两张纸摆到了阿澄面前：一张申请砍树，一张申请迁走整座种子库。她拿着两张纸站了很久，忽然问：“为什么我们总说它只有这一棵？”\n\n第二天，站台的长桌上摆满了剪下的枝条、泥土和大小不同的杯子。搬运工带走一盆，清洁工带走一盆，负责修广播的人把第三盆塞在车筐里。阿澄给每一株写了新的标签，但没有再写“最后”。\n\n他们把大树移到废弃的采光井。第一次见到天空时，它的叶子被风吹得东倒西歪。大家站在井边笑，好像看见一个太久没出门的人终于学会走路。\n\n下一年春天，阿澄收到一袋寄来的种子。寄件人没写信，只把旧标签贴在信封背面，划掉了“不再发芽”。",
+        "draftNotes": [
+          "完整的三拍主旋律先问后答，在轻微摇摆中长出新续句；玻璃出现裂缝时转入较暗和声，分享枝条后重新聚拢。低音与中声部始终围绕同一条歌唱线组织。",
+          "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。"
+        ],
+        "basis": "Original fictional narrative, score structure and documented revision choices; not lived experience."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "重写暗段到分享段的和声交接，让B7先解决到E小调再回到G；删掉旋律八度下重复争抢的伴奏琴键，减薄暗段开头。"
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "温暖段加入轻微5:3摆动，暗段保持较直节奏；调整旋律力度弧线、伴奏层次和句尾。修正11处左手换和弦时的按键时值，交由踏板保留低音。"
+          ]
+        },
+        {
+          "round": 3,
+          "kind": "technical_finishing",
+          "changes": [
+            "依据实际REAPER导出修正偏右的钢琴声像并调整声像律，保留自然动态；缩短多余尾部静默。便携工程重开导出的PCM与母带一致。"
+          ]
+        }
+      ],
+      "finalNotes": [
+        "重写暗段到分享段的和声交接，让B7先解决到E小调再回到G；删掉旋律八度下重复争抢的伴奏琴键，减薄暗段开头。",
+        "温暖段加入轻微5:3摆动，暗段保持较直节奏；调整旋律力度弧线、伴奏层次和句尾。修正11处左手换和弦时的按键时值，交由踏板保留低音。",
+        "依据实际REAPER导出修正偏右的钢琴声像并调整声像律，保留自然动态；缩短多余尾部静默。便携工程重开导出的PCM与母带一致。"
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 2,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "peakDbfs": -6.216428346724613,
+        "loudnessLufs": null,
+        "truePeakDbtp": null,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Full audio-track project and master are retained separately; not in this public compactZIP.",
+        "assetKey": "story_053_orchard_under_glass:project",
+        "filename": "story_053_orchard_under_glass.zip",
+        "bytes": 319023,
+        "sha256": "f5846a5be03e4301c526b8d8860f77af940741f0db405a247a504738a578313e",
+        "safeRegenerationEntry": "Tools/SafeRegeneration/regenerate.py",
+        "sourcePackageRevision": "r1"
+      },
+      "family": "acoustic",
+      "collection": "story-collection-20261006",
+      "ordinal": 53,
+      "audio": {
+        "assetKey": "story_053_orchard_under_glass:mp3",
+        "filename": "story_053_orchard_under_glass.mp3",
+        "bytes": 5926204,
+        "sha256": "fe82d7fe61764891fd49559519aded3d6e2d394eca3abe25aea1242d767910ac"
+      },
+      "soundSourceZh": "真实钢琴采样演奏",
+      "provenance": {
+        "aiAssistedComposition": true,
+        "originalProceduralSynthesis": false,
+        "thirdPartySamples": true,
+        "sampleLicense": "CC BY3.0",
+        "humanPerformance": false,
+        "actualReaperOfflineExports": true,
+        "auditoryReview": false,
+        "deterministicRamSourceVerified": true
+      },
+      "creditsZh": "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。",
+      "technicalCorrectionZh": "2026-10-06 技术说明更正：真实 REAPER API 核对确认，本次历史工程的音轨 D_WIDTH 为 1。旧生成器把 VOLPAN 第三个字段误称为宽度，该字段实际是 D_PANLAW（声像律）。因此历史记录中的“收窄宽度”应改为“调整声像及声像律”。原音频、乐谱和历史工程均保留；原生重开 PCM 核验仍然有效。本说明不代表人工听审，也不判定原音频质量。ReaVerbate 效果器自身的 Width 参数独立，不受此字段命名错误影响。后续生成器已用原生 API 设置并回读 D_WIDTH/D_PANLAW，保存重开测试通过。",
+      "sourcePackageRevision": "r1",
+      "acceptanceStatus": "full_listening_pending"
+    },
+    {
+      "id": "story_054_last_ferry",
+      "title": "末班渡船载着雪",
+      "titleEn": "The Last Ferry Carries Snow",
+      "style": "flowing compound-meter piano ballad",
+      "bpm": 88,
+      "meter": "6/8",
+      "durationSeconds": 193.25,
+      "key": "B minor, open B-add9 ending",
+      "openingHarmony": [
+        "E2",
+        "G3",
+        "B3",
+        "D4"
+      ],
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "末班码头的雪",
+          "startSeconds": 0
+        },
+        {
+          "bar": 5,
+          "label": "写给东岸的信",
+          "startSeconds": 8.678571428571429
+        },
+        {
+          "bar": 21,
+          "label": "没有灯的河心",
+          "startSeconds": 41.50324675324677
+        },
+        {
+          "bar": 37,
+          "label": "写给西岸的信",
+          "startSeconds": 71.58476849237721
+        },
+        {
+          "bar": 53,
+          "label": "衣袋里的名字",
+          "startSeconds": 106.8192900683621
+        },
+        {
+          "bar": 69,
+          "label": "同一条船，两边的岸",
+          "startSeconds": 138.21257070077317
+        },
+        {
+          "bar": 85,
+          "label": "留在船上的外套",
+          "startSeconds": 171.0372460254483
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Moonlight acoustic grand piano",
+          "synthesisKind": "sampled_acoustic_piano",
+          "sampleBank": "Moonlight-Salamander V6.2",
+          "license": "CC BY3.0"
+        }
+      ],
+      "origin": {
+        "kind": "original_fiction",
+        "text": "春天的第一场雪下得很轻。老渡工周岑把船拴好，准备回家，忽然看见码头长椅上搭着一件深蓝色大衣。大衣已经旧了，肩头缝过，口袋却平整，像有人刚把手抽出来。\n\n左边口袋里有一叠寄往东岸的信，右边口袋里有一叠寄往西岸的信。所有信封都没贴邮票，收件人却是他认识的名字。东岸修伞的老人，西岸开杂货铺的妇人，曾经一起修过船、后来再也不打招呼的两个兄弟。\n\n周岑沿码头喊了一声，没有人回答。他想把大衣送到派出所，走了几步又回头看那两叠信，最后解开了船绳。\n\n河中央没有灯。雪落进水里，像一句话刚到嘴边就不见了。他把大衣放在座位上，伸手替它扣好最上面一粒扣子。一个浪打来，右边口袋滑出一只信封，正面写着他的名字。\n\n信里没有解释，也没有道歉。只有很久以前的一张渡船票，背面写着：“那天下雨，你没有收我钱。”字迹已经认不出来了。\n\n第二天，他把其余的信一封封送到。有人问是谁写的，他说不知道。有人当场拆开，有人把信压在糖罐下面。修伞的老人留他喝了杯热水；那个总从另一条街绕路的弟弟，傍晚忽然站上了渡船。\n\n大衣仍没有人来认领。周岑把它洗干净，挂在船舱里。后来每逢下雪，就有人问他为什么还穿着那件不合身的外套。他说，河上冷。",
+        "draftNotes": [
+          "两岸的旋律各有面貌，却共享同一个下行收句；低音围绕两个复合拍稳定摆动，伴奏在主旋律的句尾一起呼吸。河心段扩大音域，归来时两个主题终于连成一条线。 本版本仅完成采样载入技术修复，保留既有音乐设计；整曲人工听审仍待反馈。",
+          "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。"
+        ],
+        "basis": "Original fictional narrative, score structure and documented revision choices; not lived experience."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "documented_revision",
+          "changes": [
+            "重写引子和声成为回应句；重组重逢段开头，使原主题回归有连接。写给自己的信出现时先收住力度。"
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "documented_revision",
+          "changes": [
+            "连接主旋律触键与句子力度，调整伴奏双拍重心；检查同键占用与两手跨度，保持主伴共同落点。"
+          ]
+        },
+        {
+          "round": 3,
+          "kind": "documented_revision",
+          "changes": [
+            "根据实际导出修正偏右声像并调整声像律并缩短尾部静默。保留轻柔动态和完整句尾。"
+          ]
+        },
+        {
+          "round": 4,
+          "kind": "technical_source_repair",
+          "changes": [
+            "修复高速离线渲染中个别采样没有完整载入的问题。重建声部与独立完整RAM参考逐样本一致；原作乐谱、故事及原生REAPER混音设置不变，便携工程回开导出PCM一致。本次为技术修复，不计作新作品或新增创作轮次。"
+          ]
+        }
+      ],
+      "finalNotes": [
+        "重写引子和声成为回应句；重组重逢段开头，使原主题回归有连接。写给自己的信出现时先收住力度。",
+        "连接主旋律触键与句子力度，调整伴奏双拍重心；检查同键占用与两手跨度，保持主伴共同落点。",
+        "根据实际导出修正偏右声像并调整声像律并缩短尾部静默。保留轻柔动态和完整句尾。",
+        "修复高速离线渲染中个别采样没有完整载入的问题。重建声部与独立完整RAM参考逐样本一致；原作乐谱、故事及原生REAPER混音设置不变，便携工程回开导出PCM一致。本次为技术修复，不计作新作品或新增创作轮次。"
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v4",
+      "qa": {
+        "actualReaperVersions": 3,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "peakDbfs": -8.430977066097649,
+        "loudnessLufs": null,
+        "truePeakDbtp": null,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Full audio-track project and master are retained separately; not in this public compactZIP.",
+        "assetKey": "story_054_last_ferry:project",
+        "filename": "story_054_last_ferry.zip",
+        "bytes": 210304,
+        "sha256": "d0c67881e55ecb4369a8bfa39b54c17cc3427f1041967a16aa1fa48523c7bfad"
+      },
+      "family": "acoustic",
+      "collection": "story-collection-20261006",
+      "ordinal": 54,
+      "audio": {
+        "assetKey": "story_054_last_ferry:mp3",
+        "filename": "story_054_last_ferry.mp3",
+        "bytes": 4639458,
+        "sha256": "438000d40c4b934a0a49891a283500ac8f32550d54fc911733be317b045e69d4"
+      },
+      "soundSourceZh": "真实钢琴采样演奏",
+      "provenance": {
+        "aiAssistedComposition": true,
+        "originalProceduralSynthesis": false,
+        "thirdPartySamples": true,
+        "sampleLicense": "CC BY3.0",
+        "humanPerformance": false,
+        "actualReaperOfflineExports": true,
+        "auditoryReview": false,
+        "deterministicRamSourceVerified": true
+      },
+      "creditsZh": "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。",
+      "acceptanceStatus": "full_listening_pending",
+      "technicalSourceRepairVersion": "v4"
+    },
+    {
+      "id": "story_055_city_whispers",
+      "title": "学会低声说话的城",
+      "titleEn": "The City That Learned to Whisper",
+      "style": "processional piano and quiet bell variation",
+      "bpm": 108,
+      "meter": "4/4",
+      "durationSeconds": 205.8,
+      "key": "F major with D-minor contrasting theme",
+      "openingHarmony": [
+        "F2",
+        "F3",
+        "A3",
+        "C4"
+      ],
+      "sectionMap": [
+        {
+          "bar": 1,
+          "label": "走调的老钟",
+          "startSeconds": 0
+        },
+        {
+          "bar": 5,
+          "label": "吵闹的广场",
+          "startSeconds": 9.411764705882353
+        },
+        {
+          "bar": 21,
+          "label": "三次没有成功的修补",
+          "startSeconds": 44.9673202614379
+        },
+        {
+          "bar": 37,
+          "label": "一片薄铜",
+          "startSeconds": 79.25303454715218
+        },
+        {
+          "bar": 53,
+          "label": "孩子说：等一下",
+          "startSeconds": 120.10409837693952
+        },
+        {
+          "bar": 61,
+          "label": "整座城听懂一句话",
+          "startSeconds": 143.74979799183046
+        },
+        {
+          "bar": 77,
+          "label": "留给小钟的位置",
+          "startSeconds": 179.97621308617016
+        }
+      ],
+      "instrumentation": [
+        {
+          "name": "Moonlight acoustic grand piano",
+          "synthesisKind": "sampled_acoustic_piano",
+          "sampleBank": "Moonlight-Salamander V6.2",
+          "license": "CC BY3.0"
+        }
+      ],
+      "origin": {
+        "kind": "original_fiction",
+        "text": "市政广场的老钟裂了。每到整点，它就发出一声奇怪的嗡鸣，卖鱼的人说像锅盖，修鞋的人说像一群鸭子。大家都觉得自己能分辨问题出在哪里，于是钟楼下面每天比市场还吵。\n\n师傅出门未归，学徒弥安只好独自试着修。她补过裂缝，换过木槌，甚至把整口钟转了半圈，声音还是歪的。第三天，她在铸坊角落找到一块很薄的旧铜片，做了一口小钟。它的声音并不响，却能完整地响很久。\n\n试钟的那天，商贩没有停下叫卖，委员们没有停下争论。弥安敲了三次，谁也没听见。一个委员指着她的小钟说：“城这么大，你做这么小的东西，有什么用？”\n\n弥安没有再敲。她把钟放在广场中央，坐在旁边等。\n\n黄昏，一个抱着面包的孩子走过来，想摸那口钟。弥安把木槌递给他。孩子先看了看四周，突然举起另一只手，说：“等一下。”他的声音很小，最近的面包师却停住了。修鞋的人也停住了。卖鱼的人误以为有人要宣布消息，跟着抬起头。\n\n孩子轻轻敲了一下。\n\n声音越过了没有人说话的广场，绕过雨棚，钻进开着的窗。它并没有让整座城变小，只让大家第一次知道，城里原来留得出这么大一块安静。\n\n后来他们没有拆掉老钟。每逢节日，老钟先响一声，仍旧像歪掉的锅盖。人们笑过，再等那口小钟响完。",
+        "draftNotes": [
+          "宽广进行主题先被偏移的和弦重音打断，低音与旋律仍保持共同方向。铜片段转入较暗的主题；大家一起停住后，长音钟声显出原旋律的轮廓。回归段把小钟的句子带进完整主旋律，最后留下新写的安静尾声。",
+          "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。"
+        ],
+        "basis": "Original fictional narrative, score structure and documented revision choices; not lived experience."
+      },
+      "revisions": [
+        {
+          "round": 1,
+          "kind": "substantive_revision",
+          "changes": [
+            "重写四小节引子成为钟声原型；转折前各声部共同停住；回归先唱小钟旋律，再展开进行主题。"
+          ]
+        },
+        {
+          "round": 2,
+          "kind": "substantive_revision",
+          "changes": [
+            "塑造八小节力度弧线，调整修钟段的和弦错位重音，减薄回归伴奏；修正6处实际琴键占用冲突。"
+          ]
+        },
+        {
+          "round": 3,
+          "kind": "technical_finishing",
+          "changes": [
+            "完成两轮实质谱面修订后的导出整理：保留钟声与回归段的动态差异及已有平衡，缩短多余尾部静默。便携工程回开验证另附。"
+          ]
+        }
+      ],
+      "finalNotes": [
+        "重写四小节引子成为钟声原型；转折前各声部共同停住；回归先唱小钟旋律，再展开进行主题。",
+        "塑造八小节力度弧线，调整修钟段的和弦错位重音，减薄回归伴奏；修正6处实际琴键占用冲突。",
+        "完成两轮实质谱面修订后的导出整理：保留钟声与回归段的动态差异及已有平衡，缩短多余尾部静默。便携工程回开验证另附。"
+      ],
+      "completionStatus": "completed",
+      "finalVersion": "v3",
+      "qa": {
+        "actualReaperVersions": 2,
+        "reaperVerified": true,
+        "finitePcm": true,
+        "clippedSamples": 0,
+        "peakDbfs": -3.326545600626856,
+        "loudnessLufs": null,
+        "truePeakDbtp": null,
+        "auditoryAudition": false
+      },
+      "engineering": {
+        "packageKind": "regenerable_source",
+        "containsAudioStems": false,
+        "requiresStemRegeneration": true,
+        "fullVersionAudio": "Full audio-track project and master are retained separately; not in this public compactZIP.",
+        "assetKey": "story_055_city_whispers:project",
+        "filename": "story_055_city_whispers.zip",
+        "bytes": 264589,
+        "sha256": "aaf54f959152a2fb57e1e68c49f91e040753e81d968e8ac801d2b304a8d44f15",
+        "safeRegenerationEntry": "Tools/SafeRegeneration/regenerate.py",
+        "sourcePackageRevision": "r1"
+      },
+      "family": "acoustic",
+      "collection": "story-collection-20261006",
+      "ordinal": 55,
+      "audio": {
+        "assetKey": "story_055_city_whispers:mp3",
+        "filename": "story_055_city_whispers.mp3",
+        "bytes": 6587983,
+        "sha256": "9eccbf85bc2c1753439f6fcbce1641c484f4c317af10407a087ad3842f78a4eb"
+      },
+      "soundSourceZh": "真实钢琴采样演奏",
+      "provenance": {
+        "aiAssistedComposition": true,
+        "originalProceduralSynthesis": false,
+        "thirdPartySamples": true,
+        "sampleLicense": "CC BY3.0",
+        "humanPerformance": false,
+        "actualReaperOfflineExports": true,
+        "auditoryReview": false,
+        "deterministicRamSourceVerified": true
+      },
+      "creditsZh": "真实钢琴采样演奏：Moonlight-Salamander V6.2，CC BY3.0。Alexander Holm原始录音，Chisato Yamauchi／Accurate-Salamander重制，Hiroharu Narikawa等参与调律和改进。来源https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。官方sfizz产生float32演奏轨，真实REAPER7.82完成24bit母带；不是现场真人演奏，未声称整曲人工听审。",
+      "technicalCorrectionZh": "2026-10-06 技术说明更正：真实 REAPER API 核对确认，本次历史工程的音轨 D_WIDTH 为 1。旧生成器把 VOLPAN 第三个字段误称为宽度，该字段实际是 D_PANLAW（声像律）。因此历史记录中的“收窄宽度”应改为“调整声像及声像律”。原音频、乐谱和历史工程均保留；原生重开 PCM 核验仍然有效。本说明不代表人工听审，也不判定原音频质量。ReaVerbate 效果器自身的 Width 参数独立，不受此字段命名错误影响。后续生成器已用原生 API 设置并回读 D_WIDTH/D_PANLAW，保存重开测试通过。",
+      "sourcePackageRevision": "r1",
+      "acceptanceStatus": "full_listening_pending"
     }
-  ]
+  ],
+  "playableVersionCount": 55
 }

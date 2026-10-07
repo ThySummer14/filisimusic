@@ -549,6 +549,466 @@
       "path": "projects/story_055_city_whispers.zip",
       "bytes": 264589,
       "sha256": "aaf54f959152a2fb57e1e68c49f91e040753e81d968e8ac801d2b304a8d44f15"
+    },
+    {
+      "path": "audio/story_051_lantern_cartographer.mp3",
+      "bytes": 4899010,
+      "sha256": "331512ad9d273c9304b2842c509e1df3bbe49dd61545151a61920961b0ec1159"
+    },
+    {
+      "path": "projects/story_051_lantern_cartographer.zip",
+      "bytes": 273019,
+      "sha256": "9e704f6887893858bab0d49b02cf755a27b4a74d118f2b08f356ca33ed273ac8"
+    },
+    {
+      "path": "audio/story_056_observatory_boats.mp3",
+      "bytes": 6582132,
+      "sha256": "3787608573ae488e3209d7448138bce6df7c2c8d9ab42c83afe991355f7394d2"
+    },
+    {
+      "path": "projects/story_056_observatory_boats.zip",
+      "bytes": 246958,
+      "sha256": "6d1ced1cbaebd31cf6ae89ed1d33c5a4947e100facfca142ffcd2af204879a1b"
+    },
+    {
+      "path": "audio/story_057_tailor_of_rain.mp3",
+      "bytes": 6293740,
+      "sha256": "ac9dc3597ef0354b5ffa054dce5a17bf50798544c5ccd97d57e173b99663313c"
+    },
+    {
+      "path": "projects/story_057_tailor_of_rain.zip",
+      "bytes": 286452,
+      "sha256": "9add2e4b8c6ea4fdc3e35d4773583bd365189cde34b2ea2613fd25f993c1d1c6"
+    },
+    {
+      "path": "audio/story_058_unsent_apologies.mp3",
+      "bytes": 4509054,
+      "sha256": "18df49efae84dcf955551db84f5f4125388d6ab49d5a433a506a58e15ece02fe"
+    },
+    {
+      "path": "projects/story_058_unsent_apologies.zip",
+      "bytes": 274667,
+      "sha256": "dabf61c1aed7ccaa4bef827ff8ef500cac3a6c0c2f6cc5e19413e0b57579160d"
+    },
+    {
+      "path": "audio/story_059_migrating_shadows.mp3",
+      "bytes": 4625038,
+      "sha256": "77febcfb3516b312644a32c2653748f02b540e76568177ab7e7e837b2bf36615"
+    },
+    {
+      "path": "projects/story_059_migrating_shadows.zip",
+      "bytes": 289241,
+      "sha256": "7a32e8ea0fdcf095ec5c6dc43c0dd99d134e9cb885b5ff252897b7f8dafabb6e"
+    },
+    {
+      "path": "audio/story_060_baker_of_winter.mp3",
+      "bytes": 4327242,
+      "sha256": "4209e8489c7333d480e8523636d9d2f5652c6f5927100f863c82cdaca3656fb0"
+    },
+    {
+      "path": "projects/story_060_baker_of_winter.zip",
+      "bytes": 245674,
+      "sha256": "d8008818182f5b48dccef27dbaba028b68f28eb37163aacf7215e1fe1dbe07f2"
+    },
+    {
+      "path": "audio/story_061_sleeping_airship.mp3",
+      "bytes": 4341035,
+      "sha256": "44903a88db857501d143fa6f8b6c8224fb875237f486b9c5b10e3e5e7a0c15c9"
+    },
+    {
+      "path": "projects/story_061_sleeping_airship.zip",
+      "bytes": 202732,
+      "sha256": "9ecd34deee3c3ab96b41d82fe287a0ad9b4b5eb7a4b3546f7eb0aea0e6fb00e1"
+    },
+    {
+      "path": "audio/story_062_smallest_library_door.mp3",
+      "bytes": 5435252,
+      "sha256": "ae9f66a3066f207b0569c5f98e96ca6a633ffcfab9331e9efc274d542dacfd94"
+    },
+    {
+      "path": "projects/story_062_smallest_library_door.zip",
+      "bytes": 262034,
+      "sha256": "8f74b0d17038a285c199a4959627e40da3f483b5286edc742bc36d28a6f4fd9d"
+    },
+    {
+      "path": "audio/story_063_copper_birds.mp3",
+      "bytes": 4211258,
+      "sha256": "57e3a9fbc55a8e8e9ac3de2d1e5cd40f3ba5ff4aa842553a8c792119035b706d"
+    },
+    {
+      "path": "projects/story_063_copper_birds.zip",
+      "bytes": 230198,
+      "sha256": "919f8417a07cdc06bd61d6003926eb6c162fe070e05e64992047b254bf868283"
+    },
+    {
+      "path": "audio/story_064_starlit_well.mp3",
+      "bytes": 5669309,
+      "sha256": "2b3d65d750ec1995aef019db50abc306fc04d59b56d4bfbd55fcfede0a4c683a"
+    },
+    {
+      "path": "projects/story_064_starlit_well.zip",
+      "bytes": 369269,
+      "sha256": "d02b74797f05f36a5be1fd14abc0712e7ab7ff1159f6448e1b41f137cf8e8f51"
+    },
+    {
+      "path": "audio/story_065_umbrella_for_lighthouse.mp3",
+      "bytes": 4388682,
+      "sha256": "1e2049177b845caa8a438f2acf07c4768eb9e8a07dbdf7bbd5306a5fc6b30a82"
+    },
+    {
+      "path": "projects/story_065_umbrella_for_lighthouse.zip",
+      "bytes": 330440,
+      "sha256": "55bd28588ab6fe5f8c43bfe72d9a3631aa5c455d02b6e8a1ea6fe23d5ba99bac"
+    },
+    {
+      "path": "audio/story_066_forgotten_names.mp3",
+      "bytes": 5660114,
+      "sha256": "09d3065136341cf3423fb6796c8d7a751670dacbce60fc67bdd7500711cea215"
+    },
+    {
+      "path": "projects/story_066_forgotten_names.zip",
+      "bytes": 315174,
+      "sha256": "ca4b61ed1bc2c18b978760c68262483ce38ffcc2ce92e8a30722c9e933563709"
+    },
+    {
+      "path": "audio/story_067_salt_gardens_on_moon.mp3",
+      "bytes": 4677074,
+      "sha256": "c6a4417f0a1bb2680201e531fca1383bda8a8298c5ff53ba75ae471e0d70ce44"
+    },
+    {
+      "path": "projects/story_067_salt_gardens_on_moon.zip",
+      "bytes": 213837,
+      "sha256": "e5ebbdfb5b019cbe72e7d2a68fe6d25d5265afafd0d17d46d243e734390514ec"
+    },
+    {
+      "path": "audio/story_068_eclipse_canopy.mp3",
+      "bytes": 5660114,
+      "sha256": "f6d534325d6f5233db8b8a816f8f90b1c95854c307574679520cdf8abb0c6813"
+    },
+    {
+      "path": "projects/story_068_eclipse_canopy.zip",
+      "bytes": 434931,
+      "sha256": "0858f19055371cc8e93b61b49a60eabcf5cb4828b5ff0a656e2541e88dc064a3"
+    },
+    {
+      "path": "audio/story_069_tomorrows_harbor.mp3",
+      "bytes": 4249502,
+      "sha256": "1852550b645bdad780e5a8bafd502b0c0fddd992bc5bb7903f5b79e95e4dcde3"
+    },
+    {
+      "path": "projects/story_069_tomorrows_harbor.zip",
+      "bytes": 258649,
+      "sha256": "925f81ce7dd1fea9214b3dbd45adbc459f27cb72bafd63e4326ff77e6ac3d60f"
+    },
+    {
+      "path": "audio/story_070_bell_beneath_lake.mp3",
+      "bytes": 5209972,
+      "sha256": "f8097576bcf2b6ad345cda95a6015e05113074a787bbff84c6e0cfc215e17a28"
+    },
+    {
+      "path": "projects/story_070_bell_beneath_lake.zip",
+      "bytes": 205369,
+      "sha256": "95076187b8116e0d60a3ad497814616b1aa178047a5d6c25774d8494b0832b8b"
+    },
+    {
+      "path": "audio/story_071_unwalked_roads.mp3",
+      "bytes": 4205616,
+      "sha256": "427fb825f2eff3176a40ba6c0e6ea564f0a7392493a2c20773dc0f7c36e8afc6"
+    },
+    {
+      "path": "projects/story_071_unwalked_roads.zip",
+      "bytes": 221248,
+      "sha256": "6909fb7f2d7b7608e8203e27f2e11686079fee67dc21cd63f70c6cdef9a64350"
+    },
+    {
+      "path": "audio/story_072_wind_keys.mp3",
+      "bytes": 4191823,
+      "sha256": "8a85132cd0220b8923472cb166fcaa851f256cbfa144acdda798a3e64a73d5db"
+    },
+    {
+      "path": "projects/story_072_wind_keys.zip",
+      "bytes": 569460,
+      "sha256": "72d13ef711f368bc4000f9f1d669ba142bf2981c3f4c5cf62ce1a6a873d78254"
+    },
+    {
+      "path": "audio/story_073_footstep_island.mp3",
+      "bytes": 4338527,
+      "sha256": "cc4da6608db0b5fe3538a7a19cc332b6f8785f578aee9c0254c4659a4d030747"
+    },
+    {
+      "path": "projects/story_073_footstep_island.zip",
+      "bytes": 478014,
+      "sha256": "64ef51e0455de5da94f091755c5baa33a65d8f4c97a108acde3b60f6964bbcad"
+    },
+    {
+      "path": "audio/story_074_glassblower_sun.mp3",
+      "bytes": 4561717,
+      "sha256": "76390494267472dd88d820cdcc96557ea192c799f23eb740294d05d965333e03"
+    },
+    {
+      "path": "projects/story_074_glassblower_sun.zip",
+      "bytes": 244808,
+      "sha256": "c72eff907dec5ae4f5e5985bc9fb9b0f025cd401d50e86b961beade3c0cbe055"
+    },
+    {
+      "path": "audio/story_075_unlisted_station.mp3",
+      "bytes": 4875813,
+      "sha256": "08d316e799deac3b22024227ff67b8d4d29982c13ba030a643c78d2ac4a962fe"
+    },
+    {
+      "path": "projects/story_075_unlisted_station.zip",
+      "bytes": 310799,
+      "sha256": "9126fe6f3e418467bfde27fa660174510f72afefea6d86e9b627d2b9f6e6da41"
+    },
+    {
+      "path": "audio/story_076_empty_chair.mp3",
+      "bytes": 4199347,
+      "sha256": "86c482cda2deb7f1f36159fbca37c33474d802d7b9008163e88f0515c565f967"
+    },
+    {
+      "path": "projects/story_076_empty_chair.zip",
+      "bytes": 411099,
+      "sha256": "7cb05e291d74834058dd1571dc5a57c3483ccd47387ee11369586eefe6c6bd6c"
+    },
+    {
+      "path": "audio/story_077_river_alphabet.mp3",
+      "bytes": 4525982,
+      "sha256": "34288942f71e25646a90671750d0ec6d7beecce6ceb7c967261e1e3886e0f97a"
+    },
+    {
+      "path": "projects/story_077_river_alphabet.zip",
+      "bytes": 369048,
+      "sha256": "f350c631ea9419a6149fd179c83684ce37fa5e063ee91a0bcf5b6c4dd5cd4103"
+    },
+    {
+      "path": "audio/story_078_deep_orchard.mp3",
+      "bytes": 4821897,
+      "sha256": "de694b9f9640056aa0850a2e2b45bee3add51cba017150b90e8817787d0a6bfa"
+    },
+    {
+      "path": "projects/story_078_deep_orchard.zip",
+      "bytes": 338798,
+      "sha256": "79a5ace048904ad45e0be3cc2b502f35fa03c088da88d133427a6a70c5e9fa30"
+    },
+    {
+      "path": "audio/story_079_watchmaker_hour.mp3",
+      "bytes": 4442599,
+      "sha256": "d6a7196e8fd2290e116e6ad835757df08acdd49d5d0d31ddbabc7173f14d7c90"
+    },
+    {
+      "path": "projects/story_079_watchmaker_hour.zip",
+      "bytes": 466068,
+      "sha256": "7cba62189be8e6c83ffcb05f2d07495b16511f3c8d664b9def9a91b8be1caa1e"
+    },
+    {
+      "path": "audio/story_080_quarry_kites.mp3",
+      "bytes": 5031294,
+      "sha256": "b70977cee7a4d09b6447710905c0dec6d5d5d684487a94e384798bfc327cea4d"
+    },
+    {
+      "path": "projects/story_080_quarry_kites.zip",
+      "bytes": 711429,
+      "sha256": "e1f409e712771648bdcae40c69edcaf0d05b04f5cff6dd6de75d3f86232f4204"
+    },
+    {
+      "path": "audio/story_081_folded_wings.mp3",
+      "bytes": 4888352,
+      "sha256": "2db17fd703affc2cc4cd538375384dee9601e027feab389a67fd2be09e9385fa"
+    },
+    {
+      "path": "projects/story_081_folded_wings.zip",
+      "bytes": 363748,
+      "sha256": "c9cb318b1bd2d3a54782cc16010ca6c3c82baca7dbd2e01b54d8b59c353b2897"
+    },
+    {
+      "path": "audio/story_082_rain_door.mp3",
+      "bytes": 4846347,
+      "sha256": "01c27cc4d7e2449780544aee84cb2e8184f0d37aa62e1e7c1a10e6bd5fdcafab"
+    },
+    {
+      "path": "projects/story_082_rain_door.zip",
+      "bytes": 286808,
+      "sha256": "88c9ae02561a29b4caafbbd3f70af7f6237cc2a96badb7c217b5bca6b8f67539"
+    },
+    {
+      "path": "audio/story_083_astronomer_spoon.mp3",
+      "bytes": 4813747,
+      "sha256": "f63a0149090f76efb1fedc3cd00774753f454692cba1373a9bd38b0093e0fcfc"
+    },
+    {
+      "path": "projects/story_083_astronomer_spoon.zip",
+      "bytes": 443315,
+      "sha256": "dac9e0148fab6ebcf9400d6032d616e9b7bc2ee90ac67de777545edbb1b6756f"
+    },
+    {
+      "path": "audio/story_084_summer_theater.mp3",
+      "bytes": 4818762,
+      "sha256": "8cc0e795f99c30024c0930499c7da35a751e93934b7104d2bb0e2612aa0d248a"
+    },
+    {
+      "path": "projects/story_084_summer_theater.zip",
+      "bytes": 317849,
+      "sha256": "88a40b2dffa1b2c976c08c6874dccd2373738b737b814215bf7603f75ffb0d1d"
+    },
+    {
+      "path": "audio/story_085_spare_horizon.mp3",
+      "bytes": 5027533,
+      "sha256": "7dfa8fee792a6a86d6435f0e4adfa33d25bd6c6f7c430c0f845dfd2ecbf74e5b"
+    },
+    {
+      "path": "projects/story_085_spare_horizon.zip",
+      "bytes": 612313,
+      "sha256": "9c7460a921e9864762f19ea458c6ae248a1709b9b36d5b36126cf4e518fb88b3"
+    },
+    {
+      "path": "audio/story_086_compass_caravan.mp3",
+      "bytes": 4609991,
+      "sha256": "dc7d3185d1710d03ab38af01117de5492d29ccde5b01c1036205a467ca92daff"
+    },
+    {
+      "path": "projects/story_086_compass_caravan.zip",
+      "bytes": 474950,
+      "sha256": "8be7d0bcc2073652ba39ee24bd39f61005ba3f60249cae03dc2f370bb8848510"
+    },
+    {
+      "path": "audio/story_087_rooftop_tide.mp3",
+      "bytes": 4739141,
+      "sha256": "0365c0c4de99aec03422670973ed32e84c737daa92623bc55e2baf70bf109f83"
+    },
+    {
+      "path": "projects/story_087_rooftop_tide.zip",
+      "bytes": 627222,
+      "sha256": "642186c374eeeb3991e349048cf0b9e904a00af5204fe5c314e1a35a5f595e35"
+    },
+    {
+      "path": "audio/story_088_thunder_archivist.mp3",
+      "bytes": 4921580,
+      "sha256": "494047ee0c59791a0f893dfd9524310a2b1b5b55a9f6589da015ebc5eac9dfeb"
+    },
+    {
+      "path": "projects/story_088_thunder_archivist.zip",
+      "bytes": 947056,
+      "sha256": "ac43adae9864dd160a2058666083197336c09cfe86add9a2f43282585a2f8efd"
+    },
+    {
+      "path": "audio/story_089_autumn_sea_stairs.mp3",
+      "bytes": 4883964,
+      "sha256": "457e6eff32d7b19527f696a4abeb824760065d716ce0ffc576f664f799610c8c"
+    },
+    {
+      "path": "projects/story_089_autumn_sea_stairs.zip",
+      "bytes": 528264,
+      "sha256": "b7c6797f411ff28567072bc017cb99fabd68e371f8a8090662a0a8bdb316ab97"
+    },
+    {
+      "path": "audio/story_090_moon_luggage.mp3",
+      "bytes": 4757949,
+      "sha256": "c3384e17302feefa4b55e44de72ebef5c23fce97a038434ee597eaacf667f909"
+    },
+    {
+      "path": "projects/story_090_moon_luggage.zip",
+      "bytes": 864315,
+      "sha256": "f38d6f2a7dd21fcbd83b3f3ff8c0fd9bf1136bb2185cf85c256bec91754a7889"
+    },
+    {
+      "path": "audio/story_091_empty_windows.mp3",
+      "bytes": 4906533,
+      "sha256": "351b596bca25737e0e130830c916548ae6771e302a0a759cbda20aaddc97e9db"
+    },
+    {
+      "path": "projects/story_091_empty_windows.zip",
+      "bytes": 573633,
+      "sha256": "f90d02c1126a7af1ec54dac711b69d543f223dbd2a2ec2149b2306a0a432ac84"
+    },
+    {
+      "path": "audio/story_092_map_sail.mp3",
+      "bytes": 4979885,
+      "sha256": "7e68884c717ca0cf2ace9e9c64311108bb1a962698bc833e3a030d99c6a317ed"
+    },
+    {
+      "path": "projects/story_092_map_sail.zip",
+      "bytes": 1307208,
+      "sha256": "393b0bb27ead46cb80b24415bd0d49ff0276707e21eaf06b30dc763b2a634069"
+    },
+    {
+      "path": "audio/story_093_orchard_telephone.mp3",
+      "bytes": 4900264,
+      "sha256": "eac7a7ac5708072a46f55212c83c27731d9a6e633277c98623c384961be933c2"
+    },
+    {
+      "path": "projects/story_093_orchard_telephone.zip",
+      "bytes": 600566,
+      "sha256": "e0fa12d3066aa5b128185b3e5825482f5c3d1a9b3d55b1972b437c5fc757193a"
+    },
+    {
+      "path": "audio/story_094_paper_kite.mp3",
+      "bytes": 4639458,
+      "sha256": "6431e319b53ac960b7235eac6df80396322a5c48c51029d6bc8ca4f03bdbeb23"
+    },
+    {
+      "path": "projects/story_094_paper_kite.zip",
+      "bytes": 1347036,
+      "sha256": "fe74381a23dbf57294d9769a0bbea67c64a3f24abe5af7d4a5698d91e4fd0e83"
+    },
+    {
+      "path": "audio/story_095_aquarium_bench.mp3",
+      "bytes": 4897129,
+      "sha256": "b5287535680f961672e15e8df5f33f262a6af64fc9f9a96a579a582dcafc9b69"
+    },
+    {
+      "path": "projects/story_095_aquarium_bench.zip",
+      "bytes": 854899,
+      "sha256": "d2ee65825d03e28867a8f07198bf16184e7646e8245cdfad73849eb8f84d7ab9"
+    },
+    {
+      "path": "audio/story_096_clarinet_paper_moon.mp3",
+      "bytes": 5048222,
+      "sha256": "f1ad5a5a237cf0e23eb7958385f68cd10767583506f621c1b25590dbdcb27dba"
+    },
+    {
+      "path": "projects/story_096_clarinet_paper_moon.zip",
+      "bytes": 819778,
+      "sha256": "1392ff7e7af19dbe8e19b590c79b96f5554ab20abaa0abdc2fdb57fd9bc29c15"
+    },
+    {
+      "path": "audio/story_097_tunnel_lantern.mp3",
+      "bytes": 4993678,
+      "sha256": "dd761a09753ca10c61bb3d3ebb74c8c0f9f56ca0aa724d14e41dac568fb92583"
+    },
+    {
+      "path": "projects/story_097_tunnel_lantern.zip",
+      "bytes": 846192,
+      "sha256": "1283a7f86003478c40a72b24460393ec968e554d8d4f521ff1b81414851a1b27"
+    },
+    {
+      "path": "audio/story_098_north_wind_garden.mp3",
+      "bytes": 5126589,
+      "sha256": "2ad4b177d2adeb6f5ebb0675eb1da4be678b89f3ba32af760d20d8a3f60d618c"
+    },
+    {
+      "path": "projects/story_098_north_wind_garden.zip",
+      "bytes": 1068486,
+      "sha256": "14303103c459d3a8a2235e0fa113b1649fe7eeeb31bd2cbd72972a0d9a9fa15d"
+    },
+    {
+      "path": "audio/story_099_unfinished_boat.mp3",
+      "bytes": 4803089,
+      "sha256": "b1226abb1e566516bd499f2c5fbe353178a048ebc42368bd2860364a7da7e8de"
+    },
+    {
+      "path": "projects/story_099_unfinished_boat.zip",
+      "bytes": 856003,
+      "sha256": "2cd3e068287085b4ea612ac78867e28e6d3299a717c7ebf60b79ac0a32147d77"
+    },
+    {
+      "path": "audio/story_100_fifty_windows.mp3",
+      "bytes": 5843180,
+      "sha256": "00a00f1c8dc19bfc89952c9a8c60f1552b8a751b2befd4257ac357a298cdf5cf"
+    },
+    {
+      "path": "projects/story_100_fifty_windows.zip",
+      "bytes": 973829,
+      "sha256": "54cee044301d714f95f42c5b396a7f5df8746da326f4c0e29a955cf27459823f"
     }
   ]
 }

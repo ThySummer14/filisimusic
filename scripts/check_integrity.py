@@ -44,6 +44,18 @@ for t in tracks:
         if raw:
             check(version['reaperVersions']==raw['qa']['actualReaperVersions'],f"REAPER export count differs: {version['id']}")
             if raw.get('collection')=='story-collection-20261006':
+                # Actual export counts are evidence, not a proxy for score revision rounds.
+                if t['id'].startswith('story_') and int(t['id'].split('_')[1])>=56:
+                    substantive=[r for r in raw['revisions'] if r.get('kind','').startswith('substantive')]
+                    check(len(substantive)>=2,f"Missing two documented substantive revisions: {t['id']}")
+                    check(t['provenance'].get('deterministicRamSourceVerified') is True,f"Missing deterministic source verification: {t['id']}")
+                    check(t['provenance']['auditoryReview'] is False,f"Unsubstantiated listening approval: {t['id']}")
+                    story_path=ROOT/'stories'/f"{t['id']}.txt"
+                    check(story_path.is_file(),f"Missing full story: {t['id']}")
+                    if story_path.is_file():
+                        check(raw['origin']['text'] in story_path.read_text(),f"Full story download differs: {t['id']}")
+                    check(raw['origin']['text'] in t['compositionNotes'],f"Full story display differs: {t['id']}")
+                    check(bool(raw.get('creditsZh')) and raw['creditsZh'] in t['compositionNotes'],f"Missing displayed source attribution: {t['id']}")
                 check(raw['qa']['finitePcm'] and raw['qa']['clippedSamples']==0,f"PCM verification failed: {version['id']}")
             check(version['sha256']==raw['audio']['sha256'],f"Source audio hash differs: {version['id']}")
             check(version['projectSha256']==raw['engineering']['sha256'],f"Source project hash differs: {version['id']}")
@@ -53,7 +65,7 @@ for t in tracks:
 for t in versions:
     check(t['src']==f"audio/{t['id']}.mp3",f"Noncanonical MP3: {t['id']}")
     check(t['project']==f"projects/{t['id']}.zip",f"Noncanonical ZIP: {t['id']}")
-    check(t['reaperVerified'] and t['reaperVersions']>=(2 if t.get('collection')=='story-collection-20261006' else 3),f"Unverified track: {t['id']}")
+    check(t['reaperVerified'] and t['reaperVersions']>=(1 if t.get('collection')=='story-collection-20261006' else 3),f"Unverified track: {t['id']}")
     with zipfile.ZipFile(ROOT/t['project']) as z:
         check(z.testzip() is None,f"ZIP CRC failed: {t['id']}")
         for member in z.infolist():

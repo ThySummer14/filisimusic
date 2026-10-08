@@ -1,0 +1,34 @@
+{
+  "scope": "Read the retained source-bank license and provenance documents before preparing publication. This records their stated license/permission and package boundaries.",
+  "source_document_sha256": {
+    "MoonlightSalamanderV6.2/README.txt": "927e5b73f0260d6204b292e0ab8f271ce40b9912e10deb7fc3ca121270e5a753",
+    "MoonlightSalamanderV6.2/README.orig.txt": "0a452c83ef9f5e2ad778e12a2d477e705d56b5119138598ce874c5f17989c364",
+    "iowa_clarinet_C4_B4/README.txt": "746f4177977745a8625584927a4f97f3ff1cedeeea6d1b0b7bdd7841771631b9",
+    "iowa_clarinet_C4_B4/provenance.json": "611ee6d34fa40263838940771a3656cfc8e4acacb955eb97b381db2bb63fb84d",
+    "iowa_flute_C5_B5/SOURCE_LICENSE.txt": "e64d5197fc4d4113e8f2e56159e46158843ccd8ec97378c34ede091bc14d28b3",
+    "iowa_cello_arco_D3_B3/SOURCE_LICENSE.txt": "0ae8890225edc1165fad5c8fb15940c7ddcb6c63bc73cc565f621feb68fb90ec",
+    "iowa_cello_pizz_C2_B2/provenance.json": "cc43f7ac7c8c1d4e2bfe8b91feaadb3591a27088ab7cf31a0d6911f95f8117cd"
+  },
+  "piano": {
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "credit": "Alexander Holm; Chisato Yamauchi / Accurate-Salamander Project; Hiroharu Narikawa retuning; additional contributors acknowledged in original README.",
+    "source_url": "https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/",
+    "changes": "Original Moonlight V6.2 samples used by the sampled performance. Original mapping retained; derived RAM region selection and, where needed, disjoint-key routing are documented per work."
+  },
+  "iowa": {
+    "permission_url": "https://theremin.music.uiowa.edu/MIS.html",
+    "permission_description": "Official recordings permitted for projects without restrictions, as stated by the institution. Not relabeled CC0 or public domain.",
+    "credits": [
+      "University of Iowa Electronic Music Studios / Musical Instrument Samples, Lawrence Fritts",
+      "Clarinet: Christine Bellomy; John Ritz and Eric Durian recording technicians",
+      "Flute: Sonja Feig; John Ritz and Michael Cash recording technicians",
+      "Cello: Jean Montes; Michael Cash and Andrew Stuck-Marcell recording technicians"
+    ],
+    "changes": "Derived per-note crop and tuning mappings retained with provenance. Flute/arco recording onset compensation applied exactly once in derived sampler input; musical nominal scores retained."
+  },
+  "release_contents": "Original complete musical performances, editable nominal scores/MIDI, REAPER audio projects, generation/verification scripts and credit records. Full instrument soundbanks and third-party software binaries are excluded.",
+  "authorship_label": "Original AI-assisted compositions and fictional stories; acoustic instrument samples, not live human performances.",
+  "listening_label": "Technical exports, source integrity, score review and portable PCM equivalence verified; complete subjective listening review not performed.",
+  "publication_status": "Prepared for the existing music library after all50 technical deliveries are complete; preparing these records does not publish them."
+}

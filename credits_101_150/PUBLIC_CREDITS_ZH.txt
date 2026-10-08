@@ -1,0 +1,9 @@
+音源与作品说明
+
+本批为原创AI辅助作曲与虚构故事，使用真实原声乐器采样；不是现场真人演奏。已完成谱面与技术交付核验，未完成全曲主观听审。
+
+钢琴：Moonlight-Salamander V6.2，原始录音 Alexander Holm，Accurate-Salamander 重制 Chisato Yamauchi，调律 Hiroharu Narikawa；其他贡献者见原README。CC BY3.0：https://creativecommons.org/licenses/by/3.0/ 。来源：https://www.ir.isas.jaxa.jp/~cyamauch/AccurateSalamander/ 。RAM区域选择及必要的键域路由改动保留在工程审计中。
+
+木管与大提琴：University of Iowa Electronic Music Studios / Musical Instrument Samples，Lawrence Fritts。单簧管 Christine Bellomy，录音 John Ritz、Eric Durian；长笛 Sonja Feig，录音 John Ritz、Michael Cash；大提琴 Jean Montes，录音 Michael Cash、Andrew Stuck-Marcell。机构许可页 https://theremin.music.uiowa.edu/MIS.html 允许这些录音用于项目，没有把该许可改称CC0或公有领域。裁切、校音和采样起音修正记录随工程保留，不声称真实连奏或新增录制层。
+
+下载包含作品音频和工程源码；完整外部音库与软件二进制另行取得。
